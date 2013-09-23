@@ -1,0 +1,381 @@
+{
+    "timeline":
+    {
+        "headline":"20 Years <span class='subhead'>The Story of Hugh and Brian</span>",
+        "type":"default",
+        "startDate":"11/12/1993",
+        "text":"<i><span class='c1'>Rendered</span> in <span class='c2'>Code</span></i>",
+        "asset":
+        {
+            "media":"http://localhost/~brian.rountree/anniversary/images/timeline/nc1.jpg",
+            "credit":"",
+            "caption":"nobody knew this casual snapshot captures the first moments of a lifelong love"
+        },
+        "date": [
+            {
+                "startDate":"1993,11,13",
+                "headline":"Where it all began",
+                "text":"Omni Hotel, Raliegh North Carolina",
+                "asset":
+                {
+                    "media":"https://maps.google.com/maps?q=132+East+Trade+Street+Charlotte,+NC+28202&hl=en&ll=35.22627,-80.842574&spn=0.011201,0.016415&sll=35.22627,-80.842552&sspn=0.011201,0.016415&hnear=132+E+Trade+St,+Charlotte,+North+Carolina+28202&t=m&z=16",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1997,2,7",
+                "headline":"Words To Live By",
+                "text":"",
+                "asset":
+                {
+                    "media":"<blockquote>“We choose to be together. There is no authority for our being together except us.”</blockquote>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,8,23",
+                "headline":"Ummmm, wtf?",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/thepixelarchitect/3853235015/in/photostream/",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010,3,19",
+                "headline":"Holi at Yahoo!",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/thepixelarchitect/4457272197/in/photostream/",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,7,14",
+                "headline":"Chico and Poppa!",
+                "text":"Family Photo Day in Mountain View",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/thepixelarchitect/3628783769/in/photostream/",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2008,12,7",
+                "headline":"Fun and Frivolity at Yahoo!",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/thepixelarchitect/3089233168/in/photostream/",
+                    "credit":"Dave Beckett",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"2011,9,24",
+                "headline":"Life Is Too Short to Drink Bad Wine",
+                "text":"Mondavi, Private Reserve",
+                "asset":
+                 {
+                     "media":"http://www.flickr.com/photos/hdonagher/6200045283/in/photostream/",
+                     "credit":"Hugh Donagher",
+                     "caption":""
+                 }
+            },
+            {
+                "startDate":"2002,12,10",
+                "headline":"20 Years in, and We Still Get Political",
+                "asset":
+                {
+                    "media":"https://twitter.com/pixelarchitect/status/350452465897967616",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate": "12/20/1993",
+                "headline": "Christmas in California",
+                "text": "that December, Brian made his first ever trip to California where he and Hugh spent precious face to face time with each other. Will this work? Was it a good idea?",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sd1.jpg",
+                    "credit":"",
+                    "caption":"early in the days of sunny san diego"
+                }
+            },
+            {
+                "startDate":"7/3/1994",
+                "headline":"Sunny San Diego",
+                "text":"At the time, San Diego was beautiful, inexpensive and a great deal of fun",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sd1.jpg",
+                    "credit":"",
+                    "caption":"early in the days of sunny san diego"
+                }
+            },
+            {
+                "startDate":"4/5/1995",
+                "headline":"Life in the sun",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sd2.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"12/1/1995",
+                "headline":"Visiting the family in CT",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/ct1.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"7/3/1996",
+                "headline":"The Wedding of the century",
+                "text": "",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sd3.jpg",
+                    "credit":"",
+                    "caption":"awwwwwwwwwwwww"
+                }
+            },
+            {
+                "startDate":"12/3/1996",
+                "headline":"Christmas in Southern California",
+                "text":"text goes here",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sd4.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"12/3/2000",
+                "headline":"",
+                "text": "",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sd5.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1/2/2005",
+                "headline":"The move north. silicon valley",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/mv2.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"3/7/2007",
+                "headline":"The love of wine is born",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/mv1.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1/29/2008",
+                "headline":"Birthdays and other fun",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/mv3.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1/5/2011",
+                "headline":"Deep in the heart of Texas",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sat2.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1/5/2011",
+                "headline":"lions",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sat1.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2/13/2012",
+                "headline":"HSan Antonio Food Scene",
+                "text":"best dog ever 2",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/chico1.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"4/13/2012",
+                "headline":"Event",
+                "text":"best dog ever 2",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/transitions-gallows.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"10/30/2011",
+                "headline":"Deep in the heart of Texas",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sat3.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"9/30/2011",
+                "headline":"Skinny Minny",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sat4.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1/3/2012",
+                "headline":"Welcoming Chico",
+                "text":"best dog ever 2",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/chico1.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2/13/2012",
+                "headline":"Welcoming Chico",
+                "text":"best dog ever 2",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/chico2.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1/3/2012",
+                "headline":"the year of skinny",
+                "text": "",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sat5.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"4/17/2012",
+                "headline":"Cornyation",
+                "text": "",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sat5.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1/29/2013",
+                "headline":"Fort Meyers",
+                "text": "",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/fm1.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"3/5/2013",
+                "headline":"love you",
+                "text": "",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/wrap-up.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"5/5/2013",
+                "headline":"love you",
+                "text": "",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/hugh_69.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"7/1/2013",
+                "headline":"",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/hjd-btr2.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"7/1/2013",
+                "headline":"",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/hjd-btr2.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
