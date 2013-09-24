@@ -31,7 +31,7 @@ a:hover {color: rgba(226, 148, 20, 0.86);text-decoration: underline;}
 
 body {
 	background-color: #2f2f2f;
-	font-size:13px;
+	font-size:0.875em;
 	font-family: 'Raleway', sans-serif;
 	color: #d2ddda;
     line-height: 1;
@@ -69,11 +69,7 @@ body {
 }
 
 
-
-
-.general_color,  {
-	color: #734BA9;
-}
+/*#current_menu_item a {color:#00ccaa;}*/
 
 .general_border {
 	border-color: #734BA9;
@@ -92,12 +88,26 @@ body {
 section, .section {margin-bottom: 30px;}
 #chico {margin-bottom: 20px;}
 
-h1 {font-size: 44px;}
-h2 {font-size: 28px;margin:1em 0 0.2em 0;}
-h3 {font-size: 26px;}
-h4 {font-size: 20px;}
-h5 {font-size: 16px;}
-h6 {font-size:14px;}
+h1 {font-size: 3.5rem;}
+h2 {font-size: 3.1rem;margin:1.4em 0 0.3em 0;}
+h3 {font-size: 2.5rem;}
+h4 {font-size: 1.75rem;}
+h5 {font-size: 1.5rem;}
+h6 {font-size:1.35rem;}
+
+h2 span  {
+    display: block;
+    color: #734BA9;
+    text-transform: lowercase;
+    font-size:85%;
+}
+
+p {
+    font-size:1.35rem;
+    margin: 0 auto;
+    padding:0 3%;
+    line-height: 1.9rem;
+}
 
 #backtop {
 	width: 40px;
@@ -171,7 +181,7 @@ header h1 {
     text-align: center;
     color: rgba(1, 1, 1, 0.90);
 	margin-top: 135px;
-	font-size: 185px;
+	font-size: 7rem;
     font-weight: 500;
     text-transform:uppercase;
     letter-spacing: 2px;
@@ -181,14 +191,13 @@ header h1 {
         0px 3px 0px #333,
         0px 4px 3px #444;
 }
-h1 span {letter-spacing: -1px;font-size: 190px;}
+h1 span {letter-spacing: -1px;font-size: 6.5rem;}
 h1 small {
     display:block;
-    font-size:92px;
+    font-size:5.1rem;
 }
 header h2 {
     font-family: 'Raleway', sans-serif;
-    font-size:54px;
     text-align: center;
     letter-spacing: -2px;
     font-weight: 700;
@@ -221,7 +230,6 @@ header h2 {
     background:rgba(1,1,1,0.23);
   display: block;
   margin: auto;
-    font-size:36px;
     line-height: 32px;
   text-decoration: none;
   width: 80px;
@@ -281,7 +289,6 @@ nav ul li a {
 	text-decoration:none;
 	font-family: 'ABeeZee', sans-serif;
     color: rgba(244, 255, 252, 0.85);
-	font-size:14px;
 	position: relative;
 	top: 1px;
     opacity:0.75;
@@ -454,112 +461,7 @@ nav ul li a:hover{
 	margin: 20px auto 10px;
 }
 
-/*======== NEWS ===============*/
 
-#news {
-	background-color: #1D1D33;
-	padding-bottom: 20px;
-	color: #fff
-}
-
-#news .blog-text {
-	text-align: center;
-	margin-bottom: 30px;
-}
-
-.news-content {
-	background-color: #fff;
-	padding:  15px 25px 25px 25px;
-	font-size: 16px;
-}
-
-.news-content h1 a, .news-content h2 a, .news-content h3 a, .news-content h4 a, .news-content h5 a, .news-content h6 a {
-	color: #515A5F;
-} 
-
-.news-content, .news footer {
-	color: #848484;
-}
-
-.news-content p {
-	font-family: arial;
-}
-
-.news footer {
-	font-size: 14px;
-	margin-top: -10px;
-}
-
-.news-thumb {
-	position: relative;
-	display: block;
-	text-align: center;
-	background-color: #fff;
-}
-
-.news-thumb img {
-	width: 100%;
-	position: relative;
-}
-
-
-
-.news-icon-thumb span {
-	position: relative;
-	left: 1px;
-}
-
-.news-content h1, .news-content h2, .news-content h3, .news-content h4, .news-content h5, .news-content h6 {
-	color: #515A5F;
-	margin: -6px 0 5px;
-}
-
-.news footer > div:first-child {
-	background-color: #fff;
-	padding: 5px 25px 14px 25px;
-}
-
-.news footer > div:first-child > div {
-	padding-top: 15px;
-}
-
-.news-border {
-	border-top: 1px dashed #dedede;
-}
-
-.info-about-news {
-	float: left;
-}
-
-.footer-plus-news {
-	float: right;
-}
-
-.news-plus {
-	width: 23px;
-	color: #fff;
-	height: 23px;
-	line-height: 24px;
-	font-size: 14px;
-	text-align: center;
-	cursor: pointer;
-	display: block;
-}
-
-.news-plus i {
-	position: relative;
-	left: 1px;
-}
-
-.news footer span {
-	margin-right: 10px;
-	text-transform: uppercase;
-	font-size: 13px;
-}
-
-.news footer .info-about-news i {
-	margin-right: 10px;
-}
 
 
 
@@ -592,13 +494,6 @@ nav ul li a:hover{
 }
 
 
-.column {
-	color: #848484;
-	font-family: arial;
-	font-size: 14px;
-}
-
-
 /*======== FOOTER ===============*/
 
 #footer {
@@ -625,17 +520,10 @@ span.general_color {display: block;}
     -o-transition: all 0.45s linear;
     transition: all 0.45s linear;
 }
+
 .place:hover .tip {
     opacity:1;
 }
-
-p {
-    margin: 0 0 1.5em;
-    line-height: 1.55;
-    font-size: 1.4em;
-    padding:1em 1em 0 1em;
-}
-
 
 
 .divorcebg {fill:none;}
@@ -686,7 +574,7 @@ p {
 .g-graphic {
     position: relative;
     font-family: "nyt-franklin-1", sans-serif;
-    font-size: 11px;
+    /*font-size: 11px;*/
     font-weight: 500;
     height: 800px;
 }
@@ -736,7 +624,7 @@ p {
 }
 
 .g-note {
-    font-size: 13px;
+    /*font-size: 13px;*/
     line-height: 16px;
     position: absolute;
     width: 190px;
@@ -783,7 +671,7 @@ p {
 }
 
 .g-person-labels {
-    font-size: 14px;
+    /*font-size: 14px;*/
     font-weight: 700;
     display: none;
 }
@@ -795,7 +683,7 @@ p {
 
 .g-movie-labels .g-current-best-picture-nomination {
     fill: #000;
-    font-size: 12px;
+    /*font-size: 12px;*/
     font-weight: 700;
 }
 
@@ -863,7 +751,7 @@ p {
 }
 
 .time-machine {
-    background: url('http://localhost/~brian.rountree/anniversary/images/hjd-time-machine-anim.gif') no-repeat top center;
+    background: url('../images/hjd-time-machine-anim.gif') no-repeat top center;
     width: 790px;
     height: 379px;
     z-index: 2;
@@ -871,7 +759,7 @@ p {
 }
 
 .young-hugh {
-    background: url('http://localhost/~brian.rountree/anniversary/svg/small-hugh-young.svg') no-repeat center;
+    background: url('../svg/small-hugh-young.svg') no-repeat center;
     width: 71px;
     height: 98px;
     position: absolute;
@@ -883,7 +771,7 @@ p {
 }
 
 .young-brian {
-    background: url('http://localhost/~brian.rountree/anniversary/svg/small-brian-young.svg') no-repeat center;
+    background: url('../svg/small-brian-young.svg') no-repeat center;
     width: 71px;
     height: 98px;
     position: absolute;
@@ -1038,7 +926,7 @@ p {
 }
 
 .couple {
-    background: url('http://localhost/~brian.rountree/anniversary/images/couple-anim.png') no-repeat top center;
+    background: url('../images/couple-anim.png') no-repeat top center;
     opacity: 0;
     width: 150px;
     height: 113px;

@@ -17,807 +17,354 @@
 
     <!-- MAKE THEME STYLESHEETS -->
     <link rel="stylesheet" href="css/style-standards.css" type="text/css">
-
-
     <script src="js/jquery.min.js"></script>
     <script src="js/scripts.js"></script>
-
-
 </head>
 <body>
-
-
 <div id="anniversary" style="opacity: 0">
 
-<!-- HEADER -->
-<header id="home" class="home_parallax slide-menu">
-
-
-    <h1><span>20</span> years
-        <small>in code</small>
-    </h1>
-
-
-    <h2>a relationship rendered in html, css, javascript and svg</h2>
-
-    <div class="home_bottom_arrow">
-        <a href="index.html#main_menu">go!</a>
-    </div>
-
-
-</header>
-<!-- MAIN MENU -->
-<nav id="main_menu" class="general_bg sticky-menu">
-
-
-    <div class="logo">
-        <a href="index.html">
-            20 years in code
-        </a>
-    </div>
-
-
-    <ul class="scrolling-links">
-        <li><a href="#home">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#places-lived">Places</a></li>
-        <li><a href="#connections">Connections</a></li>
-        <li><a href="#charts">Data</a></li>
-        <li><a href="#hugh-sec">Hugh</a></li>
-        <li><a href="#infographic">Infographic</a></li>
-
-    </ul>
-
-
-    <div class="clearfix"></div>
-
-</nav>
-
-
-<!-- ABOUT SECTION -->
-<section id="about">
-
-    <h2 class="text_Q">
-        A Relationship Rendered in Code?
-        <span class="general_color">who does that?</span>
-    </h2>
-
-
-    <p>Well, I do. I am Brian Rountree and for the past 20 years I have shared my life, my
-        love, my fear, my hope and my dreams with Hugh Donagher; the best thing that ever has or will happen to me.
-        But I am not very good with the emotional sides of the relationship equation. I never have
-        been. In the first 10 years of our marriage, I forgot 25% of Hugh's birthdays and around 20%
-        of our anniversaries.</p>
-
-    <p>It is not that I don't love Hugh, I do, very much so. But I am simply not wired in a
-        way that can frame, think about, and express all of the soft and fuzzy parts of the human
-        condition. My general lack of talent with the emotive aspects of life used to bother me a great
-        deal. I married the man of my dreams, a man I will gladly, happily spend the rest of my life with,
-        why couldn't I remember his birthday? Why did I never think of buying flowers for no reason
-        whatsoever? This used to weigh heavily on me.</p>
-
-    <h2>But something happened along the way.</h2>
-
-
-    <h2>We kept going.</h2>
-
-    <p>Year after year. Decade after decade at this point! Our relationship survives because
-        we choose for it to survive. We work, together, to face whatever this crazy world throws at us.
-        And somewhere along the way, Hugh and I figured a few things out. You are what you are. It
-        is that simple, yet so few people in the world truly understand what that means.</p>
-
-
-    <p>I will never be the man that remembers important dates, surprises Hugh with flowers,
-        or notices the subtle hints about what Hugh may want for Christmas; but Hugh still loves me. I
-        am, as we enter our third decade together, at peace with who I am and confident in my relationship. I don't have to be
-        perfect, I just have to be Brian.</p>
-
-    <p>For this, I owe Hugh a lifetime of thanks.</p>
-
-    <h2>So What are You Good At?</h2>
-
-    <p>Well, I am not bad code.</p>
-
-    <p>So I figure, a genuine effort to show Hugh how much I care for him, expressed through
-        something I am good at, is far more likely to convey my feelings than struggling to come up
-        with a grand romantic gesture.
-        So I busted out my development environment, polished up my illustrator skills and started
-        parsing data. This site is built using HTML5, javascript, SVG. The graphs and visualizations
-        are created with D3.</p>
-
-    <p>I have made no effort whatsoever to make this site cross browser, as Hugh only uses
-        two browsers on his mac that I am aware of. If you are viewing this site using a less capable
-        browser, your experience may be less than ideal. I am fine with that, as this site, ultimately is for the two of us.</p>
-
-
-</section>
-
-
-<div class="content_box_parallax">
-    <div class="container">
-        <div class="row"></div>
-    </div>
-</div>
-
-<section id="places-lived">
-    <h2 class="text_Q">
-        Places We Have Lived
-        <span class="general_color">over 20 years</span>
-    </h2>
-
-    <div id="places-map"></div>
-
-    <script type="text/javascript">
-
-
-        xhr = new XMLHttpRequest();
-        xhr.open("GET", "svg/places.svg", false);
-        // Following line is just to be on the safe side;
-        // not needed if your server delivers SVG with correct MIME type
-        xhr.overrideMimeType("image/svg+xml");
-        xhr.send("");
-        document.getElementById("places-map")
-                .appendChild(xhr.responseXML.documentElement);
-        //xhr.close();
-
-    </script>
-
-
-</section>
-
-
-<section class="video_parallax">
-    <div id="Video">
-        <video id="video_1" class="video-js vjs-default-skin" autoplay preload="auto" width="100%" height="auto"
-               data-setup='{"example_option":true}'>
-            <source src="video/san-antonio.mp4" type='video/mp4'/>
-        </video>
-    </div>
-
-</section>
-
-
-<section class="timeline_parallax"></section>
-
-
-<!-- timeline -->
-<section id="timeline-wrap">
-
-
-    <h2 class="text_Q">
-        A Timeline of Events
-        <span class="general_color">the history of Hugh and Brian</span>
-    </h2>
-
-    <section id="timeline-example" style="padding-bottom:10px;height:800px;margin-left:5%;">
-
-
-        <div id="timeline-embed">
-            <div id="timeline"></div>
+    <!-- HEADER -->
+    <header id="home" class="home_parallax slide-menu">
+        <h1><span>20</span> years <small>in code</small></h1>
+        <h2>a relationship rendered in html, css, javascript and svg</h2>
+        <div class="home_bottom_arrow">
+            <a href="index.html#main_menu">go!</a>
         </div>
+    </header>
+    <!-- MAIN MENU -->
+    <nav id="main_menu" class="general_bg sticky-menu">
+        <div class="logo"><a href="index.html">20 years in code</a></div>
+        <ul class="menu scrolling-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#places-lived">Places</a></li>
+            <li><a href="#connections">Connections</a></li>
+            <li><a href="#charts">Data</a></li>
+            <li><a href="#hugh-sec">Hugh</a></li>
+            <li><a href="#infographic">Infographic</a></li>
+        </ul>
+    </nav>
+    <!-- ABOUT SECTION -->
+    <section id="about" class="slide_menu">
+        <h2>A Relationship Rendered in Code?
+            <span class="general_color">who does that?</span>
+        </h2>
+        <p>Well, I do. I am Brian Rountree and for the past 20 years I have shared my life, my
+            love, my fear, my hope and my dreams with Hugh Donagher; the best thing that ever has or will happen to me.
+            But I am not very good with the emotional sides of the relationship equation. I never have
+            been. In the first 10 years of our marriage, I forgot 25% of Hugh's birthdays and around 20%
+            of our anniversaries.</p>
 
+        <p>It is not that I don't love Hugh, I do, very much so. But I am simply not wired in a
+            way that can frame, think about, and express all of the soft and fuzzy parts of the human
+            condition. My general lack of talent with the emotive aspects of life used to bother me a great
+            deal. I married the man of my dreams, a man I will gladly, happily spend the rest of my life with,
+            why couldn't I remember his birthday? Why did I never think of buying flowers for no reason
+            whatsoever? This used to weigh heavily on me.</p>
+
+        <h2>But something happened along the way.</h2>
+
+        <h2>We kept going.</h2>
+
+        <p>Year after year. Decade after decade at this point! Our relationship survives because
+            we choose for it to survive. We work, together, to face whatever this crazy world throws at us.
+            And somewhere along the way, Hugh and I figured a few things out. You are what you are. It
+            is that simple, yet so few people in the world truly understand what that means.</p>
+
+        <p>I will never be the man that remembers important dates, surprises Hugh with flowers,
+            or notices the subtle hints about what Hugh may want for Christmas; but Hugh still loves me. I
+            am, as we enter our third decade together, at peace with who I am and confident in my relationship. I don't have to be
+            perfect, I just have to be Brian.</p>
+
+        <p>For this, I owe Hugh a lifetime of thanks.</p>
+
+        <h2>So What are You Good At?</h2>
+
+        <p>Well, I am not bad code.</p>
+
+        <p>So I figure, a genuine effort to show Hugh how much I care for him, expressed through
+            something I am good at, is far more likely to convey my feelings than struggling to come up
+            with a grand romantic gesture.
+            So I busted out my development environment, polished up my illustrator skills and started
+            parsing data. This site is built using HTML5, javascript, SVG. The graphs and visualizations
+            are created with D3.</p>
+
+        <p>I have made no effort whatsoever to make this site cross browser, as Hugh only uses
+            two browsers on his mac that I am aware of. If you are viewing this site using a less capable
+            browser, your experience may be less than ideal. I am fine with that, as this site, ultimately is for the two of us.</p>
+
+    </section>
+
+    <div class="content_box_parallax">
         <div class="container">
             <div class="row"></div>
         </div>
+    </div>
+
+    <section id="places-lived" class="slide_menu">
+        <h2>
+            Places We Have Lived
+            <span class="general_color">over 20 years</span>
+        </h2>
+
+        <div id="places-map"></div>
+
+        <script type="text/javascript">
+
+
+            xhr = new XMLHttpRequest();
+            xhr.open("GET", "svg/places.svg", false);
+            // Following line is just to be on the safe side;
+            // not needed if your server delivers SVG with correct MIME type
+            xhr.overrideMimeType("image/svg+xml");
+            xhr.send("");
+            document.getElementById("places-map")
+                    .appendChild(xhr.responseXML.documentElement);
+            //xhr.close();
+
+        </script>
+
+
     </section>
 
-    <script type="text/javascript">
-        var timeline_config = {
-            width: "96%",
-            height: "600px",
-            debug: false,
-            animation: "slideUp",
-            //source:   'lib/timeline/data.json',
-            source: 'data/timeline2.json'
-        }
-    </script>
-    <script type="text/javascript" src="js/storyjs-embed.js"></script>
+
+    <section class="video_parallax">
+        <div id="Video">
+            <video id="video_1" class="video-js vjs-default-skin" autoplay preload="auto" width="100%" height="auto"
+                   data-setup='{"example_option":true}'>
+                <source src="video/san-antonio.mp4" type='video/mp4'/>
+            </video>
+        </div>
+
+    </section>
 
 
-</section>
+    <section class="timeline_parallax"></section>
 
 
-<!-- chico -->
-<section class="chico_parallax"></section>
-
-<section id="chico">
+    <!-- timeline -->
+    <section id="timeline-wrap" class="slide_menu">
 
 
-    <h2 class="text_Q">
-        Chico Joins the Family
-        <span class="general_color">best.dog.ever</span>
-    </h2>
-    <ul class="client-carousel">
-        <li><img src="images/chico/chico-1.jpg" class="img-responsive" alt=""/></li>
-        <li><img src="images/chico/chico-2.jpg" class="img-responsive" alt=""/></li>
-        <li><img src="images/chico/chico-3.jpg" class="img-responsive" alt=""/></li>
-        <li><img src="images/chico/chico-4.jpg" class="img-responsive" alt=""/></li>
-        <li><img src="images/chico/chico-5.jpg" class="img-responsive" alt=""/></li>
-        <li><img src="images/chico/chico-6.jpg" class="img-responsive" alt=""/></li>
-        <li><img src="images/chico/chico-7.jpg" class="img-responsive" alt=""/></li>
-        <li><img src="images/chico/chico-8.jpg" class="img-responsive" alt=""/></li>
-        <li><img src="images/chico/chico-9.jpg" class="img-responsive" alt=""/></li>
-        <li><img src="images/chico/chico-10.jpg" class="img-responsive" alt=""/></li>
-        <li><img src="images/chico/chico-11.jpg" class="img-responsive" alt=""/></li>
-        <li><img src="images/chico/chico-12.jpg" class="img-responsive" alt=""/></li>
-        <li><img src="images/chico/chico-13.jpg" class="img-responsive" alt=""/></li>
-        <li><img src="images/chico/chico-14.jpg" class="img-responsive" alt=""/></li>
-        <li><img src="images/chico/chico-15.jpg" class="img-responsive" alt=""/></li>
-    </ul>
-</section>
+        <h2>
+            A Timeline of Events
+            <span class="general_color">the history of Hugh and Brian</span>
+        </h2>
 
-<section class="connections_parallax"></section>
-
-<!-- connections -->
-<section id="connections">
+        <section id="timeline-example">
 
 
-    <h2 class="text_Q">
-        The Ties that Bind.
-        <span class="general_color">Hugh's ability to make connections</span>
-    </h2>
+            <div id="timeline-embed">
+                <div id="timeline"></div>
+            </div>
+
+            <div class="container">
+                <div class="row"></div>
+            </div>
+        </section>
+
+        <script type="text/javascript">
+            var timeline_config = {
+                width: "96%",
+                height: "600px",
+                debug: false,
+                animation: "slideUp",
+                //source:   'lib/timeline/data.json',
+                source: 'data/timeline2.json'
+            }
+        </script>
+        <script type="text/javascript" src="js/storyjs-embed.js"></script>
 
 
-    <div class="g-graphic"></div>
+    </section>
 
 
-</section>
+    <!-- chico -->
+    <section class="chico_parallax"></section>
+
+    <section id="chico" class="slide_menu">
 
 
-<section id="testimonials" class="testimonials_parallax"></section>
+        <h2>
+            Chico Joins the Family
+            <span class="general_color">best.dog.ever</span>
+        </h2>
+        <ul class="client-carousel">
+            <li><img src="images/chico/chico-1.jpg" class="img-responsive" alt=""/></li>
+            <li><img src="images/chico/chico-2.jpg" class="img-responsive" alt=""/></li>
+            <li><img src="images/chico/chico-3.jpg" class="img-responsive" alt=""/></li>
+            <li><img src="images/chico/chico-4.jpg" class="img-responsive" alt=""/></li>
+            <li><img src="images/chico/chico-5.jpg" class="img-responsive" alt=""/></li>
+            <li><img src="images/chico/chico-6.jpg" class="img-responsive" alt=""/></li>
+            <li><img src="images/chico/chico-7.jpg" class="img-responsive" alt=""/></li>
+            <li><img src="images/chico/chico-8.jpg" class="img-responsive" alt=""/></li>
+            <li><img src="images/chico/chico-9.jpg" class="img-responsive" alt=""/></li>
+            <li><img src="images/chico/chico-10.jpg" class="img-responsive" alt=""/></li>
+            <li><img src="images/chico/chico-11.jpg" class="img-responsive" alt=""/></li>
+            <li><img src="images/chico/chico-12.jpg" class="img-responsive" alt=""/></li>
+            <li><img src="images/chico/chico-13.jpg" class="img-responsive" alt=""/></li>
+            <li><img src="images/chico/chico-14.jpg" class="img-responsive" alt=""/></li>
+            <li><img src="images/chico/chico-15.jpg" class="img-responsive" alt=""/></li>
+        </ul>
+    </section>
+
+    <section class="connections_parallax"></section>
+
+    <!-- connections -->
+    <section id="connections" class="slide_menu">
+
+        <h2 class="text_Q">
+            The Ties that Bind.
+            <span class="general_color">Hugh's ability to make connections</span>
+        </h2>
+
+        <div class="g-graphic"></div>
+
+    </section>
+
+    <section id="testimonials" class="testimonials_parallax"></section>
 
 
-<!-- NEWS -->
-<section id="charts">
+    <!-- NEWS -->
+    <section id="charts" class="slide_menu">
 
 
-    <h2 class="text_Q">
-        All the Data!
-        <span class="general_color">important and informative stats.</span>
-    </h2>
+        <h2>
+            All the Data!
+            <span class="general_color">important and informative stats.</span>
+        </h2>
 
-    <p>(some of which may be fudged a bit, but we won't tell...)</p>
-
-
-    <div id="random"></div>
+        <p>(some of which may be fudged a bit, but we won't tell...)</p>
 
 
-    <div id="divorce"></div>
-
-    <div id="celebs"></div>
+        <div id="random"></div>
 
 
-    <script type="text/javascript">
-        xhr = new XMLHttpRequest();
-        xhr.open("GET", "svg/random-charts.svg", false);
-        // Following line is just to be on the safe side;
-        // not needed if your server delivers SVG with correct MIME type
-        xhr.overrideMimeType("image/svg+xml");
-        xhr.send("");
-        document.getElementById("random")
-                .appendChild(xhr.responseXML.documentElement);
-        //xhr.close();
-        xhr = new XMLHttpRequest();
-        xhr.open("GET", "svg/divorce.svg", false);
-        // Following line is just to be on the safe side;
-        // not needed if your server delivers SVG with correct MIME type
-        xhr.overrideMimeType("image/svg+xml");
-        xhr.send("");
-        document.getElementById("divorce")
-                .appendChild(xhr.responseXML.documentElement);
-        //xhr.close();
-        xhr = new XMLHttpRequest();
-        xhr.open("GET", "svg/celeb-divorces.svg", false);
-        // Following line is just to be on the safe side;
-        // not needed if your server delivers SVG with correct MIME type
-        xhr.overrideMimeType("image/svg+xml");
-        xhr.send("");
-        document.getElementById("celebs")
-                .appendChild(xhr.responseXML.documentElement);
-        //xhr.close();
-    </script>
+        <div id="divorce"></div>
+
+        <div id="celebs"></div>
 
 
-</section>
+        <script type="text/javascript">
+            xhr = new XMLHttpRequest();
+            xhr.open("GET", "svg/random-charts.svg", false);
+            // Following line is just to be on the safe side;
+            // not needed if your server delivers SVG with correct MIME type
+            xhr.overrideMimeType("image/svg+xml");
+            xhr.send("");
+            document.getElementById("random")
+                    .appendChild(xhr.responseXML.documentElement);
+            //xhr.close();
+            xhr = new XMLHttpRequest();
+            xhr.open("GET", "svg/divorce.svg", false);
+            // Following line is just to be on the safe side;
+            // not needed if your server delivers SVG with correct MIME type
+            xhr.overrideMimeType("image/svg+xml");
+            xhr.send("");
+            document.getElementById("divorce")
+                    .appendChild(xhr.responseXML.documentElement);
+            //xhr.close();
+            xhr = new XMLHttpRequest();
+            xhr.open("GET", "svg/celeb-divorces.svg", false);
+            // Following line is just to be on the safe side;
+            // not needed if your server delivers SVG with correct MIME type
+            xhr.overrideMimeType("image/svg+xml");
+            xhr.send("");
+            document.getElementById("celebs")
+                    .appendChild(xhr.responseXML.documentElement);
+            //xhr.close();
+        </script>
 
 
-<!-- TWITTER -->
-<div id="twitter" class="twitter_parallax">
-
-</div>
+    </section>
 
 
-<section id="hugh-sec">
-
-    <h2 class="text_Q">
-        The Donagher 2v.3
-        <span class="general_color">now running the enhanced software.</span>
-    </h2>
+    <!-- TWITTER -->
+    <div id="twitter" class="twitter_parallax"></div>
 
 
-    <div class="process row">
-        <div class="time-machine"></div>
-        <div class="couple"></div>
+    <section id="hugh-sec" class="slide_menu">
 
-        <div class="su-column su-column-1-4 su-column-style-0">
-            <div class="process-design"></div>
+        <h2>
+            The Donagher 2v.3
+            <span class="general_color">now running the enhanced software.</span>
+        </h2>
 
+
+        <div class="process row">
+            <div class="time-machine"></div>
+            <div class="couple"></div>
+
+            <div class="su-column su-column-1-4 su-column-style-0">
+                <div class="process-design"></div>
+
+            </div>
+            <div class="su-spacer"></div>
+            <div class="young-hugh"></div>
+            <div class="young-brian"></div>
         </div>
 
 
-        <div class="su-spacer"></div>
-        <div class="young-hugh"></div>
-        <div class="young-brian"></div>
-        <!--<div class="process-flame"></div>-->
+    </section>
+
+
+    <section class="info_parallax"></section>
+
+    <section id="infographic" class="slide_menu">
+
+        <h2>
+            The Infographic
+            <span class="general_color">so "on trend" it hurts.</span>
+        </h2>
+
+        <p class="home_text_Q" style="margin:0 auto 2em auto;width:50%">
+
+                    <span style="display: inline-table">  I humbly submit a <a href="images/hjd-infographic.png">10 reasons
+                        why Hugh is the love of my life</a> infographic</span>
+            <a href="images/hjd-infographic.png"><img src="images/infographic-thumb.png"
+                                                      style="display:inline-table;margin-right:10px;"/></a>
+        </p>
+
+
+    </section>
+
+
+    <div id="backtop">
+        <i class="icon-angle-up"></i>
     </div>
 
 
-</section>
+    <!-- FOOTER -->
+    <footer id="footer" class="general_bg">
+        <p class="copyright">© 2013 Brian Rountree. All rights resevered.</p>
+    </footer>
 
+    <script src="js/jquery.parallax-1.1.3.js"></script>
+    <script src="js/jquery.scrollTo-1.4.3.1-min.js"></script>
+    <script src="js/jquery.localscroll-1.2.7-min.js"></script>
 
-<section class="info_parallax"></section>
 
-<section id="infographic">
+    <script src="js/jquery.sticky.js"></script>
 
-    <h2 class="text_Q">
-        The Infographic
-        <span class="general_color">so "on trend" it hurts.</span>
-    </h2>
+    <script src="js/jquery.flexisel.js"></script>
+    <script src="js/jquery.responsiveslides.min.js"></script>
 
-    <p class="home_text_Q" style="margin:0 auto 2em auto;width:50%">
 
-                <span style="display: inline-table">  I humbly submit a <a href="images/hjd-infographic.png">10 reasons
-                    why Hugh is the love of my life</a> infographic</span>
-        <a href="images/hjd-infographic.png"><img src="images/infographic-thumb.png"
-                                                  style="display:inline-table;margin-right:10px;"/></a>
-    </p>
+    <script src="js/d3.v3.js"></script>
+    <script src="js/connections.js"></script>
 
 
-</section>
+    <script type="text/javascript">
 
 
-<div id="backtop">
-    <i class="icon-angle-up"></i>
-</div>
+    setTimeout(function () {
+        $("#loading").fadeOut(800, function () {
+            $(this).remove()
+        })
+    }, 4000)
 
 
-<!-- FOOTER -->
-<footer id="footer" class="general_bg">
-
-    <p class="copyright">© 2013 Brian Rountree. All rights resevered.</p>
-
-</footer>
-
-<!-- MAKE THEME SCRIPTS
-<script src="js/jquery.appear.min.js"></script>
-<script src="js/jquery.loader.js"></script>
-
--->
-
-<script src="js/jquery.parallax-1.1.3.js"></script>
-<script src="js/jquery.scrollTo-1.4.3.1-min.js"></script>
-<script src="js/jquery.localscroll-1.2.7-min.js"></script>
-
-
-<script src="js/jquery.sticky.js"></script>
-
-<script src="js/jquery.flexisel.js"></script>
-<!--<script src="js/jquery.fitvids.js"></script>-->
-<!--<script src="js/jquery.isotope.min.js"></script>-->
-<script src="js/jquery.responsiveslides.min.js"></script>
-
-
-<script src="js/d3.v3.js"></script>
-<script>(function () {
-
-    var width = 970,
-            height = 800,
-            mugDiameter = 40,
-            mugSize = 80;
-
-    var bounds = d3.geom.polygon([
-        [0, 0],
-        [0, height],
-        [width, height],
-        [width, 0]
-    ]);
-
-    var awardType = {
-        "Friend": "friend",
-        "San Antonio": "sat",
-        "Best Supporting Actor": "actor",
-        "Best Supporting Actress": "actor",
-        "Family": "family",
-        "Lions": "lion"
-    };
-
-    var awardRank = {
-        "Best Picture": 1,
-        "Best Director": 2,
-        "Best Actor": 3,
-        "Best Actress": 3,
-        "Best Supporting Actor": 4,
-        "Best Supporting Actress": 4
-    };
-
-    var color = self.color = d3.scale.ordinal()
-            .domain(["friend", "family", "lion", "sat"])
-            .range(["#3182bd", "#42a48d", "#7d4098", "#ff6600", "#969696", "#969696", "#969696", "#969696"]);
-
-    var svg = d3.select(".g-graphic").insert("svg", ".g-note")
-            .attr("width", width)
-            .attr("height", height);
-
-    svg.append("defs").append("clipPath")
-            .attr("id", "g-mug-clip")
-            .append("circle")
-            .attr("r", mugDiameter / 2);
-
-    var tooltip = d3.select(".g-graphic").append("div")
-            .attr("class", "g-tooltip")
-            .style("display", "none");
-
-    var tooltipPath = tooltip.append("svg")
-            .attr("class", "g-tooltip-path");
-
-    tooltipPath.append("path");
-
-    var tooltipContent = tooltip.append("div")
-            .style("position", "relative")
-            .style("z-index", 2)
-            .style("padding", "8px");
-
-    var tooltipName = tooltipContent.append("div")
-            .attr("class", "g-name");
-
-    var tooltipDescription = tooltipContent.append("div")
-            .attr("class", "g-description");
-
-    var overlay = d3.select(".g-graphic").append("svg")
-            .attr("width", width)
-            .attr("height", height)
-            .style("z-index", 3);
-
-    d3.json("data/network.json", function (error, network) {
-
-        network.persons.forEach(function (a, i) {
-            a.index = i;
-            a.links = [];
-        });
-
-        network.movies.forEach(function (m, i) {
-            m.index = i;
-            m.nominations = [];
-            m.links.forEach(function (l) {
-                var p = l.person = network.persons[l.person];
-                l.movie = m;
-                p.links.push(l);
-                return p;
-            });
-        });
-
-        network.persons.forEach(function (a, i) {
-            a.nominations.forEach(function (n) {
-                n.movie = network.movies[n.movie];
-                n.movie.nominations.push(n);
-                n.person = a;
-            });
-        });
-
-        svg.append("g")
-                .attr("class", "g-movie-clips")
-                .selectAll("clipPath")
-                .data(network.movies)
-                .enter().append("clipPath")
-                .attr("id", function (d, i) {
-                    return "g-movie-clip-" + i;
-                })
-                .append("circle")
-                .attr("transform", function (d) {
-                    return "translate(" + d.x + "," + d.y + ")";
-                })
-                .attr("r", 80);
-
-        svg.append("g")
-                .attr("class", "g-person-hulls")
-                .selectAll("path")
-                .data(d3.merge(network.persons.map(function (p) {
-                    return p.links;
-                })))
-                .enter().append("path")
-                .sort(function (a, b) {
-                    return d3.descending(a.role, b.role);
-                })
-                .style("stroke", function (d) {
-                    return d3.interpolate(color(d.role), "#fff")(.65);
-                })
-                .attr("d", movieToPersonLink);
-
-        svg.append("g")
-                .attr("class", "g-movie-links")
-                .selectAll("path")
-                .data(d3.merge(network.movies.map(function (m) {
-                    return m.links;
-                })))
-                .enter().append("path")
-                .classed("g-current-nomination", currentNomination)
-                .classed("g-win", win)
-                .attr("d", movieToPersonLink);
-
-        svg.append("g")
-                .attr("class", "g-movie-dots")
-                .selectAll("circle")
-                .data(network.movies)
-                .enter().append("circle")
-                .attr("transform", function (d) {
-                    return "translate(" + d.x + "," + d.y + ")";
-                })
-                .classed("g-current-nomination", function (m) {
-                    return m.links.some(currentNomination);
-                })
-                .classed("g-win", function (m) {
-                    return m.links.some(win);
-                })
-                .attr("r", function (m) {
-                    return m.links.some(currentNomination) ? 5 : 3;
-                });
-
-        svg.append("g")
-                .attr("class", "g-movie-labels")
-                .selectAll("text")
-                .data(network.movies)
-                .enter().append("text")
-                .text(function (m) {
-                    return m.name;
-                })
-                .attr("transform", function (d) {
-                    return "translate(" + d.x + "," + d.y + ")";
-                })
-                .classed("g-current-nomination", function (m) {
-                    return m.links.some(currentNomination);
-                })
-                .classed("g-win", function (m) {
-                    return m.links.some(win);
-                });
-
-
-        var movieTarget = overlay.append("g")
-                .attr("class", "g-voronoi")
-                .selectAll("path")
-                .data(d3.geom.voronoi(network.movies.map(function (d) {
-                            return [d.x, d.y];
-                        })).map(function (d) {
-                            return bounds.clip(d);
-                        }))
-                .enter().append("path")
-                .attr("clip-path", function (d, i) {
-                    return "url(#g-movie-clip-" + i + ")";
-                })
-                .attr("d", function (d) {
-                    return "M" + d.join("L") + "Z";
-                })
-                .datum(function (d, i) {
-                    return network.movies[i];
-                })
-                .on("mouseover", mouseoverMovie)
-                .on("mouseout", mouseout)
-                .on("click", click);
-
-        var personTarget = overlay.selectAll(".g-person-target")
-                .data(network.persons)
-                .enter().append("circle")
-                .attr("transform", function (d) {
-                    return "translate(" + d.x + "," + d.y + ")";
-                })
-                .attr("class", "g-person-target")
-                .attr("r", mugDiameter / 2 + 2.5)
-                .style("stroke-width", 5)
-                .on("mouseover", mouseoverPerson)
-                .on("mouseout", mouseout);
-
-        var personDot = svg.append("g")
-                .attr("class", "g-person-dots")
-                .selectAll("g")
-                .data(network.persons)
-                .enter().append("g")
-                .attr("transform", function (d) {
-                    return "translate(" + d.x + "," + d.y + ")";
-                });
-
-        personDot.append("circle")
-                .attr("r", mugDiameter / 2 + 2.5)
-                .style("stroke", function (d) {
-                    return d3.lab(color(d.type)).darker(.2);
-                })
-                .style("stroke-width", 5);
-
-        personDot.append("image")
-                .attr("xlink:href", "images/muggles-exp.jpg")
-                .attr("x", function (d, i) {
-                    return -mugDiameter / 2 - mugDiameter * (i % 9);
-                })
-                .attr("y", function (d, i) {
-                    return -mugDiameter / 2 - mugDiameter * (i / 9 | 0);
-                })
-                .attr("width", 9 * mugDiameter)
-                .attr("height", 6 * mugDiameter)
-                .attr("clip-path", "url(#g-mug-clip)")
-                .style("pointer-events", "none");
-
-        var personLabel = svg.append("g")
-                .attr("class", "g-person-labels")
-                .selectAll("g")
-                .data(network.persons)
-                .enter().append("g")
-                .attr("transform", function (d) {
-                    return "translate(" + d.label.x + "," + d.label.y + ")";
-                })
-                .style("pointer-events", "none");
-
-        personLabel.append("text")
-                .attr("class", "g-halo")
-                .attr("dy", ".35em")
-                .text(function (d) {
-                    return d.name;
-                });
-
-        personLabel.append("text")
-                .attr("dy", ".35em")
-                .style("fill", function (d) {
-                    return d3.lab(color(d.type)).darker(.2);
-                })
-                .text(function (d) {
-                    return d.name;
-                });
-
-        var gkey = svg.append("g")
-                .attr("class", "g-key")
-                .attr("transform", "translate(" + (width - 180) + ",16)");
-
-        gkey.append("text")
-                .style("font-weight", "bold")
-                .attr("y", -6)
-                .text("Connection Types");
-
-        var key = gkey.selectAll("g")
-                .data(color.domain().slice(0, 4).concat(["Multiple roles"]))
-                .enter().append("g")
-                .attr("transform", function (d, i) {
-                    return "translate(0," + i * 20 + ")";
-                });
-
-        key.append("circle")
-                .attr("r", 6)
-                .attr("cx", 9)
-                .attr("cy", 9)
-            // .style("fill-opacity", .5)
-                .style("opacity", .6)
-                .style("fill", "none")
-                .style("stroke", function (d) {
-                    return d3.lab(color(d)).darker(.2);
-                })
-                .style("stroke-width", 5);
-
-        key.append("text")
-                .attr("x", 23)
-                .attr("y", 9)
-                .attr("dy", ".35em")
-                .text(function (d) {
-                    var first = d.substring(0, 1), rest = d.substring(1);
-                    return first.toUpperCase() + rest.replace(/-/g, " and ");
-                });
-
-        function mouseoverPerson(p) {
-            var g = svg.insert("g", ".g-movie-dots")
-                    .attr("class", "g-movie-links g-active");
-
-            g.selectAll("path")
-                    .data(p.links)
-                    .enter().append("path")
-                    .attr("d", personToMovieLink)
-                    .style("stroke-dasharray", "0,250")
-                    .transition()
-                    .ease("cubic-in")
-                    .style("stroke-dasharray", "950,0");
-
-            d3.selectAll(".g-person-dots circle")
-                    .filter(function (o) {
-                        return o === p;
-                    })
-                    .classed("g-active", true);
-        }
-
-        function mouseoverMovie(m) {
-            var g = svg.insert("g", ".g-movie-dots")
-                    .attr("class", "g-movie-links g-active");
-
-            g.selectAll("path")
-                    .data(m.links)
-                    .enter().append("path")
-                    .attr("d", movieToPersonLink)
-                    .style("stroke-dasharray", "0,250")
-                    .transition()
-                    .ease("cubic-in")
-                    .style("stroke-dasharray", "250,250");
-
-            d3.selectAll(".g-movie-dots circle")
-                    .filter(function (o) {
-                        return o === m;
-                    })
-                    .classed("g-active", true);
-
-            d3.selectAll(".g-person-dots circle")
-                    .filter(function (p) {
-                        return p.links.some(function (l) {
-                            return l.movie === m;
-                        });
-                    })
-                    .classed("g-active", true);
-
-        }
-
-        function click() {
-            tooltip.style("display", "none");
-        }
-
-        function mouseout() {
-            d3.selectAll(".g-movie-links.g-active")
-                    .remove();
-
-            d3.selectAll(".g-active")
-                    .classed("g-active", false)
-                    .style("stroke-dasharray", null);
-
-            tooltip.style("display", "none");
-        }
-
-        function movieToPersonLink(d) {
-            return "M" + d.movie.x + "," + d.movie.y
-                    + "S" + d.x + "," + d.y
-                    + " " + d.person.x + "," + d.person.y;
-        }
-
-        function personToMovieLink(d) {
-            return "M" + d.person.x + "," + d.person.y
-                    + "C" + d.x + "," + d.y
-                    + " " + d.movie.x + "," + d.movie.y
-                    + " " + d.movie.x + "," + d.movie.y;
-        }
-
-        // function hull(p) {
-        //   return p.links.map(movieToPersonLink).join("");
-        // }
-
-        function currentNomination(l) {
-            return l.person.nominations.some(function (n) {
-                return n.year === 2013 && n.movie === l.movie;
-            });
-        }
-
-        function currentBestPictureNomination(l) {
-            return l.person.nominations.some(function (n) {
-                return n.year === 2013 && n.movie === l.movie && n.name === "Best Picture";
-            });
-        }
-
-        function win(l) {
-            return l.person.nominations.some(function (n) {
-                return n.won && n.movie === l.movie;
-            });
-        }
-    });
-
-})();
-
-
-setTimeout(function () {
-    $("#loading").fadeOut(800, function () {
-        $(this).remove()
-    })
-}, 4000)
-
-
-</script>
+    </script>
 
 
 </div>

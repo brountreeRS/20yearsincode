@@ -108,7 +108,7 @@
 			*******************************/
 			setEventHandlers : function() {
 
-				var listParent = object.closest('.nbs-flexisel-container')
+				var listParent = object.closest('.nbs-flexisel-container');
 				var childSet = object.children();
 				var leftArrow = listParent.find($(".button-left-clients"));
 				var rightArrow = listParent.find($(".button-right-clients"));

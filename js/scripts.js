@@ -13,8 +13,8 @@
             id_slide = $(this).attr("id");
             _height = $(this).css("height");
             if ($(this).offset().top <= pos + 100) {
-                $("#main_menu .menu li").removeAttr("id");
-                $("#main_menu .menu li").find("a[href^='#" + id_slide + "']").parent().attr("id", "current_menu_item");
+                $(".menu li").removeAttr("id");
+                $(".menu li").find("a[href^='#" + id_slide + "']").parent().attr("id", "current_menu_item");
             }
         });
     });
@@ -57,10 +57,9 @@
 
         /* ======= SCROLL ITEMS ======= */
 
-        var height_menu = $("#main_menu").css("height");
+        var height_menu = $("nav").css("height");
         height_menu = parseInt(height_menu, 10);
-        $('#main_menu #desktop-menu .scrolling-links').localScroll({offset: {top: -height_menu}, duration: 1000});
-        $('#mobile-menu').localScroll({offset: {top: 0}, duration: 1000});
+        $('.scrolling-links').localScroll({offset: {top: -height_menu}, duration: 1000});
         $('.home_bottom_arrow').localScroll({offset: {top: 0}, duration: 1000});
 
 
@@ -86,21 +85,6 @@
         $(".sticky-menu").sticky({topSpacing: 0});
 
 
-        /* ======= COUNTDOWN ======= */
-
-//        $('.countto').appear(function () {
-//			$(".number_container .number").each(function() {
-//            $("html").each(function () {
-//                var count_element = $(this).html();
-//                $(this).countTo({
-//                    from: 0,
-//                    to: 100,
-//                    speed: 2000,
-//                    refreshInterval: 10
-//                });
-//            });
-//        });
-
         /* ======= CLIENT CAROUSEL ======= */
 
         $(".client-carousel").flexisel({
@@ -114,8 +98,8 @@
             $(".rslides-testimonials").responsiveSlides({
                 nav: true,
                 auto: false,
-                prevText: "<i class='icon-angle-left'></i>",
-                nextText: "<i class='icon-angle-right'></i>",
+                prevText: "<i class='icon-angle-left'>< Previous</i>",
+                nextText: "<i class='icon-angle-right'>Next ></i>",
                 navContainer: ".testimonials-navi"
             });
         });
