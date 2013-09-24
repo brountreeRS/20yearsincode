@@ -7,7 +7,7 @@
         "text":"<i><span class='c1'>Rendered</span> in <span class='c2'>Code</span></i>",
         "asset":
         {
-            "media":"http://localhost/~brian.rountree/anniversary/images/timeline/nc1.jpg",
+            "media":"images/timeline/nc1.jpg",
             "credit":"",
             "caption":"nobody knew this casual snapshot captures the first moments of a lifelong love"
         },
@@ -18,7 +18,7 @@
                 "text":"Omni Hotel, Raliegh North Carolina",
                 "asset":
                 {
-                    "media":"https://maps.google.com/maps?q=132+East+Trade+Street+Charlotte,+NC+28202&hl=en&ll=35.22627,-80.842574&spn=0.011201,0.016415&sll=35.22627,-80.842552&sspn=0.011201,0.016415&hnear=132+E+Trade+St,+Charlotte,+North+Carolina+28202&t=m&z=16",
+                    "media":"images/map.gif",
                     "credit":"",
                     "caption":""
                 }
@@ -106,18 +106,7 @@
                 "text": "that December, Brian made his first ever trip to California where he and Hugh spent precious face to face time with each other. Will this work? Was it a good idea?",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sd1.jpg",
-                    "credit":"",
-                    "caption":"early in the days of sunny san diego"
-                }
-            },
-            {
-                "startDate":"7/3/1994",
-                "headline":"Sunny San Diego",
-                "text":"At the time, San Diego was beautiful, inexpensive and a great deal of fun",
-                "asset":
-                {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sd1.jpg",
+                    "media":"images/timeline/sd1.jpg",
                     "credit":"",
                     "caption":"early in the days of sunny san diego"
                 }
@@ -128,7 +117,7 @@
                 "text":"",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sd2.jpg",
+                    "media":"images/timeline/sd2.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -139,7 +128,7 @@
                 "text":"",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/ct1.jpg",
+                    "media":"images/timeline/ct1.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -150,7 +139,7 @@
                 "text": "",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sd3.jpg",
+                    "media":"images/timeline/sd3.jpg",
                     "credit":"",
                     "caption":"awwwwwwwwwwwww"
                 }
@@ -161,7 +150,7 @@
                 "text":"text goes here",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sd4.jpg",
+                    "media":"images/timeline/sd4.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -172,7 +161,7 @@
                 "text": "",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sd5.jpg",
+                    "media":"images/timeline/sd5.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -183,7 +172,7 @@
                 "text":"",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/mv2.jpg",
+                    "media":"images/timeline/mv2.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -194,7 +183,7 @@
                 "text":"",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/mv1.jpg",
+                    "media":"images/timeline/mv1.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -205,7 +194,7 @@
                 "text":"",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/mv3.jpg",
+                    "media":"images/timeline/mv3.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -216,7 +205,7 @@
                 "text":"",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sat2.jpg",
+                    "media":"images/timeline/sat2.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -227,7 +216,7 @@
                 "text":"",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sat1.jpg",
+                    "media":"images/timeline/sat1.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -238,18 +227,7 @@
                 "text":"best dog ever 2",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/chico1.jpg",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"4/13/2012",
-                "headline":"Event",
-                "text":"best dog ever 2",
-                "asset":
-                {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/transitions-gallows.png",
+                    "media":"images/timeline/chico1.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -260,7 +238,7 @@
                 "text":"",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sat3.jpg",
+                    "media":"images/timeline/sat3.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -271,7 +249,7 @@
                 "text":"",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sat4.jpg",
+                    "media":"images/timeline/sat4.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -282,7 +260,7 @@
                 "text":"best dog ever 2",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/chico1.jpg",
+                    "media":"images/timeline/chico1.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -293,7 +271,7 @@
                 "text":"best dog ever 2",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/chico2.jpg",
+                    "media":"images/timeline/chico2.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -304,7 +282,7 @@
                 "text": "",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sat5.jpg",
+                    "media":"images/timeline/sat5.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -315,7 +293,7 @@
                 "text": "",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/sat5.jpg",
+                    "media":"images/timeline/sat5.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -326,29 +304,19 @@
                 "text": "",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/fm1.jpg",
+                    "media":"images/timeline/fm1.jpg",
                     "credit":"",
                     "caption":""
                 }
             },
-            {
-                "startDate":"3/5/2013",
-                "headline":"love you",
-                "text": "",
-                "asset":
-                {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/wrap-up.jpg",
-                    "credit":"",
-                    "caption":""
-                }
-            },
+
             {
                 "startDate":"5/5/2013",
                 "headline":"love you",
                 "text": "",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/hugh_69.jpg",
+                    "media":"images/timeline/hugh_69.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -360,7 +328,7 @@
                 "text":"",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/hjd-btr2.jpg",
+                    "media":"images/timeline/hjd-btr.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -371,7 +339,18 @@
                 "text":"",
                 "asset":
                 {
-                    "media":"http://localhost/~brian.rountree/anniversary/images/timeline/hjd-btr2.jpg",
+                    "media":"images/timeline/hjd-btr2.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"10/1/2013",
+                "headline":"Love you Honey!",
+                "text":"",
+                "asset":
+                {
+                    "media":"images/timeline/wrap-up.jpg",
                     "credit":"",
                     "caption":""
                 }
