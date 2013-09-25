@@ -149,7 +149,7 @@ p {
 
 
 .connections_parallax {
-    background: url("../images/parallax/parallax6.png") no-repeat fixed;
+    background: url("http://farm3.staticflickr.com/2838/9927464845_bf70cf195e_o.png") no-repeat fixed;
     background-size: cover;
     background-position:  100% center;
     background-color: #515A5F;
@@ -171,7 +171,7 @@ p {
 }
 .home_parallax {
 	/*background: url("../images/parallax/parallax1.png") fixed;*/
-    background: url("../images/parallax/brick.jpg") fixed;
+    background: url("http://farm8.staticflickr.com/7446/9927619143_489b3db248_o.jpg") fixed;
 	background-size: cover;
 	background-position: 100% top;
 	background-color: #515A5F;
@@ -326,7 +326,7 @@ nav ul li a:hover{
 
 
 .content_box_parallax {
-	background: url("../images/parallax/parallax2.png") fixed;
+	background: url("http://farm6.staticflickr.com/5491/9927532804_e2a0ff25e3_o.png") fixed;
 	background-size: cover;
 	background-position: 100% center;
 	background-color: #515A5F;
@@ -337,7 +337,7 @@ nav ul li a:hover{
 
 
 .timeline_parallax {
-	background: url("../images/parallax/parallax3.jpg") no-repeat fixed;
+	background: url("http://farm8.staticflickr.com/7412/9927534474_1871af5a8f_o.jpg") no-repeat fixed;
 	background-size: cover;
 	background-position: 100% center;
 	background-color: #515A5F;
@@ -357,7 +357,7 @@ nav ul li a:hover{
 }
 
 .chico_parallax {
-	background: url("../images/parallax/parallax4.jpg") fixed;
+	background: url("http://farm6.staticflickr.com/5446/9927480555_c490cbb61a_o.jpg") fixed;
 	background-size: cover;
 	background-position: 100% center;
 	background-color: #515A5F;
@@ -421,7 +421,7 @@ nav ul li a:hover{
 }
 
 .testimonials_parallax {
-	background: url("../images/parallax/parallax5.png") fixed;
+	background: url("http://farm3.staticflickr.com/2868/9927497266_33d6f91975_o.png") fixed;
     background-size: cover;
     background-position: 100% bottom;
     background-color: #515A5F;
@@ -481,7 +481,7 @@ nav ul li a:hover{
 }
 
 .twitter_parallax {
-	background: url("../images/parallax/parallax5-1.jpg") fixed;
+	background: url("http://farm4.staticflickr.com/3695/9927638863_2301a28d5e_o.jpg") fixed;
 	background-size: cover;
 	background-position: 100% 100%;
 	background-color: #515A5F;
@@ -492,7 +492,8 @@ nav ul li a:hover{
 /*----- infographic ----*/
 
 .info_parallax {
-    background: url("../images/parallax/parallax7.png") fixed;
+    /*background: url("../images/parallax/parallax7.png") fixed;*/
+    background: url("http://farm3.staticflickr.com/2871/9927538704_7d10a4d38b_o.png") fixed;
     background-size: cover;
     background-position: 100% center;
     background-color: #515A5F;
