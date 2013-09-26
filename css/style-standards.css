@@ -76,8 +76,6 @@ body {
     -moz-font-smoothing: antialiased;
     -ms-font-smoothing: antialiased;
     -o-font-smoothing: antialiased;
-
-
 }
 
 #anniversary {
@@ -118,13 +116,15 @@ section, .section {margin:0 auto 30px;text-align:center; padding:0 0 1em 1em;}
 h1 {font-size: 3.5rem;}
 h1 small {font-size:2.4rem;}
 h2 {
+    font-family: 'Raleway', arial, sans-serif;
     font-size: 3.1rem;
+    font-weight: 800;
     margin:0.35rem 0 0.3rem 0;
     text-shadow:
-        0px 1px 0px #888,
-        0px 2px 0px #222,
-        0px 3px 0px #333,
-        0px 4px 3px #444;
+        0 1px 0 #888,
+        0 2px 0 #222,
+        0 3px 0 #333,
+        0 4px 3px #444;
 }
 
 h3 {font-size: 2.5rem;}
@@ -137,6 +137,8 @@ h2 span  {
     color: #734BA9;
     text-transform: lowercase;
     font-size:85%;
+    padding:0;
+    margin:0;
 }
 
 p {
@@ -238,7 +240,8 @@ header h2 {
     font-family: 'Raleway', sans-serif;
     text-align: center;
     letter-spacing: -2px;
-    font-weight: 700;
+    padding:0 5rem;
+    font-weight: 500;
     color: rgba(1, 1, 1, 0.90);
 }
 
@@ -292,6 +295,7 @@ nav {
 	border-bottom: 1px solid #dedede;
 	margin-right: 10px;
 	z-index: 99999999999999999;
+    background-color: #734BA9;
 }
 
 
@@ -316,8 +320,7 @@ nav ul li {
 }
 
 nav ul li a {
-	text-decoration:none;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'OpenSans-ExtraBold', sans-serif;
     color: rgba(244, 255, 252, 0.85);
 	position: relative;
 	top: 1px;
@@ -331,8 +334,8 @@ nav ul li a {
 
 nav ul li a:hover{
     opacity:1;
-	color: rgba(200, 96, 0, 0.89);
-    border-color: rgba(200, 96, 0, 0.89);
+	color: rgba(255, 102, 0, 0.88);
+    border-color: rgba(255, 102, 0, 0.88);
 }
 
 
@@ -601,16 +604,17 @@ span.general_color {display: block;}
 
 .g-graphic {
     position: relative;
-    font-family: "nyt-franklin-1", sans-serif;
-    /*font-size: 11px;*/
+    text-align: center;
     font-weight: 500;
     height: 800px;
+    margin:0 auto;
 }
 
 .g-graphic svg {
     position: absolute;
     top: 0;
-    left: 0;
+    left: 50%;
+    margin-left: -485px;
 }
 
 .g-tooltip {
