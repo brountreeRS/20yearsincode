@@ -10,8 +10,7 @@
     <link href="http://fonts.googleapis.com/css?family=Raleway:400,800,700,500,300,100" rel="stylesheet" type="text/css"/>
 
     <link rel="stylesheet" href="css/style-standards.css" type="text/css">
-    <script src="js/jquery.min.js"></script>
-    <script src="js/scripts.js"></script>
+
 </head>
 <body>
 <div id="anniversary" style="opacity: 0">
@@ -26,7 +25,7 @@
     </div>
 </header>
 <!-- MAIN MENU -->
-<nav id="main_menu" class="general_bg sticky-menu">
+<nav id="main_menu" class="sticky-menu">
     <div class="logo"><a href="index.html">20 years in code</a></div>
     <ul class="menu scrolling-links">
         <li><a href="#home">Home</a></li>
@@ -41,7 +40,7 @@
 <!-- ABOUT SECTION -->
 <section id="about" class="slide_menu">
     <h2>A Relationship Rendered in Code?
-        <span class="general_color">who does that?</span>
+        <span>who does that?</span>
     </h2>
 
     <p>Well, I do. I am Brian Rountree and for the past 20 years I have shared my life, my
@@ -57,9 +56,7 @@
         why couldn't I remember his birthday? Why did I never think of buying flowers for no reason
         whatsoever? This used to weigh heavily on me.</p>
 
-    <h2>But something happened along the way.</h2>
-
-    <h2>We kept going.</h2>
+    <h2>But something happened along the way. <span>We kept going.</span></h2>
 
     <p>Year after year. Decade after decade at this point! Our relationship survives because
         we choose for it to survive. We work, together, to face whatever this crazy world throws at us.
@@ -69,14 +66,11 @@
     <p>I will never be the man that remembers important dates, surprises Hugh with flowers,
         or notices the subtle hints about what Hugh may want for Christmas; but Hugh still loves me. I
         am, as we enter our third decade together, at peace with who I am and confident in my relationship. I don't have
-        to be
-        perfect, I just have to be Brian.</p>
+        to be perfect, I just have to be Brian.</p>
 
     <p>For this, I owe Hugh a lifetime of thanks.</p>
 
-    <h2>So What are You Good At?</h2>
-
-    <p>Well, I am not bad code.</p>
+    <h2>So What are You Good At? <span>Well, I am not bad code.</span></h2>
 
     <p>So I figure, a genuine effort to show Hugh how much I care for him, expressed through
         something I am good at, is far more likely to convey my feelings than struggling to come up
@@ -85,57 +79,29 @@
         parsing data. This site is built using HTML5, javascript, SVG. The graphs and visualizations
         are created with D3.</p>
 
-    <p>I have made no effort whatsoever to make this site cross browser, as Hugh only uses
-        two browsers on his mac that I am aware of. If you are viewing this site using a less capable
-        browser, your experience may be less than ideal. I am fine with that, as this site, ultimately is for the two of
-        us.</p>
+    <p>I have made no effort whatsoever to make this site cross browser, as Hugh only uses two browsers on his mac that
+        I am aware of. If you are viewing this site using a less capable browser, your experience may be less than
+        ideal. I am fine with that, as this site, ultimately is for the two of us.</p>
 
 </section>
 
-<div class="content_box_parallax">
-    <div class="container">
-        <div class="row"></div>
-    </div>
-</div>
+<div class="content_box_parallax"></div>
 
 <section id="places-lived" class="slide_menu">
     <h2>
         Places We Have Lived
-        <span class="general_color">over 20 years</span>
+        <span>over 20 years</span>
     </h2>
 
     <div id="places-map"></div>
 
-    <script type="text/javascript">
 
-
-        xhr = new XMLHttpRequest();
-        xhr.open("GET", "svg/places.svg", false);
-        // Following line is just to be on the safe side;
-        // not needed if your server delivers SVG with correct MIME type
-        xhr.overrideMimeType("image/svg+xml");
-        xhr.send("");
-        document.getElementById("places-map")
-                .appendChild(xhr.responseXML.documentElement);
-        //xhr.close();
-
-    </script>
 
 
 </section>
 
 
-<section class="video_parallax">
-    <div id="Video">
-        <video id="video_1" class="video-js vjs-default-skin" autoplay preload="auto" width="100%" height="auto"
-               data-setup='{"example_option":true}'>
-            <source src="video/san-antonio.mp4" type='video/mp4'/>
-        </video>
 
-
-    </div>
-
-</section>
 
 
 <section class="timeline_parallax"></section>
@@ -162,19 +128,7 @@
         </div>
     </section>
 
-    <script type="text/javascript">
 
-        var timeline_config = {
-            width: "96%",
-            height: "600px",
-            debug: false,
-            animation: "slideUp",
-            //source:   'lib/timeline/data.json',
-            source: 'data/timeline2.json'
-        }
-    </script>
-    <script type="text/javascript" src="js/storyjs-embed.js">
-    </script>
 
 
 </section>
@@ -188,7 +142,7 @@
 
     <h2>
         Chico Joins the Family
-        <span class="general_color">best.dog.ever</span>
+        <span>best.dog.ever</span>
     </h2>
     <ul class="client-carousel">
         <li><img src="images/chico/chico-1.jpg" class="img-responsive" alt=""/></li>
@@ -246,36 +200,7 @@
     <div id="celebs"></div>
 
 
-    <script type="text/javascript">
 
-        xhr = new XMLHttpRequest();
-        xhr.open("GET", "svg/random-charts.svg", false);
-        // Following line is just to be on the safe side;
-        // not needed if your server delivers SVG with correct MIME type
-        xhr.overrideMimeType("image/svg+xml");
-        xhr.send("");
-        document.getElementById("random")
-                .appendChild(xhr.responseXML.documentElement);
-        //xhr.close();
-        xhr = new XMLHttpRequest();
-        xhr.open("GET", "svg/divorce.svg", false);
-        // Following line is just to be on the safe side;
-        // not needed if your server delivers SVG with correct MIME type
-        xhr.overrideMimeType("image/svg+xml");
-        xhr.send("");
-        document.getElementById("divorce")
-                .appendChild(xhr.responseXML.documentElement);
-        //xhr.close();
-        xhr = new XMLHttpRequest();
-        xhr.open("GET", "svg/celeb-divorces.svg", false);
-        // Following line is just to be on the safe side;
-        // not needed if your server delivers SVG with correct MIME type
-        xhr.overrideMimeType("image/svg+xml");
-        xhr.send("");
-        document.getElementById("celebs")
-                .appendChild(xhr.responseXML.documentElement);
-        //xhr.close();
-    </script>
 
 
 </section>
@@ -348,27 +273,84 @@
     <p class="copyright">© 2013 Brian Rountree. All rights resevered.</p>
 </footer>
 
-<script src="js/jquery.parallax-1.1.3.js">
-</script>
-<script src="js/jquery.scrollTo-1.4.3.1-min.js">
-</script>
-<script src="js/jquery.localscroll-1.2.7-min.js">
+
+<script type="text/javascript">
+
+
+    xhr = new XMLHttpRequest();
+    xhr.open("GET", "svg/places.svg", false);
+    // Following line is just to be on the safe side;
+    // not needed if your server delivers SVG with correct MIME type
+    xhr.overrideMimeType("image/svg+xml");
+    xhr.send("");
+    document.getElementById("places-map").appendChild(xhr.responseXML.documentElement);
+    //xhr.close();
+
+
+
+    xhr = new XMLHttpRequest();
+    xhr.open("GET", "svg/random-charts.svg", false);
+    // Following line is just to be on the safe side;
+    // not needed if your server delivers SVG with correct MIME type
+    xhr.overrideMimeType("image/svg+xml");
+    xhr.send("");
+    document.getElementById("random")
+            .appendChild(xhr.responseXML.documentElement);
+    //xhr.close();
+    xhr = new XMLHttpRequest();
+    xhr.open("GET", "svg/divorce.svg", false);
+    // Following line is just to be on the safe side;
+    // not needed if your server delivers SVG with correct MIME type
+    xhr.overrideMimeType("image/svg+xml");
+    xhr.send("");
+    document.getElementById("divorce")
+            .appendChild(xhr.responseXML.documentElement);
+    //xhr.close();
+    xhr = new XMLHttpRequest();
+    xhr.open("GET", "svg/celeb-divorces.svg", false);
+    // Following line is just to be on the safe side;
+    // not needed if your server delivers SVG with correct MIME type
+    xhr.overrideMimeType("image/svg+xml");
+    xhr.send("");
+    document.getElementById("celebs")
+            .appendChild(xhr.responseXML.documentElement);
+    //xhr.close();
 </script>
 
 
-<script src="js/jquery.sticky.js">
-</script>
-
-<script src="js/jquery.flexisel.js">
-</script>
-<script src="js/jquery.responsiveslides.min.js">
-</script>
+<script src="js/jquery.min.js"></script>
+<script src="js/scripts.js"></script>
 
 
-<script src="js/d3.v3.js">
+<script type="text/javascript">
+
+    var timeline_config = {
+        width: "96%",
+        height: "600px",
+        debug: false,
+        animation: "slideUp",
+        //source:   'lib/timeline/data.json',
+        source: 'data/timeline2.json'
+    }
 </script>
-<script src="js/connections.js">
-</script>
+
+
+<script type="text/javascript" src="js/storyjs-embed.js"></script>
+
+
+<script src="js/jquery.parallax-1.1.3.js"></script>
+<script src="js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script src="js/jquery.localscroll-1.2.7-min.js"></script>
+
+
+<script src="js/jquery.sticky.js"></script>
+
+<script src="js/jquery.flexisel.js"></script>
+<script src="js/jquery.responsiveslides.min.js"></script>
+
+
+<script src="js/d3.v3.js"></script>
+<script src="js/connections.js"></script>
 
 
 <script type="text/javascript">
@@ -378,11 +360,10 @@
         $("#loading").fadeOut(800, function () {
             $(this).remove()
         })
-    }, 4000)
+    }, 2000)
 
 
 </script>
-
 
 </div>
 
