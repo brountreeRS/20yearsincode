@@ -1,5 +1,30 @@
-/*--------- Resets --------------------------------*/
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url("../font/OpenSans-Regular-webfont.eot");
+    src: url("../font/OpenSans-Regular-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans-Light';
+    src: url("../font/OpenSans-Light-webfont.eot");
+    src: url("../font/OpenSans-Light-webfont.woff") format("woff");
+}
+@font-face {
+    font-family: 'OpenSans-BoldItalic';
+    src: url(" ../font/OpenSans-BoldItalic-webfont.eot");
+    src: url("../font/OpenSans-BoldItalic-webfont.woff") format("woff");
+}
 
+@font-face {
+    font-family: 'OpenSans-ExtraBold';
+    src: url(" ../font/OpenSans-ExtraBold-webfont.eot");
+    src: url("../font/OpenSans-ExtraBold-webfont.woff") format("woff");
+}
+
+
+
+/*--------- Resets --------------------------------*/
 html, body {height: 100%;}
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 	margin: 0;padding: 0;border: 0;font-size: 100%;font: inherit;vertical-align: baseline;
@@ -42,7 +67,7 @@ a:hover {color: rgba(226, 148, 20, 0.86);text-decoration: underline;}
 body {
 	background-color: #2f2f2f;
 	font-size:1rem;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'OpenSans-Light', sans-serif;
 	color: #d2ddda;
 	-webkit-text-size-adjust: 100%;
 	overflow-x: hidden;
@@ -88,17 +113,20 @@ body {
 	background-color: #734BA9;
 }
 
-.divider-1 {
-	border-top: 1px dashed #734BA9;
-	margin-top: 20px;
-}
-
-
 section, .section {margin:0 auto 30px;text-align:center; padding:0 0 1em 1em;}
-#chico {margin-bottom: 20px;}
 
 h1 {font-size: 3.5rem;}
-h2 {font-size: 3.1rem;margin:0.35rem 0 0.3rem 0;}
+h1 small {font-size:2.4rem;}
+h2 {
+    font-size: 3.1rem;
+    margin:0.35rem 0 0.3rem 0;
+    text-shadow:
+        0px 1px 0px #888,
+        0px 2px 0px #222,
+        0px 3px 0px #333,
+        0px 4px 3px #444;
+}
+
 h3 {font-size: 2.5rem;}
 h4 {font-size: 1.75rem;}
 h5 {font-size: 1.5rem;}
@@ -201,10 +229,10 @@ header h1 {
         0px 3px 0px #333,
         0px 4px 3px #444;
 }
-h1 span {letter-spacing: -1px;font-size: 6.5rem;}
+h1 span {letter-spacing: -1px;font-size: 9.5rem;}
 h1 small {
     display:block;
-    font-size:5.1rem;
+    font-size:5rem;
 }
 header h2 {
     font-family: 'Raleway', sans-serif;
@@ -212,12 +240,6 @@ header h2 {
     letter-spacing: -2px;
     font-weight: 700;
     color: rgba(1, 1, 1, 0.90);
-    text-shadow:
-        0px 1px 0px #888,
-        0px 2px 0px #222,
-        0px 3px 0px #333,
-        0px 4px 3px #444;
-
 }
 
 .home_bottom_arrow {
@@ -231,30 +253,28 @@ header h2 {
 }
 
 .home_bottom_arrow a {
-  border: 3px solid rgba(1, 1, 1, 0.90);
-  border-radius: 50%;
-  -moz-border-radius: 50%;
-  -webkit-border-radius: 50%;
+    border: 3px solid rgba(1, 1, 1, 0.90);
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
     color: rgba(1, 1, 1, 0.90);
-  cursor: pointer;
+    cursor: pointer;
     background:rgba(1,1,1,0.23);
-  display: block;
-  margin: auto;
-    line-height: 32px;
-  text-decoration: none;
-  width: 80px;
-  height: 80px;
+    display: block;
+    margin: auto;
+    line-height: 66px;
+    text-decoration: none;
+    width: 80px;
+    height: 80px;
     opacity:0.75;
+    font-size:2rem;
     -webkit-transition: all 0.35s linear;
     -moz-transition: all 0.35s linear;
     -o-transition: all 0.35s linear;
     transition: all 0.35s linear;
 }
 
-.home_bottom_arrow a i {
-	line-height: 80px;
-	font-size: 35px;
-}
+
 
 .home_bottom_arrow a:hover {
    opacity:1;
@@ -297,7 +317,7 @@ nav ul li {
 
 nav ul li a {
 	text-decoration:none;
-	font-family: 'ABeeZee', sans-serif;
+	font-family: 'Open Sans', sans-serif;
     color: rgba(244, 255, 252, 0.85);
 	position: relative;
 	top: 1px;
