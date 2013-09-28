@@ -1,3 +1,19 @@
+(function($, self){
+    "use strict";
+    if(!$ || !self) {
+        return;
+    }
+
+    for(var i=0; i<self.properties.length; i++) {
+        var property = self.properties[i],
+            camelCased = StyleFix.camelCase(property),
+            PrefixCamelCased = self.prefixProperty(property, true);
+
+        $.cssProps[camelCased] = PrefixCamelCased;
+    }
+
+})(window.jQuery, window.PrefixFree);
+
 (function ($) {
     "use strict";
 
@@ -40,20 +56,9 @@
             return false;
         });
 
-        /* ======= MOBILE MENU ======= */
 
-        $(".menu-mobile-button").click(function () {
-            if ($("#mobile-menu").css("display") == "none") {
-                $("#mobile-menu").slideDown(300);
-            }
-            else {
-                $("#mobile-menu").slideUp(300);
-            }
-        });
 
-        $("#mobile-menu ul li a").click(function () {
-            $("#mobile-menu").css("display", "none");
-        });
+
 
         /* ======= SCROLL ITEMS ======= */
 
@@ -70,15 +75,14 @@
         //inertia - speed to move relative to vertical scroll. Example: 0.1 is one tenth the speed of scrolling, 2 is twice the speed of scrolling
         //outerHeight (true/false) - Whether or not jQuery should use it"s outerHeight option to determine when a section is in the viewport
 
-        $(".home_parallax").parallax("100%", 0.35);
-        $(".content_box_parallax").parallax("100%", 0.2);
-        $(".bg").parallax("100%", 0.4);
-        $(".timeline_parallax").parallax("100%", 0.3);
+        $(".home_parallax").parallax("100%", 0.35, true);
+        $(".content_box_parallax").parallax("100%", 0.2, true);
+        $(".timeline_parallax").parallax("100%", 0.3, true);
 
-        // $(".connections_parallax").parallax("100%", 1.3);
-        $(".chico_parallax").parallax("100%", 0.6);
-        $(".testimonials_parallax").parallax("100%", 0.5);
-        $(".twitter_parallax").parallax("100%", 0.3);
+        $(".connections_parallax").parallax("100%", 0.7, true);
+        $(".chico_parallax").parallax("100%", 0.6, true);
+        $(".charts_parallax").parallax("100%", 0.5, true);
+        $(".hugh_parallax").parallax("100%", 0.3, true);
 
         /* ======= STICKY MENU ======= */
 
@@ -89,19 +93,6 @@
 
         $(".client-carousel").flexisel({
             visibleItems: 5
-        });
-
-
-        /* ======= RESPONSIVE SLIDES ======= */
-
-        $(function () {
-            $(".rslides-testimonials").responsiveSlides({
-                nav: true,
-                auto: false,
-                prevText: "<i class='icon-angle-left'>< Previous</i>",
-                nextText: "<i class='icon-angle-right'>Next ></i>",
-                navContainer: ".testimonials-navi"
-            });
         });
 
 

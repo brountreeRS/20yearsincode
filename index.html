@@ -1,43 +1,40 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <link rel="stylesheet" href="css/pace.css"/>
-    <script type="text/javascript" src="js/pace.min.js"></script>
     <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
     <meta charset="UTF-8">
     <title>20 Years In Code - a relationship rendered in html javascript and svg</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link href="http://fonts.googleapis.com/css?family=Raleway:400,800,700,500,300,100" rel="stylesheet" type="text/css"/>
+    <!--<link href="http://fonts.googleapis.com/css?family=Raleway:400,800,700,500,300,100" rel="stylesheet" type="text/css"/>-->
 
     <link rel="stylesheet" href="css/style-standards.css" type="text/css">
+    <script type="text/javascript" src="js/prefix-free.js"></script>
+
 
 </head>
 <body>
-<div id="anniversary" style="opacity: 0">
 
-<!-- HEADER -->
 <header id="home" class="home_parallax slide-menu">
     <h1><span>20</span> years <small>in code</small></h1>
     <h2>a relationship rendered in html, css, javascript and svg</h2>
-
     <div class="home_bottom_arrow">
-        <a href="index.html#main_menu">go!</a>
+        <a href="#main_menu">go!</a>
     </div>
 </header>
-<!-- MAIN MENU -->
 <nav id="main_menu" class="sticky-menu">
-    <div class="logo"><a href="index.html">20 years in code</a></div>
     <ul class="menu scrolling-links">
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#places-lived">Places</a></li>
         <li><a href="#connections">Connections</a></li>
+        <li><a href="#chico">Chico</a></li>
         <li><a href="#charts">Data</a></li>
         <li><a href="#hugh-sec">Hugh</a></li>
-        <li><a href="#infographic">Infographic</a></li>
+        <li><a href="#infographic">Infographics</a></li>
     </ul>
 </nav>
-<!-- ABOUT SECTION -->
+
+
 <section id="about" class="slide_menu">
     <h2>A Relationship Rendered in Code?
         <span>who does that?</span>
@@ -92,31 +89,17 @@
         Places We Have Lived
         <span>over 20 years</span>
     </h2>
-
     <div id="places-map"></div>
-
-
-
-
 </section>
 
 
-
-
-
-<section class="timeline_parallax"></section>
-
-
-<!-- timeline -->
+<div class="timeline_parallax"></div>
 <section id="timeline-wrap" class="slide_menu">
-
-
     <h2>
         A Timeline of Events
         <span class="general_color">the history of Hugh and Brian</span>
     </h2>
-
-    <section id="timeline-example">
+    <div id="timeline-example">
 
 
         <div id="timeline-embed">
@@ -126,20 +109,11 @@
         <div class="container">
             <div class="row"></div>
         </div>
-    </section>
-
-
-
-
+    </div>
 </section>
 
-
-<!-- chico -->
-<section class="chico_parallax"></section>
-
+<div class="chico_parallax"></div>
 <section id="chico" class="slide_menu">
-
-
     <h2>
         Chico Joins the Family
         <span>best.dog.ever</span>
@@ -163,113 +137,74 @@
     </ul>
 </section>
 
-<section class="connections_parallax"></section>
-
-<!-- connections -->
+<div class="connections_parallax"></div>
 <section id="connections" class="slide_menu">
-
-    <h2 class="text_Q">
+    <h2>
         The Ties that Bind.
-        <span class="general_color">Hugh's ability to make connections</span>
+        <span>Hugh's ability to make connections</span>
     </h2>
-
     <div class="g-graphic"></div>
-
 </section>
 
-<section id="testimonials" class="testimonials_parallax"></section>
 
-
-<!-- NEWS -->
+<div id="charts-parallax" class="charts_parallax"></div>
 <section id="charts" class="slide_menu">
-
-
     <h2>
         All the Data!
         <span class="general_color">important and informative stats.</span>
     </h2>
-
     <p>(some of which may be fudged a bit, but we won't tell...)</p>
-
-
     <div id="random"></div>
-
-
     <div id="divorce"></div>
-
     <div id="celebs"></div>
-
-
-
-
-
 </section>
 
 
-<!-- TWITTER -->
-<div id="twitter" class="twitter_parallax"></div>
-
-
+<div id="hugh-parallax" class="hugh_parallax"></div>
 <section id="hugh-sec" class="slide_menu">
-
     <h2>
         The Donagher 2v.3
         <span class="general_color">now running the enhanced software.</span>
     </h2>
-
-
     <div class="process row">
         <div class="time-machine"></div>
         <div class="couple"></div>
-
         <div class="su-column su-column-1-4 su-column-style-0">
             <div class="process-design"></div>
-
         </div>
         <div class="su-spacer"></div>
         <div class="young-hugh"></div>
         <div class="young-brian"></div>
     </div>
-
-
 </section>
 
 
-<section class="info_parallax"></section>
-
+<div class="info_parallax"></div>
 <section id="infographic" class="slide_menu">
-
     <h2>
         The Infographic
-        <span class="general_color">so "on trend" it hurts.</span>
+        <span>so "on trend" it hurts.</span>
     </h2>
-
-    <p class="home_text_Q" style="margin:0 auto 2em auto;width:50%">
-            <span style="display: inline-table">
-                I humbly submit
-                <a href="images/hjd-infographic.png">
-                    10 reasons why Hugh is the love of my life</a>
-            </span>
+    <div>
         <a href="images/hjd-infographic.png">
-            <img src="images/infographic-thumb.png" style="display:inline-table;margin-right:10px;"/>
+            <p>10 of the reasons Hugh is the love of my life</p>
+            <img src="images/infographic-thumb.png"/>
         </a>
-        in addition to the breakdown of my odds for ever being this happy.
+    </div>
+    <div>
         <a href="images/odds-infographic.png">
-            <img src="images/odds-infographic-thumb.png" style="display:inline-table;margin-right:10px;"/>
-        </a>
-    </p>
+        <p>The odds for ever being this happy.</p>
 
-
+        <img src="images/odds-infographic-thumb.png" />
+       </a>
+    </div>
 </section>
 
 
-<div id="backtop">
-    <i class="icon-angle-up"></i>
-</div>
-
-
-<!-- FOOTER -->
 <footer id="footer" class="general_bg">
+    <div id="backtop">
+        <i class="icon-angle-up"></i>
+    </div>
     <p class="copyright">© 2013 Brian Rountree. All rights resevered.</p>
 </footer>
 
@@ -312,14 +247,22 @@
     // not needed if your server delivers SVG with correct MIME type
     xhr.overrideMimeType("image/svg+xml");
     xhr.send("");
+
+
+
     document.getElementById("celebs")
             .appendChild(xhr.responseXML.documentElement);
+
+
+
     //xhr.close();
 </script>
 
+<!--<script type="text/javascript" src="js/20years.js" charset="utf-8"></script>-->
+<!--<script type="text/javascript" src="js/20years-d3.js" charset="utf-8"></script>-->
 
 <script src="js/jquery.min.js"></script>
-<script src="js/scripts.js"></script>
+
 
 
 <script type="text/javascript">
@@ -336,7 +279,6 @@
 
 
 <script type="text/javascript" src="js/storyjs-embed.js"></script>
-
 
 <script src="js/jquery.parallax-1.1.3.js"></script>
 <script src="js/jquery.scrollTo-1.4.3.1-min.js"></script>
@@ -364,8 +306,28 @@
 
 
 </script>
+<script src="js/scripts.js"></script>
 
+
+<div id="loading">
+<div class="strip left a1"></div>
+<div class="strip left a2"></div>
+<div class="strip left a3"></div>
+<div class="strip left a4"></div>
+<div class="strip left a5"></div>
+<div class="strip left a6"></div>
+<div class="strip left a7"></div>
+<div class="strip left a8"></div>
+<div class="strip right b1"></div>
+<div class="strip right b2"></div>
+<div class="strip right b3"></div>
+<div class="strip right b4"></div>
+<div class="strip right b5"></div>
+<div class="strip right b6"></div>
+<div class="strip right b7"></div>
+<div class="strip right b8"></div>
 </div>
+
 
 </body>
 </html>
