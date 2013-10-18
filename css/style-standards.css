@@ -45,6 +45,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 body {
     line-height: 1.5;
     font-smoothing: antialiased;
+
 }
 
 ol, ul {
@@ -68,6 +69,7 @@ table {
 a {
     text-decoration: none;
     transition: all 0.3s ease 0s;
+
     outline: 0 none;
     color: #f19a11;
 }
@@ -100,6 +102,7 @@ body {
     overflow-x: hidden;
     font-weight: 500;
     font-smoothing: antialiased;
+
 }
 
 .logo {
@@ -181,6 +184,7 @@ p {
     text-align: center;
     font-size: 16px;
     border-radius: 50%;
+
     color: #fff;
     position: fixed;
     bottom: 20px;
@@ -189,12 +193,14 @@ p {
     background-color: rgba(23, 13, 47, 0.97);
     z-index: 999;
     transition: all 0.2s ease 0s;
+
     opacity: 0;
 }
 
 .image-center {
     text-align: center;
 }
+
 
 /*======== HOME SECTION ========*/
 
@@ -256,10 +262,11 @@ header h2 {
     letter-spacing: -2px;
     padding: 0 5rem;
     font-weight: 500;
-    width: 66%;
-    margin-left: 10%;
+    width:66%;
+    margin-left:10%;
     color: rgba(1, 1, 1, 0.90);
-    text-shadow: 1px 1px 0 #222, 3px 3px 0 #444;
+    text-shadow: 1px 1px 0 #222,
+    3px 3px 0 #444;
 }
 
 .home_bottom_arrow {
@@ -275,6 +282,7 @@ header h2 {
 .home_bottom_arrow a {
     border: 3px solid rgba(1, 1, 1, 0.90);
     border-radius: 50%;
+
     color: rgba(1, 1, 1, 0.90);
     cursor: pointer;
     background: rgba(1, 1, 1, 0.23);
@@ -287,6 +295,7 @@ header h2 {
     opacity: 0.75;
     font-size: 2rem;
     transition: all 0.35s linear;
+
 }
 
 .home_bottom_arrow a:hover {
@@ -317,26 +326,29 @@ nav ul {
     display: inline-block;
     height: 66px;
     vertical-align: middle;
-    width: 100%;
-    text-align: center;
-    margin-left: 1%;
+    width:100%;
+    text-align:center;
+    margin-left:1%;
 
 }
 
 nav ul li {
     display: inline-block;
-    width: 10%;
+    vertical-align: middle;
+    width:10%;
 }
 
 nav ul li a {
-    font-family: 'OpenSans-ExtraBold', sans-serif;
+    font-family: 'OpenSans-Regular', sans-serif;
     color: rgba(244, 255, 252, 0.85);
     position: relative;
     top: 1px;
     display: block;
     opacity: 0.75;
+    padding-top:20px;
     border-bottom: 1px solid #734ba9;
     transition: all 0.35s linear;
+
 }
 
 nav ul li a:hover {
@@ -344,6 +356,7 @@ nav ul li a:hover {
     color: #f19a11;
     border-color: #f19a11;
 }
+
 
 .connections_parallax {
     background: url("http://farm3.staticflickr.com/2838/9927464845_bf70cf195e_o.png") fixed;
@@ -353,6 +366,7 @@ nav ul li a:hover {
     height: 300px;
     min-height: 300px;
 }
+
 
 /*======== ABOUT ===============*/
 
@@ -521,6 +535,7 @@ span.general_color {
 .place .tip {
     opacity: 0;
     transition: all 0.45s linear;
+;
 }
 
 .place:hover .tip {
@@ -536,7 +551,7 @@ span.general_color {
 /*}*/
 /*#tx-bars rect:hover, #ca-bars rect:hover {*/
 /*animation: rectHover 5s;*/
-/*-webkit-animation: rectHover 5s; *//* Safari and Chrome */
+/*animation: rectHover 5s; *//* Safari and Chrome */
 /*}*/
 
 /*@keyframes rectHover*/
@@ -547,7 +562,7 @@ span.general_color {
 /*100% {fill: #87ab66;opacity: 0.8;}*/
 /*}*/
 
-/*@-webkit-keyframes rectHover *//* Safari and Chrome */
+/*@keyframes rectHover *//* Safari and Chrome */
 /*{*/
 /*0%   {fill: #4bb3d2;opacity: 0.5;}*/
 /*25%  {fill: #d94d4d;opacity: 0.2;}*/
@@ -558,6 +573,7 @@ span.general_color {
 .data {
     opacity: 0;
     transition: all 0.45s linear;
+
 }
 
 .place:hover .data {
@@ -772,6 +788,7 @@ span.general_color {
     left: 60px;
     animation: young-brian-anim 5.2s linear 1s infinite;
 
+
 }
 
 @keyframes young-hugh-anim {
@@ -796,6 +813,7 @@ span.general_color {
         left: 200px;
     }
 }
+
 
 @keyframes young-brian-anim {
     0% {
@@ -830,7 +848,6 @@ span.general_color {
     right: 184px;
     z-index: 1;
     animation: couple-anim 5.2s linear 4s infinite;
-
 }
 
 @keyframes couple-anim {
@@ -851,6 +868,7 @@ span.general_color {
         opacity: 0;
     }
 }
+
 
 .strip {
     position: fixed;
@@ -901,42 +919,42 @@ span.general_color {
 
 .a1 {
     background-color: #e74c3c;
-    animation: openA1 1.5s linear 0.5s forwards;
+    animation: openA1 1.2s linear 0.5s forwards;
 }
 
 .a2 {
     background-color: #2ecc71;
-    animation: openA2 1.5s linear 0.5s forwards;
+    animation: openA2 1.4s linear 0.5s forwards;
 }
 
 .a3 {
     background-color: #f39c12;
-    animation: openA3 1.5s linear 0.5s forwards;
+    animation: openA3 1.6s linear 0.5s forwards;
 }
 
 .a4 {
     background-color: #3498db;
-    animation: openA4 1.5s linear 0.5s forwards;
+    animation: openA4 1.8s linear 0.5s forwards;
 }
 
 .a5 {
     background-color: #bdc3c7;
-    animation: openA5 1.5s linear 0.5s forwards;
+    animation: openA5 2s linear 0.5s forwards;
 }
 
 .a6 {
     background-color: #f1c40f;
-    animation: openA6 1.5s linear 0.5s forwards;
+    animation: openA6 2.2s linear 0.5s forwards;
 }
 
 .a7 {
     background-color: #1abc9c;
-    animation: openA7 1.5s linear 0.5s forwards;
+    animation: openA7 2.4s linear 0.5s forwards;
 }
 
 .a8 {
     background-color: #9b59b6;
-    animation: openA8 1.5s linear 0.5s forwards;
+    animation: openA8 2.6s linear 0.5s forwards;
 }
 
 @keyframes openA1 {
@@ -1037,42 +1055,42 @@ span.general_color {
 
 .b1 {
     background-color: #e54b3b;
-    animation: openB1 1.5s linear 0.5s forwards;
+    animation: openB1 1.4s linear 0.5s forwards;
 }
 
 .b2 {
     background-color: #26ac5f;
-    animation: openB2 1.5s linear 0.5s forwards;
+    animation: openB2 1.6s linear 0.5s forwards;
 }
 
 .b3 {
     background-color: #f19a11;
-    animation: openB3 1.5s linear 0.5s forwards;
+    animation: openB3 1.8s linear 0.5s forwards;
 }
 
 .b4 {
     background-color: #287eb7;
-    animation: openB4 1.5s linear 0.5s forwards;
+    animation: openB4 2.0s linear 0.5s forwards;
 }
 
 .b5 {
     background-color: #edf1f1;
-    animation: openB5 1.5s linear 0.5s forwards;
+    animation: openB5 2.2s linear 0.5s forwards;
 }
 
 .b6 {
     background-color: #efc20e;
-    animation: openB6 1.5s linear 0.5s forwards;
+    animation: openB6 2.4s linear 0.5s forwards;
 }
 
 .b7 {
     background-color: #159e83;
-    animation: openB7 1.5s linear 0.5s forwards;
+    animation: openB7 2.6s linear 0.5s forwards;
 }
 
 .b8 {
     background-color: #8c43ab;
-    animation: openB8 1.5s linear 0.5s forwards;
+    animation: openB8 2.8s linear 0.5s forwards;
 }
 
 @keyframes openB1 {
@@ -1187,7 +1205,7 @@ span.general_color {
 
 /* --the shoe thing -- */
 
-/**,*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}*/
+/**,*:before,*:after{box-sizing:border-box;box-sizing:border-box;box-sizing:border-box}*/
 img {
     vertical-align: middle
 }

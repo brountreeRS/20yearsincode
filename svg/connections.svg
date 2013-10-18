@@ -9,379 +9,382 @@
 <g id="connections">
 	<g>
 		<g>
-			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10,11,153"/>
-			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10,9-95"/>
-			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10-53-74"/>
-			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10-118-20"/>
-			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10,86-73"/>
-			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10,140-20"/>
-			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10-139,34"/>
-			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10,160,34"/>
-			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10-119,90"/>
-			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10-65,143"/>
-			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10,140,90"/>
-			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-145-10-105-230"/>
-			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFC9A6" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10,85,143"/>
-			<path fill="none" stroke="#DADADA" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#DADADA" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0-64-50"/>
-			<path fill="none" stroke="#D2BCDB" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#D2BCDB" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0-6-80"/>
-			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0,59,61"/>
-			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M226.662,250.498
+			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M316.662,110.498
 				c0,0-53-90-100,50"/>
-			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M226.662,250.498
+			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M316.662,110.498
 				c0,0-53-90-100-60"/>
-			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0,120-110"/>
-			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M226.662,250.498
+			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M316.662,110.498
 				c0,0-53-90,100-60"/>
-			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0-93,0"/>
-			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0-64,60"/>
-			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M226.662,250.498
+			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M316.662,110.498
 				c0,0-53-90-150,0"/>
-			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0,76,3"/>
-			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M226.662,250.498
+			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M316.662,110.498
 				c0,0-53-90,0-70"/>
-			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0-7,82"/>
-			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#B7D3E8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0,56-53"/>
-			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M536.662,260.498
+			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M626.662,120.498
 				c0,0,30-60,100,0"/>
-			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M536.662,260.498
+			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M626.662,120.498
 				c0,0,30-60,62-40"/>
-			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M536.662,260.498
+			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M626.662,120.498
 				c0,0,30-60-5,60"/>
-			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M536.662,260.498
+			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M626.662,120.498
 				c0,0,30-60-110,10"/>
-			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M536.662,260.498
+			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M626.662,120.498
 				c0,0,30-60,1-54"/>
-			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M226.662,250.498
+			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M316.662,110.498
 				c0,0-53-90,200,20"/>
-			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M536.662,260.498
+			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M626.662,120.498
 				c0,0,30-60,57,42"/>
-			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M536.662,260.498
+			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M626.662,120.498
 				c0,0,30-60-54,40"/>
-			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M536.662,260.498
+			<path fill="none" stroke="#BDDFD7" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M626.662,120.498
 				c0,0,30-60-59-48"/>
-			<path fill="none" stroke="#DADADA" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M76.662,710.498
+			<path fill="none" stroke="#DADADA" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M166.662,570.498
 				c0,0,470-540,10-10"/>
-			<path fill="none" stroke="#DADADA" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M76.662,710.498
+			<path fill="none" stroke="#DADADA" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M166.662,570.498
 				c0,0,430-470,350-440"/>
-			<path fill="none" stroke="#DADADA" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M76.662,710.498
+			<path fill="none" stroke="#DADADA" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M166.662,570.498
 				c0,0,470-540,10,90"/>
-			<path fill="none" stroke="#DADADA" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M76.662,710.498
+			<path fill="none" stroke="#DADADA" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M166.662,570.498
 				c0,0,480-510,10,40"/>
 		</g>
 		<g>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M536.662,260.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M626.662,120.498
 				c0,0,30-60-54,40"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M536.662,260.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M626.662,120.498
 				c0,0,30-60-59-48"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M536.662,260.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M626.662,120.498
 				c0,0,30-60,1-54"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M536.662,260.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M626.662,120.498
 				c0,0,30-60-110,10"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M536.662,260.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M626.662,120.498
 				c0,0,30-60,100,0"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M536.662,260.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M626.662,120.498
 				c0,0,30-60,57,42"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M536.662,260.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M626.662,120.498
 				c0,0,30-60,62-40"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M536.662,260.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M626.662,120.498
 				c0,0,30-60-5,60"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M76.662,710.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M166.662,570.498
 				c0,0,430-470,350-440"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M76.662,710.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M166.662,570.498
 				c0,0,470-540,10-10"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M76.662,710.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M166.662,570.498
 				c0,0,470-540,10,90"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M76.662,710.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M166.662,570.498
 				c0,0,480-510,10,40"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-145-10-105-230"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10,9-95"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10,86-73"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10,140-20"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10,160,34"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10,140,90"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10,85,143"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10,11,153"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10-65,143"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10-119,90"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10-139,34"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10-118-20"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M531.662,500.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M621.662,360.498
 				c0,0-95,10-53-74"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0-6-80"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0,56-53"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0,120-110"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0,76,3"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0,59,61"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0-7,82"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0-64,60"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0-93,0"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M306.662,380.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M396.662,240.498
 				c0,0,0,0-64-50"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M226.662,250.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M316.662,110.498
 				c0,0-53-90,200,20"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M226.662,250.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M316.662,110.498
 				c0,0-53-90,100-60"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M226.662,250.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M316.662,110.498
 				c0,0-53-90,0-70"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M226.662,250.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M316.662,110.498
 				c0,0-53-90-100-60"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M226.662,250.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M316.662,110.498
 				c0,0-53-90-150,0"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M226.662,250.498
+			<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M316.662,110.498
 				c0,0-53-90-100,50"/>
 		</g>
 		<g>
-			<circle stroke="#FFFFFF" stroke-width="2" cx="536.662" cy="260.498" r="3"/>
-			<circle stroke="#FFFFFF" stroke-width="2" cx="76.662" cy="710.498" r="3"/>
-			<circle stroke="#FFFFFF" stroke-width="2" cx="531.662" cy="500.498" r="3"/>
-			<circle stroke="#FFFFFF" stroke-width="2" cx="306.662" cy="380.498" r="3"/>
-			<circle stroke="#FFFFFF" stroke-width="2" cx="226.662" cy="250.498" r="3"/>
+			<circle stroke="#FFFFFF" stroke-width="2" cx="626.662" cy="120.498" r="3"/>
+			<circle stroke="#FFFFFF" stroke-width="2" cx="166.662" cy="570.498" r="3"/>
+			<circle stroke="#FFFFFF" stroke-width="2" cx="621.662" cy="360.498" r="3"/>
+			<circle stroke="#FFFFFF" stroke-width="2" cx="396.662" cy="240.498" r="3"/>
+			<circle stroke="#FFFFFF" stroke-width="2" cx="316.662" cy="110.498" r="3"/>
 		</g>
 		<g>
 			<g enable-background="new    ">
-				<path fill="#FF9D00" d="M572.397,173.062h-0.78v-1.032h4.666c0.54,0,0.768,0.229,0.768,0.768v1.067h-1.092v-0.539
-					c0-0.18-0.096-0.264-0.264-0.264h-2.099v2.782h2.891v1.031h-2.891v3.622h-1.199V173.062z"/>
-				<path fill="#FF9D00" d="M581.239,176.72h0.265v-0.06c0-1.067-0.396-1.451-1.344-1.451c-0.288,0-0.996,0.072-0.996,0.468v0.348
+				<path fill="#FF9D00" d="M662.397,33.062h-0.78V32.03h4.666c0.54,0,0.768,0.229,0.768,0.768v1.067h-1.092v-0.539
+					c0-0.18-0.096-0.264-0.264-0.264h-2.099v2.782h2.891v1.031h-2.891v3.622h-1.199L662.397,33.062L662.397,33.062z"/>
+				<path fill="#FF9D00" d="M671.239,36.72h0.265v-0.06c0-1.067-0.396-1.451-1.344-1.451c-0.288,0-0.996,0.072-0.996,0.468v0.348
 					h-1.091v-0.6c0-0.995,1.511-1.14,2.099-1.14c1.967,0,2.494,1.031,2.494,2.375v2.578c0,0.181,0.097,0.265,0.265,0.265h0.491
 					v0.995h-1.091c-0.54,0-0.756-0.264-0.756-0.695c0-0.204,0.024-0.36,0.024-0.36h-0.024c0,0-0.479,1.199-1.931,1.199
-					c-1.043,0-2.062-0.636-2.062-1.847C577.582,176.84,580.221,176.72,581.239,176.72z M579.896,179.706
+					c-1.043,0-2.062-0.636-2.062-1.847C667.582,36.84,670.221,36.72,671.239,36.72z M669.896,39.706
 					c0.983,0,1.619-1.031,1.619-1.931v-0.204h-0.301c-0.875,0-2.458,0.048-2.458,1.164
-					C578.757,179.227,579.129,179.706,579.896,179.706z"/>
-				<path fill="#FF9D00" d="M584.686,175.688c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.115c0.527,0,0.768,0.228,0.768,0.671
+					C668.757,39.227,669.129,39.706,669.896,39.706z"/>
+				<path fill="#FF9D00" d="M674.686,35.688c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.115c0.527,0,0.768,0.228,0.768,0.671
 					v0.229c0,0.191-0.012,0.348-0.012,0.348h0.023c0.289-0.708,1.128-1.392,2.076-1.392c1.031,0,1.618,0.468,1.822,1.38h0.023
 					c0.336-0.731,1.176-1.38,2.159-1.38c1.368,0,2.003,0.78,2.003,2.327v2.626c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.151
 					c-0.54,0-0.768-0.228-0.768-0.768v-2.866c0-0.852-0.168-1.523-1.067-1.523c-0.84,0-1.487,0.731-1.703,1.56
 					c-0.061,0.252-0.096,0.516-0.096,0.827v2.771h-1.164v-3.634c0-0.792-0.119-1.523-1.043-1.523c-0.888,0-1.512,0.743-1.739,1.607
-					c-0.06,0.239-0.084,0.504-0.084,0.779v2.771h-1.163V175.688z"/>
-				<path fill="#FF9D00" d="M595.989,175.688c0-0.18-0.097-0.264-0.265-0.264h-0.491v-0.995h1.14c0.539,0,0.768,0.228,0.768,0.768
-					v4.041c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.14c-0.54,0-0.768-0.228-0.768-0.768V175.688z M596.014,172.03h1.043
-					v1.212h-1.043V172.03z"/>
-				<path fill="#FF9D00" d="M599.205,173.29c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.996h1.152c0.539,0,0.768,0.229,0.768,0.768
-					v6.44c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.152c-0.539,0-0.768-0.228-0.768-0.768V173.29z"/>
-				<path fill="#FF9D00" d="M602.854,182.009c0.467,0,0.839-0.335,1.066-0.875l0.276-0.66l-2.075-4.809
-					c-0.084-0.192-0.191-0.24-0.383-0.24h-0.145v-0.995h0.684c0.492,0,0.672,0.132,0.863,0.611l1.379,3.418
+					c-0.06,0.239-0.084,0.504-0.084,0.779v2.771h-1.163v-4.811H674.686z"/>
+				<path fill="#FF9D00" d="M685.989,35.688c0-0.18-0.097-0.264-0.265-0.264h-0.491v-0.995h1.14c0.539,0,0.768,0.228,0.768,0.768
+					v4.041c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.14c-0.54,0-0.768-0.228-0.768-0.768L685.989,35.688L685.989,35.688z
+					 M686.014,32.03h1.043v1.212h-1.043V32.03z"/>
+				<path fill="#FF9D00" d="M689.205,33.29c0-0.18-0.096-0.264-0.264-0.264h-0.492V32.03h1.152c0.539,0,0.768,0.229,0.768,0.768
+					v6.44c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.152c-0.539,0-0.768-0.228-0.768-0.768V33.29z"/>
+				<path fill="#FF9D00" d="M692.854,42.009c0.467,0,0.839-0.335,1.066-0.875l0.276-0.66l-2.075-4.809
+					c-0.084-0.192-0.191-0.24-0.383-0.24h-0.145V34.43h0.684c0.492,0,0.672,0.132,0.863,0.611l1.379,3.418
 					c0.121,0.312,0.217,0.731,0.217,0.731h0.023c0,0,0.084-0.419,0.204-0.731l1.259-3.418c0.18-0.479,0.396-0.611,0.889-0.611h0.695
 					v0.995h-0.156c-0.191,0-0.3,0.048-0.384,0.24l-2.399,5.925c-0.371,0.936-1.103,1.427-1.954,1.427c-0.899,0-1.427-0.6-1.427-0.6
-					l0.479-0.84C601.965,181.59,602.338,182.009,602.854,182.009z"/>
+					l0.479-0.84C691.965,41.59,692.338,42.009,692.854,42.009z"/>
 			</g>
 			<g enable-background="new    ">
-				<path fill="#FF9D00" d="M151.23,760.623h-0.78v-1.032h4.666c0.54,0,0.768,0.229,0.768,0.768v1.067h-1.091v-0.539
-					c0-0.18-0.096-0.264-0.264-0.264h-2.099v2.782h2.891v1.031h-2.891v3.622h-1.199V760.623z"/>
-				<path fill="#FF9D00" d="M157.17,763.249c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.104c0.528,0,0.78,0.216,0.78,0.707
+				<path fill="#FF9D00" d="M241.23,620.623h-0.78v-1.032h4.666c0.54,0,0.768,0.229,0.768,0.768v1.067h-1.091v-0.539
+					c0-0.18-0.096-0.264-0.264-0.264h-2.099v2.782h2.891v1.031h-2.891v3.622h-1.199L241.23,620.623L241.23,620.623z"/>
+				<path fill="#FF9D00" d="M247.17,623.249c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.104c0.528,0,0.78,0.216,0.78,0.707
 					v0.384c0,0.24-0.024,0.42-0.024,0.42h0.024c0.288-0.888,0.983-1.583,1.919-1.583c0.156,0,0.312,0.024,0.312,0.024v1.151
-					c0,0-0.156-0.036-0.348-0.036c-0.744,0-1.427,0.527-1.703,1.427c-0.108,0.348-0.144,0.72-0.144,1.092v2.482h-1.163V763.249z"/>
-				<path fill="#FF9D00" d="M161.875,763.249c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.14c0.54,0,0.768,0.228,0.768,0.768
-					v4.041c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.139c-0.54,0-0.768-0.228-0.768-0.768V763.249z M161.898,759.591h1.043
-					v1.212h-1.043V759.591z"/>
-				<path fill="#FF9D00" d="M167.573,761.846c1.703,0,2.615,1.271,2.615,2.843c0,0.156-0.036,0.479-0.036,0.479h-4.426
+					c0,0-0.156-0.036-0.348-0.036c-0.744,0-1.427,0.527-1.703,1.427c-0.108,0.348-0.144,0.72-0.144,1.092v2.482h-1.163
+					L247.17,623.249L247.17,623.249z"/>
+				<path fill="#FF9D00" d="M251.875,623.249c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.14c0.54,0,0.768,0.228,0.768,0.768
+					v4.041c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.139c-0.54,0-0.768-0.228-0.768-0.768L251.875,623.249L251.875,623.249z
+					 M251.898,619.591h1.043v1.212h-1.043V619.591z"/>
+				<path fill="#FF9D00" d="M257.573,621.846c1.703,0,2.615,1.271,2.615,2.843c0,0.156-0.036,0.479-0.036,0.479h-4.426
 					c0.072,1.296,1.008,2.027,2.087,2.027c1.043,0,1.775-0.708,1.775-0.708l0.503,0.828c0,0-0.899,0.887-2.338,0.887
-					c-1.919,0-3.227-1.379-3.227-3.178C164.526,763.094,165.846,761.846,167.573,761.846z M168.988,764.316
-					c-0.036-1.007-0.672-1.547-1.427-1.547c-0.888,0-1.607,0.54-1.787,1.547H168.988z"/>
-				<path fill="#FF9D00" d="M171.738,763.249c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.116c0.516,0,0.768,0.228,0.768,0.671
+					c-1.919,0-3.227-1.379-3.227-3.178C254.526,623.094,255.846,621.846,257.573,621.846z M258.988,624.316
+					c-0.036-1.007-0.672-1.547-1.427-1.547c-0.888,0-1.607,0.54-1.787,1.547H258.988z"/>
+				<path fill="#FF9D00" d="M261.738,623.249c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.116c0.516,0,0.768,0.228,0.768,0.671
 					v0.229c0,0.191-0.024,0.348-0.024,0.348h0.024c0.24-0.527,0.959-1.392,2.279-1.392c1.439,0,2.086,0.78,2.086,2.327v2.626
 					c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.151c-0.54,0-0.768-0.228-0.768-0.768v-2.854c0-0.852-0.168-1.523-1.14-1.523
-					c-0.935,0-1.679,0.612-1.919,1.487c-0.083,0.24-0.108,0.516-0.108,0.815v2.843h-1.163V763.249z"/>
-				<path fill="#FF9D00" d="M181.421,761.846c1.403,0,1.871,0.936,1.871,0.936h0.024c0,0-0.024-0.18-0.024-0.407v-1.523
+					c-0.935,0-1.679,0.612-1.919,1.487c-0.083,0.24-0.108,0.516-0.108,0.815v2.843h-1.163V623.249z"/>
+				<path fill="#FF9D00" d="M271.421,621.846c1.403,0,1.871,0.936,1.871,0.936h0.024c0,0-0.024-0.18-0.024-0.407v-1.523
 					c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.996h1.151c0.54,0,0.768,0.229,0.768,0.768v6.44c0,0.181,0.096,0.265,0.264,0.265
 					h0.492v0.995h-1.115c-0.528,0-0.744-0.24-0.744-0.647c0-0.18,0.012-0.312,0.012-0.312h-0.024c0,0-0.504,1.103-1.991,1.103
-					c-1.643,0-2.674-1.295-2.674-3.178C178.674,763.094,179.813,761.846,181.421,761.846z M183.328,765.013
+					c-1.643,0-2.674-1.295-2.674-3.178C268.674,623.094,269.813,621.846,271.421,621.846z M273.328,625.013
 					c0-1.08-0.563-2.159-1.727-2.159c-0.947,0-1.739,0.791-1.739,2.171c0,1.319,0.708,2.171,1.715,2.171
-					C182.476,767.195,183.328,766.56,183.328,765.013z"/>
-				<path fill="#FF9D00" d="M186.414,766.355c0,0,0.72,0.899,1.835,0.899c0.564,0,1.056-0.252,1.056-0.779
+					C272.476,627.195,273.328,626.56,273.328,625.013z"/>
+				<path fill="#FF9D00" d="M276.414,626.355c0,0,0.72,0.899,1.835,0.899c0.564,0,1.056-0.252,1.056-0.779
 					c0-1.092-3.31-0.972-3.31-2.927c0-1.163,1.019-1.703,2.254-1.703c0.732,0,1.991,0.252,1.991,1.176v0.575h-1.043v-0.3
 					c0-0.359-0.54-0.516-0.912-0.516c-0.684,0-1.127,0.24-1.127,0.72c0,1.151,3.31,0.899,3.31,2.927c0,1.079-0.959,1.774-2.23,1.774
-					c-1.619,0-2.423-1.067-2.423-1.067L186.414,766.355z"/>
+					c-1.619,0-2.423-1.067-2.423-1.067L276.414,626.355z"/>
 			</g>
 			<g enable-background="new    ">
-				<path fill="#FF9D00" d="M657.777,440.531c0,0,0.863,1.02,2.123,1.02c0.791,0,1.451-0.479,1.451-1.26
+				<path fill="#FF9D00" d="M747.777,300.531c0,0,0.863,1.02,2.123,1.02c0.791,0,1.451-0.479,1.451-1.26
 					c0-1.774-4.09-1.499-4.09-4.138c0-1.271,1.115-2.267,2.711-2.267c0.898,0,2.41,0.408,2.41,1.56v0.695h-1.104v-0.396
 					c0-0.444-0.635-0.768-1.307-0.768c-0.912,0-1.487,0.503-1.487,1.139c0,1.716,4.077,1.332,4.077,4.114
-					c0,1.295-1.007,2.41-2.686,2.41c-1.8,0-2.807-1.259-2.807-1.259L657.777,440.531z"/>
-				<path fill="#FF9D00" d="M667.16,438.72h0.264v-0.06c0-1.067-0.396-1.451-1.344-1.451c-0.287,0-0.995,0.072-0.995,0.468v0.348
+					c0,1.295-1.007,2.41-2.686,2.41c-1.8,0-2.807-1.259-2.807-1.259L747.777,300.531z"/>
+				<path fill="#FF9D00" d="M757.16,298.72h0.264v-0.06c0-1.067-0.396-1.451-1.344-1.451c-0.287,0-0.995,0.072-0.995,0.468v0.348
 					h-1.091v-0.6c0-0.995,1.511-1.14,2.098-1.14c1.968,0,2.495,1.031,2.495,2.375v2.578c0,0.181,0.097,0.265,0.265,0.265h0.491
 					v0.995h-1.091c-0.541,0-0.756-0.264-0.756-0.695c0-0.204,0.023-0.36,0.023-0.36h-0.023c0,0-0.48,1.199-1.932,1.199
-					c-1.043,0-2.062-0.636-2.062-1.847C663.502,438.84,666.141,438.72,667.16,438.72z M665.816,441.706
+					c-1.043,0-2.062-0.636-2.062-1.847C753.502,298.84,756.141,298.72,757.16,298.72z M755.816,301.706
 					c0.983,0,1.619-1.031,1.619-1.931v-0.204h-0.3c-0.876,0-2.458,0.048-2.458,1.164
-					C664.678,441.227,665.049,441.706,665.816,441.706z"/>
-				<path fill="#FF9D00" d="M670.605,437.688c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.115c0.516,0,0.768,0.228,0.768,0.671
+					C754.678,301.227,755.049,301.706,755.816,301.706z"/>
+				<path fill="#FF9D00" d="M760.605,297.688c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.115c0.516,0,0.768,0.228,0.768,0.671
 					v0.229c0,0.191-0.023,0.348-0.023,0.348h0.023c0.24-0.527,0.96-1.392,2.279-1.392c1.439,0,2.086,0.78,2.086,2.327v2.626
 					c0,0.181,0.097,0.265,0.265,0.265h0.491v0.995h-1.15c-0.54,0-0.768-0.228-0.768-0.768v-2.854c0-0.852-0.168-1.523-1.141-1.523
-					c-0.935,0-1.678,0.612-1.918,1.487c-0.084,0.24-0.108,0.516-0.108,0.815v2.843h-1.163V437.688z"/>
-				<path fill="#FF9D00" d="M680.47,441.467h0.168c0.216,0,0.323-0.048,0.396-0.264l2.65-7.173h1.26l2.65,7.173
+					c-0.935,0-1.678,0.612-1.918,1.487c-0.084,0.24-0.108,0.516-0.108,0.815v2.843h-1.163V297.688z"/>
+				<path fill="#FF9D00" d="M770.47,301.467h0.168c0.216,0,0.323-0.048,0.396-0.264l2.65-7.173h1.26l2.65,7.173
 					c0.072,0.216,0.191,0.264,0.396,0.264h0.181v1.031h-0.672c-0.6,0-0.792-0.144-0.984-0.695l-0.635-1.739h-3.119l-0.635,1.739
-					c-0.204,0.552-0.396,0.695-0.996,0.695h-0.659V441.467z M685.578,439.056l-0.923-2.578c-0.155-0.444-0.336-1.188-0.336-1.188
-					h-0.024c0,0-0.168,0.743-0.323,1.188l-0.923,2.578H685.578z"/>
-				<path fill="#FF9D00" d="M689.325,437.688c0-0.18-0.097-0.264-0.265-0.264h-0.491v-0.995h1.116c0.516,0,0.768,0.228,0.768,0.671
+					c-0.204,0.552-0.396,0.695-0.996,0.695h-0.659v-1.031H770.47z M775.578,299.056l-0.923-2.578
+					c-0.155-0.444-0.336-1.188-0.336-1.188h-0.024c0,0-0.168,0.743-0.323,1.188l-0.923,2.578H775.578z"/>
+				<path fill="#FF9D00" d="M779.325,297.688c0-0.18-0.097-0.264-0.265-0.264h-0.491v-0.995h1.116c0.516,0,0.768,0.228,0.768,0.671
 					v0.229c0,0.191-0.024,0.348-0.024,0.348h0.024c0.239-0.527,0.959-1.392,2.278-1.392c1.438,0,2.087,0.78,2.087,2.327v2.626
 					c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.152c-0.539,0-0.768-0.228-0.768-0.768v-2.854c0-0.852-0.168-1.523-1.139-1.523
-					c-0.936,0-1.68,0.612-1.92,1.487c-0.083,0.24-0.107,0.516-0.107,0.815v2.843h-1.163V437.688z"/>
-				<path fill="#FF9D00" d="M696.885,437.365h-0.791v-0.936h0.814v-1.667h1.141v1.667h1.451v0.936h-1.451v2.782
+					c-0.936,0-1.68,0.612-1.92,1.487c-0.083,0.24-0.107,0.516-0.107,0.815v2.843h-1.163V297.688z"/>
+				<path fill="#FF9D00" d="M786.885,297.365h-0.791v-0.936h0.814v-1.667h1.141v1.667h1.451v0.936h-1.451v2.782
 					c0,1.211,0.839,1.367,1.283,1.367c0.168,0,0.275-0.024,0.275-0.024v1.032c0,0-0.156,0.023-0.408,0.023
-					c-0.768,0-2.314-0.239-2.314-2.267V437.365z"/>
-				<path fill="#FF9D00" d="M703.627,436.285c1.812,0,3.275,1.332,3.275,3.167c0,1.847-1.464,3.189-3.275,3.189
-					c-1.811,0-3.262-1.343-3.262-3.189C700.365,437.617,701.816,436.285,703.627,436.285z M703.627,441.635
+					c-0.768,0-2.314-0.239-2.314-2.267V297.365z"/>
+				<path fill="#FF9D00" d="M793.627,296.285c1.812,0,3.275,1.332,3.275,3.167c0,1.847-1.464,3.189-3.275,3.189
+					c-1.811,0-3.262-1.343-3.262-3.189C790.365,297.617,791.816,296.285,793.627,296.285z M793.627,301.635
 					c1.152,0,2.088-0.912,2.088-2.183c0-1.26-0.936-2.159-2.088-2.159c-1.139,0-2.074,0.899-2.074,2.159
-					C701.553,440.723,702.488,441.635,703.627,441.635z"/>
-				<path fill="#FF9D00" d="M708.357,437.688c0-0.18-0.097-0.264-0.265-0.264h-0.491v-0.995h1.115c0.516,0,0.768,0.228,0.768,0.671
+					C791.553,300.723,792.488,301.635,793.627,301.635z"/>
+				<path fill="#FF9D00" d="M798.357,297.688c0-0.18-0.097-0.264-0.265-0.264h-0.491v-0.995h1.115c0.516,0,0.768,0.228,0.768,0.671
 					v0.229c0,0.191-0.023,0.348-0.023,0.348h0.023c0.24-0.527,0.959-1.392,2.279-1.392c1.438,0,2.086,0.78,2.086,2.327v2.626
 					c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.151c-0.54,0-0.768-0.228-0.768-0.768v-2.854c0-0.852-0.168-1.523-1.14-1.523
-					c-0.936,0-1.679,0.612-1.919,1.487c-0.084,0.24-0.108,0.516-0.108,0.815v2.843h-1.162V437.688z"/>
-				<path fill="#FF9D00" d="M715.93,437.688c0-0.18-0.097-0.264-0.265-0.264h-0.491v-0.995h1.139c0.54,0,0.768,0.228,0.768,0.768
-					v4.041c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.139c-0.541,0-0.768-0.228-0.768-0.768V437.688z M715.953,434.03h1.043
-					v1.212h-1.043V434.03z"/>
-				<path fill="#FF9D00" d="M721.844,436.285c1.811,0,3.273,1.332,3.273,3.167c0,1.847-1.463,3.189-3.273,3.189
-					c-1.812,0-3.263-1.343-3.263-3.189C718.581,437.617,720.032,436.285,721.844,436.285z M721.844,441.635
+					c-0.936,0-1.679,0.612-1.919,1.487c-0.084,0.24-0.108,0.516-0.108,0.815v2.843h-1.162L798.357,297.688L798.357,297.688z"/>
+				<path fill="#FF9D00" d="M805.93,297.688c0-0.18-0.097-0.264-0.265-0.264h-0.491v-0.995h1.139c0.54,0,0.768,0.228,0.768,0.768
+					v4.041c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.139c-0.541,0-0.768-0.228-0.768-0.768L805.93,297.688L805.93,297.688z
+					 M805.953,294.03h1.043v1.212h-1.043V294.03z"/>
+				<path fill="#FF9D00" d="M811.844,296.285c1.811,0,3.273,1.332,3.273,3.167c0,1.847-1.463,3.189-3.273,3.189
+					c-1.812,0-3.263-1.343-3.263-3.189C808.581,297.617,810.032,296.285,811.844,296.285z M811.844,301.635
 					c1.15,0,2.086-0.912,2.086-2.183c0-1.26-0.936-2.159-2.086-2.159c-1.14,0-2.075,0.899-2.075,2.159
-					C719.769,440.723,720.704,441.635,721.844,441.635z"/>
+					C809.769,300.723,810.704,301.635,811.844,301.635z"/>
 			</g>
 			<g enable-background="new    ">
-				<path fill="#FF9D00" d="M149.402,415.465h0.408c0.168,0,0.252-0.096,0.264-0.264l0.576-7.173h1.235l1.991,4.486
+				<path fill="#FF9D00" d="M239.402,275.465h0.408c0.168,0,0.252-0.096,0.264-0.264l0.576-7.173h1.235l1.991,4.486
 					c0.204,0.455,0.42,1.067,0.42,1.067h0.024c0,0,0.216-0.612,0.42-1.067l1.991-4.486h1.235l0.576,7.173
 					c0.012,0.168,0.096,0.264,0.264,0.264h0.396v1.031h-1.067c-0.54,0-0.732-0.228-0.768-0.768l-0.348-4.474
 					c-0.036-0.504-0.024-1.247-0.024-1.247h-0.024c0,0-0.24,0.791-0.444,1.247l-1.715,3.718h-1.007l-1.715-3.718
 					c-0.204-0.443-0.456-1.259-0.456-1.259h-0.024c0,0,0.012,0.755-0.024,1.259l-0.336,4.474c-0.036,0.54-0.228,0.768-0.78,0.768
-					h-1.067V415.465z"/>
-				<path fill="#FF9D00" d="M163.14,410.283c1.811,0,3.274,1.332,3.274,3.167c0,1.847-1.463,3.189-3.274,3.189
-					s-3.262-1.343-3.262-3.189C159.878,411.615,161.329,410.283,163.14,410.283z M163.14,415.633c1.151,0,2.087-0.912,2.087-2.183
-					c0-1.26-0.936-2.159-2.087-2.159c-1.139,0-2.075,0.899-2.075,2.159C161.065,414.721,162.001,415.633,163.14,415.633z"/>
-				<path fill="#FF9D00" d="M167.846,411.687c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.14c0.552,0,0.779,0.228,0.779,0.743
+					h-1.067v-1.031H239.402z"/>
+				<path fill="#FF9D00" d="M253.14,270.283c1.811,0,3.274,1.332,3.274,3.167c0,1.847-1.463,3.189-3.274,3.189
+					s-3.262-1.343-3.262-3.189C249.878,271.615,251.329,270.283,253.14,270.283z M253.14,275.633c1.151,0,2.087-0.912,2.087-2.183
+					c0-1.26-0.936-2.159-2.087-2.159c-1.139,0-2.075,0.899-2.075,2.159C251.065,274.721,252.001,275.633,253.14,275.633z"/>
+				<path fill="#FF9D00" d="M257.846,271.687c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.14c0.552,0,0.779,0.228,0.779,0.743
 					v2.879c0,0.839,0.168,1.511,1.127,1.511c1.248,0,1.979-1.092,1.979-2.291v-2.842h1.163v4.809c0,0.181,0.096,0.265,0.264,0.265
 					h0.492v0.995h-1.115c-0.516,0-0.768-0.24-0.768-0.672v-0.228c0-0.192,0.012-0.348,0.012-0.348h-0.024
-					c-0.252,0.6-1.031,1.391-2.231,1.391c-1.367,0-2.062-0.72-2.062-2.326V411.687z"/>
-				<path fill="#FF9D00" d="M175.321,411.687c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.116c0.516,0,0.768,0.228,0.768,0.671
+					c-0.252,0.6-1.031,1.391-2.231,1.391c-1.367,0-2.062-0.72-2.062-2.326L257.846,271.687L257.846,271.687z"/>
+				<path fill="#FF9D00" d="M265.321,271.687c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.116c0.516,0,0.768,0.228,0.768,0.671
 					v0.229c0,0.191-0.024,0.348-0.024,0.348h0.024c0.24-0.527,0.959-1.392,2.279-1.392c1.439,0,2.086,0.78,2.086,2.327v2.626
 					c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.151c-0.54,0-0.768-0.228-0.768-0.768v-2.854c0-0.852-0.168-1.523-1.14-1.523
-					c-0.935,0-1.679,0.612-1.919,1.487c-0.083,0.24-0.108,0.516-0.108,0.815v2.843h-1.163V411.687z"/>
-				<path fill="#FF9D00" d="M182.881,411.363h-0.792v-0.936h0.815v-1.667h1.14v1.667h1.451v0.936h-1.451v2.782
+					c-0.935,0-1.679,0.612-1.919,1.487c-0.083,0.24-0.108,0.516-0.108,0.815v2.843h-1.163V271.687z"/>
+				<path fill="#FF9D00" d="M272.881,271.363h-0.792v-0.936h0.815v-1.667h1.14v1.667h1.451v0.936h-1.451v2.782
 					c0,1.211,0.839,1.367,1.283,1.367c0.168,0,0.276-0.024,0.276-0.024v1.032c0,0-0.156,0.023-0.408,0.023
-					c-0.768,0-2.315-0.239-2.315-2.267V411.363z"/>
-				<path fill="#FF9D00" d="M190.079,412.718h0.264v-0.06c0-1.067-0.396-1.451-1.343-1.451c-0.288,0-0.996,0.072-0.996,0.468v0.348
+					c-0.768,0-2.315-0.239-2.315-2.267L272.881,271.363L272.881,271.363z"/>
+				<path fill="#FF9D00" d="M280.079,272.718h0.264v-0.06c0-1.067-0.396-1.451-1.343-1.451c-0.288,0-0.996,0.072-0.996,0.468v0.348
 					h-1.091v-0.6c0-0.995,1.511-1.14,2.099-1.14c1.967,0,2.495,1.031,2.495,2.375v2.578c0,0.181,0.096,0.265,0.264,0.265h0.492
 					v0.995h-1.091c-0.54,0-0.756-0.264-0.756-0.695c0-0.204,0.024-0.36,0.024-0.36h-0.024c0,0-0.479,1.199-1.931,1.199
-					c-1.043,0-2.063-0.636-2.063-1.847C186.421,412.838,189.06,412.718,190.079,412.718z M188.736,415.704
+					c-1.043,0-2.063-0.636-2.063-1.847C276.421,272.838,279.06,272.718,280.079,272.718z M278.736,275.704
 					c0.984,0,1.619-1.031,1.619-1.931v-0.204h-0.3c-0.875,0-2.458,0.048-2.458,1.164
-					C187.597,415.225,187.968,415.704,188.736,415.704z"/>
-				<path fill="#FF9D00" d="M193.585,411.687c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.14c0.54,0,0.768,0.228,0.768,0.768
-					v4.041c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.139c-0.54,0-0.768-0.228-0.768-0.768V411.687z M193.609,408.028h1.043
-					v1.212h-1.043V408.028z"/>
-				<path fill="#FF9D00" d="M196.825,411.687c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.116c0.516,0,0.768,0.228,0.768,0.671
+					C277.597,275.225,277.968,275.704,278.736,275.704z"/>
+				<path fill="#FF9D00" d="M283.585,271.687c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.14c0.54,0,0.768,0.228,0.768,0.768
+					v4.041c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.139c-0.54,0-0.768-0.228-0.768-0.768L283.585,271.687L283.585,271.687z
+					 M283.609,268.028h1.043v1.212h-1.043V268.028z"/>
+				<path fill="#FF9D00" d="M286.825,271.687c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.116c0.516,0,0.768,0.228,0.768,0.671
 					v0.229c0,0.191-0.024,0.348-0.024,0.348h0.024c0.24-0.527,0.959-1.392,2.279-1.392c1.439,0,2.086,0.78,2.086,2.327v2.626
 					c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.151c-0.54,0-0.768-0.228-0.768-0.768v-2.854c0-0.852-0.168-1.523-1.14-1.523
-					c-0.935,0-1.679,0.612-1.919,1.487c-0.083,0.24-0.108,0.516-0.108,0.815v2.843h-1.163V411.687z"/>
-				<path fill="#FF9D00" d="M206.977,409.324c-0.072-0.216-0.192-0.264-0.396-0.264h-0.168v-1.032h0.671
+					c-0.935,0-1.679,0.612-1.919,1.487c-0.083,0.24-0.108,0.516-0.108,0.815v2.843h-1.163V271.687z"/>
+				<path fill="#FF9D00" d="M296.977,269.324c-0.072-0.216-0.192-0.264-0.396-0.264h-0.168v-1.032h0.671
 					c0.6,0,0.804,0.133,0.996,0.696l1.859,5.217c0.156,0.456,0.324,1.163,0.324,1.163h0.024c0,0,0.156-0.707,0.324-1.163
 					l1.859-5.217c0.204-0.563,0.396-0.696,0.996-0.696h0.671v1.032h-0.168c-0.216,0-0.324,0.048-0.396,0.264l-2.663,7.172h-1.271
-					L206.977,409.324z"/>
-				<path fill="#FF9D00" d="M215.365,411.687c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.14c0.54,0,0.768,0.228,0.768,0.768
-					v4.041c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.139c-0.54,0-0.768-0.228-0.768-0.768V411.687z M215.389,408.028h1.043
-					v1.212h-1.043V408.028z"/>
-				<path fill="#FF9D00" d="M221.063,410.283c1.703,0,2.615,1.271,2.615,2.843c0,0.156-0.036,0.479-0.036,0.479h-4.425
+					L296.977,269.324z"/>
+				<path fill="#FF9D00" d="M305.365,271.687c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.14c0.54,0,0.768,0.228,0.768,0.768
+					v4.041c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.139c-0.54,0-0.768-0.228-0.768-0.768v-4.042H305.365z M305.389,268.028
+					h1.043v1.212h-1.043V268.028z"/>
+				<path fill="#FF9D00" d="M311.063,270.283c1.703,0,2.615,1.271,2.615,2.843c0,0.156-0.036,0.479-0.036,0.479h-4.425
 					c0.072,1.296,1.007,2.027,2.086,2.027c1.043,0,1.775-0.708,1.775-0.708l0.503,0.828c0,0-0.899,0.887-2.338,0.887
-					c-1.919,0-3.227-1.379-3.227-3.178C218.017,411.531,219.336,410.283,221.063,410.283z M222.479,412.754
-					c-0.036-1.007-0.671-1.547-1.427-1.547c-0.888,0-1.607,0.54-1.787,1.547H222.479z"/>
-				<path fill="#FF9D00" d="M224.869,411.663c-0.06-0.192-0.18-0.24-0.372-0.24h-0.168v-0.995h0.731c0.54,0,0.744,0.132,0.899,0.647
+					c-1.919,0-3.227-1.379-3.227-3.178C308.017,271.531,309.336,270.283,311.063,270.283z M312.479,272.754
+					c-0.036-1.007-0.671-1.547-1.427-1.547c-0.888,0-1.607,0.54-1.787,1.547H312.479z"/>
+				<path fill="#FF9D00" d="M314.869,271.663c-0.06-0.192-0.18-0.24-0.372-0.24h-0.168v-0.995h0.731c0.54,0,0.744,0.132,0.899,0.647
 					l1.08,3.61c0.096,0.312,0.144,0.647,0.144,0.647h0.024c0,0,0.072-0.336,0.167-0.647l1.308-4.234h1.067l1.319,4.234
 					c0.096,0.312,0.156,0.647,0.156,0.647h0.024c0,0,0.048-0.336,0.144-0.647l1.067-3.61c0.156-0.516,0.372-0.647,0.912-0.647h0.72
 					v0.995h-0.168c-0.192,0-0.312,0.048-0.372,0.24l-1.595,4.833h-1.307l-1.259-3.897c-0.096-0.312-0.168-0.66-0.168-0.66h-0.024
-					c0,0-0.072,0.348-0.168,0.66l-1.247,3.897h-1.319L224.869,411.663z"/>
+					c0,0-0.072,0.348-0.168,0.66l-1.247,3.897h-1.319L314.869,271.663z"/>
 			</g>
 			<g enable-background="new    ">
-				<path fill="#FF9D00" d="M244.777,252.531c0,0,0.864,1.02,2.123,1.02c0.792,0,1.451-0.479,1.451-1.26
+				<path fill="#FF9D00" d="M334.777,112.531c0,0,0.864,1.02,2.123,1.02c0.792,0,1.451-0.479,1.451-1.26
 					c0-1.774-4.09-1.499-4.09-4.138c0-1.271,1.115-2.267,2.71-2.267c0.899,0,2.411,0.408,2.411,1.56v0.695h-1.103v-0.396
 					c0-0.444-0.636-0.768-1.308-0.768c-0.912,0-1.487,0.503-1.487,1.139c0,1.716,4.078,1.332,4.078,4.114
-					c0,1.295-1.007,2.41-2.687,2.41c-1.799,0-2.807-1.259-2.807-1.259L244.777,252.531z"/>
-				<path fill="#FF9D00" d="M254.16,250.72h0.264v-0.06c0-1.067-0.396-1.451-1.343-1.451c-0.288,0-0.996,0.072-0.996,0.468v0.348
+					c0,1.295-1.007,2.41-2.687,2.41c-1.799,0-2.807-1.259-2.807-1.259L334.777,112.531z"/>
+				<path fill="#FF9D00" d="M344.16,110.72h0.264v-0.06c0-1.067-0.396-1.451-1.343-1.451c-0.288,0-0.996,0.072-0.996,0.468v0.348
 					h-1.091v-0.6c0-0.995,1.511-1.14,2.099-1.14c1.967,0,2.495,1.031,2.495,2.375v2.578c0,0.181,0.096,0.265,0.264,0.265h0.492
 					v0.995h-1.091c-0.54,0-0.756-0.264-0.756-0.695c0-0.204,0.024-0.36,0.024-0.36h-0.024c0,0-0.479,1.199-1.931,1.199
-					c-1.043,0-2.063-0.636-2.063-1.847C250.502,250.84,253.141,250.72,254.16,250.72z M252.816,253.706
+					c-1.043,0-2.063-0.636-2.063-1.847C340.502,110.84,343.141,110.72,344.16,110.72z M342.816,113.706
 					c0.983,0,1.619-1.031,1.619-1.931v-0.204h-0.3c-0.875,0-2.458,0.048-2.458,1.164
-					C251.677,253.227,252.049,253.706,252.816,253.706z"/>
-				<path fill="#FF9D00" d="M257.605,249.688c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.116c0.516,0,0.768,0.228,0.768,0.671
+					C341.677,113.227,342.049,113.706,342.816,113.706z"/>
+				<path fill="#FF9D00" d="M347.605,109.688c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.116c0.516,0,0.768,0.228,0.768,0.671
 					v0.229c0,0.191-0.024,0.348-0.024,0.348h0.024c0.24-0.527,0.959-1.392,2.279-1.392c1.439,0,2.086,0.78,2.086,2.327v2.626
 					c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.151c-0.54,0-0.768-0.228-0.768-0.768v-2.854c0-0.852-0.168-1.523-1.14-1.523
-					c-0.935,0-1.679,0.612-1.919,1.487c-0.083,0.24-0.108,0.516-0.108,0.815v2.843h-1.163V249.688z"/>
-				<path fill="#FF9D00" d="M268.561,247.062h-0.78v-1.032h3.43c2.579,0,4.282,1.548,4.282,4.222c0,2.687-1.703,4.246-4.282,4.246
-					h-1.883c-0.54,0-0.768-0.228-0.768-0.768V247.062z M270.024,253.467h1.103c1.883,0,3.119-1.128,3.119-3.215
-					c0-2.074-1.248-3.189-3.119-3.189h-1.367v6.141C269.76,253.371,269.856,253.467,270.024,253.467z"/>
-				<path fill="#FF9D00" d="M277.069,249.688c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.14c0.54,0,0.768,0.228,0.768,0.768
-					v4.041c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.139c-0.54,0-0.768-0.228-0.768-0.768V249.688z M277.093,246.03h1.043
-					v1.212h-1.043V246.03z"/>
-				<path fill="#FF9D00" d="M282.768,248.285c1.703,0,2.615,1.271,2.615,2.843c0,0.156-0.036,0.479-0.036,0.479h-4.425
+					c-0.935,0-1.679,0.612-1.919,1.487c-0.083,0.24-0.108,0.516-0.108,0.815v2.843h-1.163L347.605,109.688L347.605,109.688z"/>
+				<path fill="#FF9D00" d="M358.561,107.062h-0.78v-1.032h3.43c2.579,0,4.282,1.548,4.282,4.222c0,2.687-1.703,4.246-4.282,4.246
+					h-1.883c-0.54,0-0.768-0.228-0.768-0.768v-6.668H358.561z M360.024,113.467h1.103c1.883,0,3.119-1.128,3.119-3.215
+					c0-2.074-1.248-3.189-3.119-3.189h-1.367v6.141C359.76,113.371,359.856,113.467,360.024,113.467z"/>
+				<path fill="#FF9D00" d="M367.069,109.688c0-0.18-0.096-0.264-0.264-0.264h-0.492v-0.995h1.14c0.54,0,0.768,0.228,0.768,0.768
+					v4.041c0,0.181,0.096,0.265,0.264,0.265h0.492v0.995h-1.139c-0.54,0-0.768-0.228-0.768-0.768v-4.042H367.069z M367.093,106.03
+					h1.043v1.212h-1.043V106.03z"/>
+				<path fill="#FF9D00" d="M372.768,108.285c1.703,0,2.615,1.271,2.615,2.843c0,0.156-0.036,0.479-0.036,0.479h-4.425
 					c0.072,1.296,1.007,2.027,2.086,2.027c1.043,0,1.775-0.708,1.775-0.708l0.503,0.828c0,0-0.899,0.887-2.338,0.887
-					c-1.919,0-3.227-1.379-3.227-3.178C279.721,249.533,281.041,248.285,282.768,248.285z M284.183,250.756
-					c-0.036-1.007-0.671-1.547-1.427-1.547c-0.888,0-1.607,0.54-1.787,1.547H284.183z"/>
-				<path fill="#FF9D00" d="M289.02,248.285c1.511,0,1.943,0.948,1.943,0.948h0.024c0,0,0-0.097,0-0.192
+					c-1.919,0-3.227-1.379-3.227-3.178C369.721,109.533,371.041,108.285,372.768,108.285z M374.183,110.756
+					c-0.036-1.007-0.671-1.547-1.427-1.547c-0.888,0-1.607,0.54-1.787,1.547H374.183z"/>
+				<path fill="#FF9D00" d="M379.02,108.285c1.511,0,1.943,0.948,1.943,0.948h0.024c0,0,0-0.097,0-0.192
 					c0-0.359,0.192-0.611,0.671-0.611h1.127v0.995h-0.479c-0.156,0-0.264,0.084-0.264,0.24v4.581c0,2.003-1.523,2.771-3.058,2.771
 					c-0.731,0-1.475-0.204-2.075-0.504l0.396-0.936c0,0,0.744,0.408,1.655,0.408c1.055,0,1.919-0.468,1.919-1.691v-0.407
 					c0-0.192,0.024-0.384,0.024-0.384h-0.024c-0.36,0.587-0.923,0.923-1.811,0.923c-1.679,0-2.71-1.354-2.71-3.106
-					C286.357,249.581,287.328,248.285,289.02,248.285z M290.915,251.332c0-1.583-0.78-2.039-1.715-2.039
-					c-1.055,0-1.655,0.768-1.655,2.003c0,1.259,0.66,2.123,1.751,2.123C290.135,253.419,290.915,252.915,290.915,251.332z"/>
-				<path fill="#FF9D00" d="M296.747,248.285c1.811,0,3.274,1.332,3.274,3.167c0,1.847-1.463,3.189-3.274,3.189
-					s-3.262-1.343-3.262-3.189C293.485,249.617,294.936,248.285,296.747,248.285z M296.747,253.635c1.151,0,2.087-0.912,2.087-2.183
-					c0-1.26-0.936-2.159-2.087-2.159c-1.139,0-2.075,0.899-2.075,2.159C294.672,252.723,295.608,253.635,296.747,253.635z"/>
+					C376.357,109.581,377.328,108.285,379.02,108.285z M380.915,111.332c0-1.583-0.78-2.039-1.715-2.039
+					c-1.055,0-1.655,0.768-1.655,2.003c0,1.259,0.66,2.123,1.751,2.123C380.135,113.419,380.915,112.915,380.915,111.332z"/>
+				<path fill="#FF9D00" d="M386.747,108.285c1.811,0,3.274,1.332,3.274,3.167c0,1.847-1.463,3.189-3.274,3.189
+					s-3.262-1.343-3.262-3.189C383.485,109.617,384.936,108.285,386.747,108.285z M386.747,113.635c1.151,0,2.087-0.912,2.087-2.183
+					c0-1.26-0.936-2.159-2.087-2.159c-1.139,0-2.075,0.899-2.075,2.159C384.672,112.723,385.608,113.635,386.747,113.635z"/>
 			</g>
 		</g>
 		<g>
 			<g transform="translate(514,255)">
-				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_1_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_2_">
-											<use xlink:href="#SVGID_1_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_2_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="2880" height="1920" xlink:href="../../test-case/muggles-exp.jpg"  transform="matrix(0.25 0 0 0.25 -8643.3379 -8230.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_1_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_2_">
+												<use xlink:href="#SVGID_1_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_2_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="2880" height="1920" xlink:href="../../test-case/muggles-exp.jpg"  transform="matrix(0.25 0 0 0.25 -8553.3379 -8370.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -391,23 +394,25 @@
 				</g>
 			</g>
 			<g transform="translate(456,150)">
-				<circle fill="#541C74" stroke="#379A84" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#379A84" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_3_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_4_">
-											<use xlink:href="#SVGID_3_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_4_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8585.3379 -8125.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_3_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_4_">
+												<use xlink:href="#SVGID_3_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_4_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8495.3379 -8265.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -417,23 +422,25 @@
 				</g>
 			</g>
 			<g transform="translate(300,40)">
-				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_5_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_6_">
-											<use xlink:href="#SVGID_5_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_6_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8429.3379 -8015.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_5_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_6_">
+												<use xlink:href="#SVGID_5_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_6_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8339.3379 -8155.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -443,23 +450,25 @@
 				</g>
 			</g>
 			<g transform="translate(451,62)">
-				<circle fill="#541C74" stroke="#379A84" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#379A84" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_7_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_8_">
-											<use xlink:href="#SVGID_7_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_8_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8580.3379 -8037.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_7_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_8_">
+												<use xlink:href="#SVGID_7_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_8_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8490.3379 -8177.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -469,23 +478,25 @@
 				</g>
 			</g>
 			<g transform="translate(591,277)">
-				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_9_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_10_">
-											<use xlink:href="#SVGID_9_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_10_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8720.3379 -8252.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_9_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_10_">
+												<use xlink:href="#SVGID_9_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_10_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8630.3379 -8392.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -495,23 +506,25 @@
 				</g>
 			</g>
 			<g transform="translate(645,330)">
-				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_11_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_12_">
-											<use xlink:href="#SVGID_11_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_12_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8774.3379 -8305.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_11_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_12_">
+												<use xlink:href="#SVGID_11_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_12_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8684.3379 -8445.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -521,23 +534,25 @@
 				</g>
 			</g>
 			<g transform="translate(200,30)">
-				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_13_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_14_">
-											<use xlink:href="#SVGID_13_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_14_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8329.3379 -8005.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_13_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_14_">
+												<use xlink:href="#SVGID_13_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_14_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8239.3379 -8145.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -547,23 +562,25 @@
 				</g>
 			</g>
 			<g transform="translate(665,384)">
-				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_15_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_16_">
-											<use xlink:href="#SVGID_15_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_16_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8794.3379 -8359.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_15_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_16_">
+												<use xlink:href="#SVGID_15_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_16_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8704.3379 -8499.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -573,23 +590,25 @@
 				</g>
 			</g>
 			<g transform="translate(511,56)">
-				<circle fill="#541C74" stroke="#379A84" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#379A84" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_17_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_18_">
-											<use xlink:href="#SVGID_17_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_18_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8640.3379 -8031.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_17_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_18_">
+												<use xlink:href="#SVGID_17_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_18_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8550.3379 -8171.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -599,23 +618,25 @@
 				</g>
 			</g>
 			<g transform="translate(274,150)">
-				<circle fill="#541C74" stroke="#73378E" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#73378E" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_19_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_20_">
-											<use xlink:href="#SVGID_19_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_20_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8403.3379 -8125.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_19_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_20_">
+												<use xlink:href="#SVGID_19_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_20_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8313.3379 -8265.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -625,23 +646,25 @@
 				</g>
 			</g>
 			<g transform="translate(645,440)">
-				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_21_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_22_">
-											<use xlink:href="#SVGID_21_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_22_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8774.3379 -8415.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_21_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_22_">
+												<use xlink:href="#SVGID_21_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_22_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8684.3379 -8555.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -651,23 +674,25 @@
 				</g>
 			</g>
 			<g transform="translate(100,40)">
-				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_23_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_24_">
-											<use xlink:href="#SVGID_23_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_24_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8229.3379 -8015.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_23_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_24_">
+												<use xlink:href="#SVGID_23_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_24_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8139.3379 -8155.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -677,23 +702,25 @@
 				</g>
 			</g>
 			<g transform="translate(590,493)">
-				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_25_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_26_">
-											<use xlink:href="#SVGID_25_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_26_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8719.3379 -8468.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_25_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_26_">
+												<use xlink:href="#SVGID_25_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_26_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8629.3379 -8608.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -703,23 +730,25 @@
 				</g>
 			</g>
 			<g transform="translate(50,100)">
-				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_27_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_28_">
-											<use xlink:href="#SVGID_27_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_28_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8179.3379 -8075.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_27_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_28_">
+												<use xlink:href="#SVGID_27_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_28_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8089.3379 -8215.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -729,23 +758,25 @@
 				</g>
 			</g>
 			<g transform="translate(336,177)">
-				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_29_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_30_">
-											<use xlink:href="#SVGID_29_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_30_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8465.3379 -8152.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_29_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_30_">
+												<use xlink:href="#SVGID_29_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_30_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8375.3379 -8292.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -755,23 +786,25 @@
 				</g>
 			</g>
 			<g transform="translate(400,120)">
-				<circle fill="#541C74" stroke="#379A84" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#379A84" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_31_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_32_">
-											<use xlink:href="#SVGID_31_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_32_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8529.3379 -8095.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_31_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_32_">
+												<use xlink:href="#SVGID_31_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_32_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8439.3379 -8235.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -781,23 +814,25 @@
 				</g>
 			</g>
 			<g transform="translate(516,503)">
-				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_33_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_34_">
-											<use xlink:href="#SVGID_33_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_34_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8645.3379 -8478.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_33_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_34_">
+												<use xlink:href="#SVGID_33_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_34_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8555.3379 -8618.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -807,23 +842,25 @@
 				</g>
 			</g>
 			<g transform="translate(610,110)">
-				<circle fill="#541C74" stroke="#379A84" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#379A84" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_35_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_36_">
-											<use xlink:href="#SVGID_35_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_36_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8739.3379 -8085.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_35_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_36_">
+												<use xlink:href="#SVGID_35_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_36_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8649.3379 -8225.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -833,23 +870,25 @@
 				</g>
 			</g>
 			<g transform="translate(440,493)">
-				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_37_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_38_">
-											<use xlink:href="#SVGID_37_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_38_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8569.3379 -8468.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_37_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_38_">
+												<use xlink:href="#SVGID_37_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_38_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8479.3379 -8608.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -859,23 +898,25 @@
 				</g>
 			</g>
 			<g transform="translate(356,233)">
-				<circle fill="#541C74" stroke="#73378E" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#73378E" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_39_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_40_">
-											<use xlink:href="#SVGID_39_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_40_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8485.3379 -8208.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_39_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_40_">
+												<use xlink:href="#SVGID_39_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_40_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8395.3379 -8348.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -885,23 +926,25 @@
 				</g>
 			</g>
 			<g transform="translate(60,550)">
-				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_41_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_42_">
-											<use xlink:href="#SVGID_41_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_42_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8189.3379 -8525.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_41_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_42_">
+												<use xlink:href="#SVGID_41_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_42_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8099.3379 -8665.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -911,23 +954,25 @@
 				</g>
 			</g>
 			<g transform="translate(60,650)">
-				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_43_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_44_">
-											<use xlink:href="#SVGID_43_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_44_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8189.3379 -8625.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_43_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_44_">
+												<use xlink:href="#SVGID_43_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_44_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8099.3379 -8765.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -937,23 +982,25 @@
 				</g>
 			</g>
 			<g transform="translate(339,291)">
-				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_45_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_46_">
-											<use xlink:href="#SVGID_45_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_46_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8468.3379 -8266.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_45_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_46_">
+												<use xlink:href="#SVGID_45_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_46_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8378.3379 -8406.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -963,23 +1010,25 @@
 				</g>
 			</g>
 			<g transform="translate(572,70)">
-				<circle fill="#541C74" stroke="#379A84" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#379A84" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_47_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_48_">
-											<use xlink:href="#SVGID_47_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_48_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8701.3379 -8045.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_47_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_48_">
+												<use xlink:href="#SVGID_47_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_48_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8611.3379 -8185.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -989,23 +1038,25 @@
 				</g>
 			</g>
 			<g transform="translate(567,152)">
-				<circle fill="#541C74" stroke="#379A84" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#379A84" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_49_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_50_">
-											<use xlink:href="#SVGID_49_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_50_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8696.3379 -8127.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_49_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_50_">
+												<use xlink:href="#SVGID_49_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_50_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8606.3379 -8267.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -1015,23 +1066,25 @@
 				</g>
 			</g>
 			<g transform="translate(505,170)">
-				<circle fill="#541C74" stroke="#379A84" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#379A84" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_51_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_52_">
-											<use xlink:href="#SVGID_51_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_52_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8634.3379 -8145.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_51_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_52_">
+												<use xlink:href="#SVGID_51_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_52_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8544.3379 -8285.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -1041,23 +1094,25 @@
 				</g>
 			</g>
 			<g transform="translate(273,312)">
-				<circle fill="#541C74" stroke="#73378E" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#73378E" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_53_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_54_">
-											<use xlink:href="#SVGID_53_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_54_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8402.3379 -8287.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_53_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_54_">
+												<use xlink:href="#SVGID_53_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_54_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8312.3379 -8427.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -1067,23 +1122,25 @@
 				</g>
 			</g>
 			<g transform="translate(386,440)">
-				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_55_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_56_">
-											<use xlink:href="#SVGID_55_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_56_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8515.3379 -8415.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_55_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_56_">
+												<use xlink:href="#SVGID_55_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_56_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8425.3379 -8555.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -1093,23 +1150,25 @@
 				</g>
 			</g>
 			<g transform="translate(366,384)">
-				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_57_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_58_">
-											<use xlink:href="#SVGID_57_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_58_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8495.3379 -8359.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_57_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_58_">
+												<use xlink:href="#SVGID_57_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_58_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8405.3379 -8499.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -1119,23 +1178,25 @@
 				</g>
 			</g>
 			<g transform="translate(216,290)">
-				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_59_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_60_">
-											<use xlink:href="#SVGID_59_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_60_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8345.3379 -8265.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_59_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_60_">
+												<use xlink:href="#SVGID_59_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_60_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8255.3379 -8405.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -1145,23 +1206,25 @@
 				</g>
 			</g>
 			<g transform="translate(187,230)">
-				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_61_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_62_">
-											<use xlink:href="#SVGID_61_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_62_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8316.3379 -8205.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_61_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_62_">
+												<use xlink:href="#SVGID_61_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_62_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8226.3379 -8345.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -1171,23 +1234,25 @@
 				</g>
 			</g>
 			<g transform="translate(387,330)">
-				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_63_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_64_">
-											<use xlink:href="#SVGID_63_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_64_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8516.3379 -8305.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_63_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_64_">
+												<use xlink:href="#SVGID_63_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_64_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8426.3379 -8445.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -1197,23 +1262,25 @@
 				</g>
 			</g>
 			<g transform="translate(452,276)">
-				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#F35C00" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_65_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_66_">
-											<use xlink:href="#SVGID_65_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_66_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8581.3379 -8251.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_65_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_66_">
+												<use xlink:href="#SVGID_65_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_66_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8491.3379 -8391.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -1223,23 +1290,25 @@
 				</g>
 			</g>
 			<g transform="translate(100,150)">
-				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_67_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_68_">
-											<use xlink:href="#SVGID_67_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_68_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8229.3379 -8125.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_67_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_68_">
+												<use xlink:href="#SVGID_67_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_68_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8139.3379 -8265.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -1249,23 +1318,25 @@
 				</g>
 			</g>
 			<g transform="translate(216,180)">
-				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_69_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_70_">
-											<use xlink:href="#SVGID_69_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_70_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8345.3379 -8155.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_69_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_70_">
+												<use xlink:href="#SVGID_69_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_70_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8255.3379 -8295.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -1275,23 +1346,25 @@
 				</g>
 			</g>
 			<g transform="translate(60,600)">
-				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="26.662" cy="150.498" r="22.5"/>
+				<circle fill="#541C74" stroke="#2279B3" stroke-width="5" cx="116.662" cy="10.498" r="22.5"/>
 				<g>
 					<g>
 						<g>
 							<g>
 								<g>
 									<g>
-										<defs>
-											<circle id="SVGID_71_" cx="26.662" cy="150.498" r="20"/>
-										</defs>
-										<clipPath id="SVGID_72_">
-											<use xlink:href="#SVGID_71_"  overflow="visible"/>
-										</clipPath>
-										<g clip-path="url(#SVGID_72_)" enable-background="new    ">
-											
-												<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8189.3379 -8575.502)">
-											</image>
+										<g>
+											<defs>
+												<circle id="SVGID_71_" cx="116.662" cy="10.498" r="20"/>
+											</defs>
+											<clipPath id="SVGID_72_">
+												<use xlink:href="#SVGID_71_"  overflow="visible"/>
+											</clipPath>
+											<g clip-path="url(#SVGID_72_)" enable-background="new    ">
+												
+													<image overflow="visible" enable-background="new    " width="720" height="480" xlink:href="../../mtea-data/img/muggles-exp.jpg"  transform="matrix(1 0 0 1 -8099.3379 -8715.502)">
+												</image>
+											</g>
 										</g>
 									</g>
 								</g>
@@ -1302,221 +1375,5 @@
 			</g>
 		</g>
 	</g>
-	<g>
-		<polygon fill="#3E3E3D" points="307.561,36.601 294.07,50.092 299.727,50.092 313.218,36.601 		"/>
-		<polygon fill="#3E3E3D" points="317.225,36.601 303.734,50.092 309.39,50.092 322.881,36.601 		"/>
-		<polygon fill="#3E3E3D" points="336.552,36.601 323.061,50.092 328.717,50.092 342.208,36.601 		"/>
-		<polygon fill="#3E3E3D" points="326.889,36.601 313.397,50.092 319.054,50.092 332.545,36.601 		"/>
-		<polygon fill="#3E3E3D" points="355.879,36.601 342.388,50.092 348.044,50.092 361.536,36.601 		"/>
-		<polygon fill="#3E3E3D" points="346.216,36.601 332.725,50.092 338.381,50.092 351.872,36.601 		"/>
-		<polygon fill="#3E3E3D" points="278.571,36.601 265.08,50.092 270.736,50.092 284.227,36.601 		"/>
-		<polygon fill="#3E3E3D" points="259.244,36.601 245.752,50.092 251.409,50.092 264.9,36.601 		"/>
-		<polygon fill="#3E3E3D" points="268.907,36.601 255.416,50.092 261.072,50.092 274.564,36.601 		"/>
-		<polygon fill="#3E3E3D" points="288.234,36.601 274.743,50.092 280.399,50.092 293.891,36.601 		"/>
-		<polygon fill="#3E3E3D" points="365.543,36.601 352.052,50.092 357.708,50.092 371.199,36.601 		"/>
-		<polygon fill="#3E3E3D" points="297.898,36.601 284.407,50.092 290.063,50.092 303.554,36.601 		"/>
-		<polygon fill="#3E3E3D" points="413.861,36.601 400.37,50.092 406.026,50.092 419.517,36.601 		"/>
-		<polygon fill="#3E3E3D" points="452.515,36.601 439.024,50.092 444.68,50.092 458.171,36.601 		"/>
-		<polygon fill="#3E3E3D" points="433.188,36.601 419.697,50.092 425.353,50.092 438.844,36.601 		"/>
-		<polygon fill="#3E3E3D" points="442.852,36.601 429.36,50.092 435.017,50.092 448.508,36.601 		"/>
-		<polygon fill="#3E3E3D" points="462.179,36.601 448.688,50.092 454.344,50.092 467.835,36.601 		"/>
-		<polygon fill="#3E3E3D" points="481.506,36.601 468.015,50.092 473.671,50.092 487.162,36.601 		"/>
-		<polygon fill="#3E3E3D" points="471.842,36.601 458.351,50.092 464.007,50.092 477.499,36.601 		"/>
-		<polygon fill="#3E3E3D" points="384.87,36.601 371.379,50.092 377.035,50.092 390.526,36.601 		"/>
-		<polygon fill="#3E3E3D" points="394.534,36.601 381.042,50.092 386.699,50.092 400.19,36.601 		"/>
-		<polygon fill="#3E3E3D" points="375.206,36.601 361.715,50.092 367.372,50.092 380.863,36.601 		"/>
-		<polygon fill="#3E3E3D" points="423.524,36.601 410.033,50.092 415.689,50.092 429.181,36.601 		"/>
-		<polygon fill="#3E3E3D" points="249.58,36.601 236.089,50.092 241.745,50.092 255.236,36.601 		"/>
-		<polygon fill="#3E3E3D" points="404.197,36.601 390.706,50.092 396.362,50.092 409.853,36.601 		"/>
-		<polygon fill="#3E3E3D" points="201.262,36.601 187.771,50.092 193.427,50.092 206.918,36.601 		"/>
-		<polygon fill="#3E3E3D" points="85.299,36.601 71.808,50.092 77.464,50.092 90.956,36.601 		"/>
-		<polygon fill="#3E3E3D" points="123.954,36.601 110.462,50.092 116.119,50.092 129.61,36.601 		"/>
-		<polygon fill="#3E3E3D" points="75.636,36.601 62.145,50.092 67.801,50.092 81.292,36.601 		"/>
-		<polygon fill="#3E3E3D" points="104.626,36.601 91.135,50.092 96.791,50.092 110.283,36.601 		"/>
-		<polygon fill="#3E3E3D" points="114.29,36.601 100.799,50.092 106.455,50.092 119.946,36.601 		"/>
-		<polygon fill="#3E3E3D" points="65.972,36.601 52.481,50.092 58.137,50.092 71.628,36.601 		"/>
-		<polygon fill="#3E3E3D" points="94.963,36.601 81.472,50.092 87.128,50.092 100.619,36.601 		"/>
-		<polygon fill="#3E3E3D" points="20,39.912 23.31,36.601 20,36.601 		"/>
-		<polygon fill="#3E3E3D" points="56.309,36.601 42.817,50.092 48.474,50.092 61.965,36.601 		"/>
-		<polygon fill="#3E3E3D" points="20,49.575 32.974,36.601 27.318,36.601 20,43.919 		"/>
-		<polygon fill="#3E3E3D" points="36.981,36.601 23.49,50.092 29.146,50.092 42.638,36.601 		"/>
-		<polygon fill="#3E3E3D" points="46.645,36.601 33.154,50.092 38.81,50.092 52.301,36.601 		"/>
-		<polygon fill="#3E3E3D" points="191.599,36.601 178.107,50.092 183.764,50.092 197.255,36.601 		"/>
-		<polygon fill="#3E3E3D" points="491.169,36.601 477.678,50.092 483.335,50.092 496.826,36.601 		"/>
-		<polygon fill="#3E3E3D" points="210.926,36.601 197.435,50.092 203.091,50.092 216.582,36.601 		"/>
-		<polygon fill="#3E3E3D" points="230.253,36.601 216.762,50.092 222.418,50.092 235.909,36.601 		"/>
-		<polygon fill="#3E3E3D" points="220.589,36.601 207.098,50.092 212.754,50.092 226.246,36.601 		"/>
-		<polygon fill="#3E3E3D" points="239.916,36.601 226.425,50.092 232.081,50.092 245.573,36.601 		"/>
-		<polygon fill="#3E3E3D" points="143.281,36.601 129.79,50.092 135.446,50.092 148.937,36.601 		"/>
-		<polygon fill="#3E3E3D" points="133.617,36.601 120.126,50.092 125.782,50.092 139.273,36.601 		"/>
-		<polygon fill="#3E3E3D" points="152.944,36.601 139.453,50.092 145.109,50.092 158.601,36.601 		"/>
-		<polygon fill="#3E3E3D" points="181.935,36.601 168.444,50.092 174.1,50.092 187.591,36.601 		"/>
-		<polygon fill="#3E3E3D" points="172.271,36.601 158.78,50.092 164.436,50.092 177.928,36.601 		"/>
-		<polygon fill="#3E3E3D" points="162.608,36.601 149.117,50.092 154.773,50.092 168.264,36.601 		"/>
-		<polygon fill="#3E3E3D" points="980.209,40.428 970.545,50.092 976.201,50.092 980.209,46.085 		"/>
-		<polygon fill="#3E3E3D" points="819.747,36.601 806.256,50.092 811.912,50.092 825.404,36.601 		"/>
-		<polygon fill="#3E3E3D" points="829.411,36.601 815.92,50.092 821.576,50.092 835.068,36.601 		"/>
-		<polygon fill="#3E3E3D" points="810.083,36.601 796.592,50.092 802.248,50.092 815.74,36.601 		"/>
-		<polygon fill="#3E3E3D" points="800.419,36.601 786.928,50.092 792.584,50.092 806.076,36.601 		"/>
-		<polygon fill="#3E3E3D" points="848.739,36.601 835.248,50.092 840.904,50.092 854.396,36.601 		"/>
-		<polygon fill="#3E3E3D" points="839.075,36.601 825.584,50.092 831.24,50.092 844.732,36.601 		"/>
-		<polygon fill="#3E3E3D" points="771.427,36.601 757.935,50.092 763.592,50.092 777.084,36.601 		"/>
-		<polygon fill="#3E3E3D" points="752.099,36.601 738.607,50.092 744.264,50.092 757.756,36.601 		"/>
-		<polygon fill="#3E3E3D" points="761.763,36.601 748.271,50.092 753.928,50.092 767.42,36.601 		"/>
-		<polygon fill="#3E3E3D" points="781.091,36.601 767.6,50.092 773.256,50.092 786.748,36.601 		"/>
-		<polygon fill="#3E3E3D" points="790.755,36.601 777.264,50.092 782.92,50.092 796.412,36.601 		"/>
-		<polygon fill="#3E3E3D" points="500.833,36.601 487.342,50.092 492.998,50.092 506.49,36.601 		"/>
-		<polygon fill="#3E3E3D" points="906.724,36.601 893.232,50.092 898.889,50.092 912.381,36.601 		"/>
-		<polygon fill="#3E3E3D" points="945.38,36.601 931.889,50.092 937.545,50.092 951.037,36.601 		"/>
-		<polygon fill="#3E3E3D" points="955.044,36.601 941.553,50.092 947.209,50.092 960.701,36.601 		"/>
-		<polygon fill="#3E3E3D" points="935.716,36.601 922.225,50.092 927.881,50.092 941.373,36.601 		"/>
-		<polygon fill="#3E3E3D" points="926.052,36.601 912.56,50.092 918.217,50.092 931.709,36.601 		"/>
-		<polygon fill="#3E3E3D" points="964.708,36.601 951.217,50.092 956.873,50.092 970.365,36.601 		"/>
-		<polygon fill="#3E3E3D" points="974.372,36.601 960.881,50.092 966.537,50.092 980.029,36.601 		"/>
-		<polygon fill="#3E3E3D" points="887.396,36.601 873.904,50.092 879.56,50.092 893.053,36.601 		"/>
-		<polygon fill="#3E3E3D" points="868.067,36.601 854.576,50.092 860.232,50.092 873.725,36.601 		"/>
-		<polygon fill="#3E3E3D" points="877.731,36.601 864.24,50.092 869.896,50.092 883.389,36.601 		"/>
-		<polygon fill="#3E3E3D" points="916.388,36.601 902.896,50.092 908.553,50.092 922.045,36.601 		"/>
-		<polygon fill="#3E3E3D" points="742.435,36.601 728.943,50.092 734.6,50.092 748.092,36.601 		"/>
-		<polygon fill="#3E3E3D" points="897.06,36.601 883.568,50.092 889.225,50.092 902.717,36.601 		"/>
-		<polygon fill="#3E3E3D" points="858.403,36.601 844.912,50.092 850.568,50.092 864.06,36.601 		"/>
-		<polygon fill="#3E3E3D" points="578.146,36.601 564.654,50.092 570.31,50.092 583.803,36.601 		"/>
-		<polygon fill="#3E3E3D" points="587.81,36.601 574.318,50.092 579.975,50.092 593.467,36.601 		"/>
-		<polygon fill="#3E3E3D" points="558.817,36.601 545.326,50.092 550.982,50.092 564.475,36.601 		"/>
-		<polygon fill="#3E3E3D" points="568.481,36.601 554.99,50.092 560.646,50.092 574.139,36.601 		"/>
-		<polygon fill="#3E3E3D" points="607.138,36.601 593.646,50.092 599.303,50.092 612.795,36.601 		"/>
-		<polygon fill="#3E3E3D" points="597.474,36.601 583.982,50.092 589.639,50.092 603.131,36.601 		"/>
-		<polygon fill="#3E3E3D" points="520.161,36.601 506.67,50.092 512.326,50.092 525.818,36.601 		"/>
-		<polygon fill="#3E3E3D" points="732.771,36.601 719.279,50.092 724.935,50.092 738.428,36.601 		"/>
-		<polygon fill="#3E3E3D" points="616.802,36.601 603.31,50.092 608.967,50.092 622.459,36.601 		"/>
-		<polygon fill="#3E3E3D" points="510.497,36.601 497.005,50.092 502.662,50.092 516.154,36.601 		"/>
-		<polygon fill="#3E3E3D" points="529.825,36.601 516.334,50.092 521.99,50.092 535.482,36.601 		"/>
-		<polygon fill="#3E3E3D" points="539.489,36.601 525.998,50.092 531.654,50.092 545.146,36.601 		"/>
-		<polygon fill="#3E3E3D" points="549.153,36.601 535.662,50.092 541.318,50.092 554.81,36.601 		"/>
-		<polygon fill="#3E3E3D" points="626.466,36.601 612.975,50.092 618.631,50.092 632.123,36.601 		"/>
-		<polygon fill="#3E3E3D" points="703.778,36.601 690.287,50.092 695.943,50.092 709.435,36.601 		"/>
-		<polygon fill="#3E3E3D" points="713.442,36.601 699.951,50.092 705.607,50.092 719.1,36.601 		"/>
-		<polygon fill="#3E3E3D" points="723.106,36.601 709.615,50.092 715.271,50.092 728.764,36.601 		"/>
-		<polygon fill="#3E3E3D" points="684.45,36.601 670.959,50.092 676.615,50.092 690.107,36.601 		"/>
-		<polygon fill="#3E3E3D" points="694.114,36.601 680.623,50.092 686.279,50.092 699.771,36.601 		"/>
-		<polygon fill="#3E3E3D" points="674.786,36.601 661.295,50.092 666.951,50.092 680.443,36.601 		"/>
-		<polygon fill="#3E3E3D" points="645.794,36.601 632.303,50.092 637.959,50.092 651.451,36.601 		"/>
-		<polygon fill="#3E3E3D" points="636.13,36.601 622.639,50.092 628.295,50.092 641.787,36.601 		"/>
-		<polygon fill="#3E3E3D" points="655.458,36.601 641.967,50.092 647.623,50.092 661.115,36.601 		"/>
-		<polygon fill="#3E3E3D" points="665.122,36.601 651.631,50.092 657.287,50.092 670.779,36.601 		"/>
-	</g>
-	<g>
-		<g enable-background="new    ">
-			<path fill="#C3C1B5" d="M42.913,79.909c3.161,0,8.819,1.331,8.819,5.092v2.296H48.67v-1.331c0-1.963-3.328-2.962-5.691-2.962
-				c-4.726,0-8.386,3.562-8.386,8.853c0,5.125,3.694,9.219,8.486,9.219c4.659,0,7.421-3.195,7.421-3.195l1.797,2.396
-				c0,0-3.328,3.927-9.252,3.927c-7.022,0-11.914-5.425-11.914-12.347C31.131,85.067,36.19,79.909,42.913,79.909z"/>
-			<path fill="#C3C1B5" d="M63.579,86.565c5.025,0,9.085,3.693,9.085,8.785c0,5.125-4.06,8.853-9.085,8.853
-				c-5.025,0-9.052-3.728-9.052-8.853C54.527,90.259,58.554,86.565,63.579,86.565z M63.579,101.407c3.195,0,5.791-2.529,5.791-6.057
-				c0-3.494-2.596-5.99-5.791-5.99c-3.162,0-5.757,2.496-5.757,5.99C57.822,98.878,60.417,101.407,63.579,101.407z"/>
-			<path fill="#C3C1B5" d="M76.691,90.459c0-0.499-0.266-0.732-0.732-0.732h-1.365v-2.763h3.095c1.431,0,2.13,0.633,2.13,1.864
-				v0.632c0,0.533-0.066,0.966-0.066,0.966h0.066c0.666-1.465,2.662-3.86,6.323-3.86c3.993,0,5.791,2.163,5.791,6.456v7.288
-				c0,0.499,0.266,0.732,0.732,0.732h1.365v2.762h-3.195c-1.498,0-2.13-0.632-2.13-2.13v-7.921c0-2.362-0.466-4.227-3.162-4.227
-				c-2.596,0-4.659,1.697-5.325,4.127c-0.233,0.666-0.3,1.432-0.3,2.263v7.888h-3.228V90.459z"/>
-			<path fill="#C3C1B5" d="M97.524,90.459c0-0.499-0.266-0.732-0.732-0.732h-1.365v-2.763h3.095c1.431,0,2.13,0.633,2.13,1.864
-				v0.632c0,0.533-0.066,0.966-0.066,0.966h0.066c0.666-1.465,2.662-3.86,6.323-3.86c3.993,0,5.791,2.163,5.791,6.456v7.288
-				c0,0.499,0.266,0.732,0.732,0.732h1.365v2.762h-3.195c-1.498,0-2.13-0.632-2.13-2.13v-7.921c0-2.362-0.466-4.227-3.162-4.227
-				c-2.596,0-4.659,1.697-5.325,4.127c-0.233,0.666-0.3,1.432-0.3,2.263v7.888h-3.228V90.459z"/>
-			<path fill="#C3C1B5" d="M125.18,86.565c4.726,0,7.255,3.527,7.255,7.887c0,0.433-0.1,1.331-0.1,1.331h-12.28
-				c0.2,3.595,2.795,5.624,5.791,5.624c2.896,0,4.926-1.963,4.926-1.963l1.397,2.296c0,0-2.496,2.463-6.489,2.463
-				c-5.325,0-8.952-3.827-8.952-8.819C116.727,90.026,120.388,86.565,125.18,86.565z M129.107,93.421
-				c-0.1-2.796-1.864-4.293-3.96-4.293c-2.462,0-4.459,1.497-4.958,4.293H129.107z"/>
-			<path fill="#C3C1B5" d="M144.149,86.565c2.03,0,6.057,0.831,6.057,3.693v1.73h-2.929v-0.932c0-1.198-1.897-1.73-3.128-1.73
-				c-3.294,0-5.757,2.463-5.757,6.023c0,3.827,2.795,5.99,5.924,5.99c3.162,0,5.225-2.329,5.225-2.329l1.397,2.296
-				c0,0-2.396,2.896-6.855,2.896c-5.292,0-8.985-3.761-8.985-8.819C135.097,90.426,138.725,86.565,144.149,86.565z"/>
-			<path fill="#C3C1B5" d="M154.599,89.561h-2.196v-2.597h2.263v-4.625h3.162v4.625h4.026v2.597h-4.026v7.721
-				c0,3.361,2.329,3.794,3.561,3.794c0.466,0,0.766-0.067,0.766-0.067v2.862c0,0-0.433,0.066-1.132,0.066
-				c-2.13,0-6.423-0.665-6.423-6.289V89.561z"/>
-			<path fill="#C3C1B5" d="M166.347,90.459c0-0.499-0.267-0.732-0.732-0.732h-1.364v-2.763h3.162c1.497,0,2.13,0.633,2.13,2.13
-				v11.216c0,0.499,0.266,0.732,0.731,0.732h1.364v2.762h-3.161c-1.497,0-2.13-0.632-2.13-2.13V90.459z M166.413,80.309h2.896v3.361
-				h-2.896V80.309z"/>
-			<path fill="#C3C1B5" d="M182.753,86.565c5.025,0,9.085,3.693,9.085,8.785c0,5.125-4.06,8.853-9.085,8.853
-				s-9.052-3.728-9.052-8.853C173.701,90.259,177.728,86.565,182.753,86.565z M182.753,101.407c3.195,0,5.791-2.529,5.791-6.057
-				c0-3.494-2.596-5.99-5.791-5.99c-3.161,0-5.757,2.496-5.757,5.99C176.996,98.878,179.592,101.407,182.753,101.407z"/>
-			<path fill="#C3C1B5" d="M195.866,90.459c0-0.499-0.267-0.732-0.732-0.732h-1.364v-2.763h3.095c1.431,0,2.13,0.633,2.13,1.864
-				v0.632c0,0.533-0.066,0.966-0.066,0.966h0.066c0.666-1.465,2.662-3.86,6.323-3.86c3.993,0,5.79,2.163,5.79,6.456v7.288
-				c0,0.499,0.267,0.732,0.732,0.732h1.364v2.762h-3.194c-1.498,0-2.13-0.632-2.13-2.13v-7.921c0-2.362-0.466-4.227-3.162-4.227
-				c-2.596,0-4.659,1.697-5.324,4.127c-0.233,0.666-0.3,1.432-0.3,2.263v7.888h-3.228V90.459z"/>
-			<path fill="#C3C1B5" d="M216.433,99.078c0,0,1.997,2.496,5.092,2.496c1.564,0,2.929-0.699,2.929-2.163
-				c0-3.028-9.186-2.696-9.186-8.12c0-3.229,2.829-4.726,6.257-4.726c2.03,0,5.524,0.698,5.524,3.261v1.598h-2.896v-0.832
-				c0-0.998-1.497-1.431-2.529-1.431c-1.896,0-3.128,0.665-3.128,1.996c0,3.195,9.185,2.496,9.185,8.12
-				c0,2.995-2.662,4.926-6.189,4.926c-4.493,0-6.723-2.962-6.723-2.962L216.433,99.078z"/>
-			<path fill="#C3C1B5" d="M241.358,83.902c0-0.499-0.267-0.731-0.732-0.731h-1.431v-2.862h3.361c1.497,0,2.13,0.632,2.13,2.13v8.22
-				h11.947v-8.22c0-1.498,0.632-2.13,2.13-2.13h3.361v2.862h-1.432c-0.466,0-0.731,0.232-0.731,0.731v19.901h-3.328V93.487h-11.947
-				v10.316h-3.328V83.902z"/>
-			<path fill="#C3C1B5" d="M266.152,90.459c0-0.499-0.266-0.732-0.731-0.732h-1.364v-2.763h3.161c1.531,0,2.163,0.633,2.163,2.063
-				v7.987c0,2.33,0.466,4.193,3.128,4.193c3.462,0,5.491-3.028,5.491-6.356v-7.888h3.229v13.346c0,0.499,0.266,0.732,0.732,0.732
-				h1.364v2.762h-3.095c-1.432,0-2.13-0.666-2.13-1.863v-0.633c0-0.532,0.033-0.965,0.033-0.965h-0.067
-				c-0.698,1.664-2.861,3.86-6.189,3.86c-3.794,0-5.725-1.997-5.725-6.456V90.459z"/>
-			<path fill="#C3C1B5" d="M292.676,86.565c4.193,0,5.392,2.629,5.392,2.629h0.066c0,0,0-0.267,0-0.533
-				c0-0.998,0.532-1.697,1.863-1.697h3.129v2.763h-1.331c-0.433,0-0.732,0.233-0.732,0.666v12.712c0,5.558-4.227,7.688-8.486,7.688
-				c-2.03,0-4.094-0.565-5.758-1.397l1.099-2.596c0,0,2.063,1.132,4.593,1.132c2.929,0,5.324-1.298,5.324-4.692v-1.132
-				c0-0.532,0.066-1.064,0.066-1.064h-0.066c-0.998,1.63-2.562,2.562-5.024,2.562c-4.659,0-7.521-3.761-7.521-8.62
-				C285.288,90.159,287.983,86.565,292.676,86.565z M297.935,95.018c0-4.393-2.163-5.657-4.76-5.657
-				c-2.928,0-4.592,2.13-4.592,5.558c0,3.494,1.83,5.891,4.858,5.891C295.771,100.809,297.935,99.411,297.935,95.018z"/>
-			<path fill="#C3C1B5" d="M306.554,83.803c0-0.499-0.266-0.732-0.731-0.732h-1.365v-2.762h3.195c1.497,0,2.13,0.632,2.13,2.063
-				v6.556c0,0.799-0.066,1.397-0.066,1.397h0.066c0.732-1.63,2.896-3.76,6.257-3.76c3.96,0,5.757,2.163,5.757,6.456v7.288
-				c0,0.499,0.267,0.732,0.732,0.732h1.364v2.762h-3.161c-1.498,0-2.13-0.632-2.13-2.13v-7.921c0-2.362-0.5-4.227-3.195-4.227
-				c-2.562,0-4.626,1.731-5.324,4.16c-0.233,0.666-0.3,1.432-0.3,2.229v7.888h-3.229V83.803z"/>
-			<path fill="#C3C1B5" d="M334.177,100.941h1.131c0.466,0,0.699-0.266,0.732-0.731l1.598-19.901h3.428l5.524,12.446
-				c0.565,1.265,1.164,2.962,1.164,2.962h0.067c0,0,0.599-1.697,1.164-2.962l5.524-12.446h3.428l1.598,19.901
-				c0.033,0.466,0.267,0.731,0.732,0.731h1.098v2.862h-2.962c-1.497,0-2.029-0.632-2.13-2.13l-0.965-12.413
-				c-0.1-1.397-0.066-3.461-0.066-3.461h-0.066c0,0-0.666,2.196-1.231,3.461l-4.759,10.316h-2.796l-4.759-10.316
-				c-0.565-1.231-1.265-3.494-1.265-3.494H340.3c0,0,0.033,2.097-0.066,3.494l-0.932,12.413c-0.101,1.498-0.633,2.13-2.163,2.13
-				h-2.962V100.941z"/>
-			<path fill="#C3C1B5" d="M373.413,93.32h0.731v-0.166c0-2.962-1.098-4.026-3.727-4.026c-0.799,0-2.763,0.199-2.763,1.298v0.965
-				h-3.028v-1.664c0-2.763,4.193-3.161,5.824-3.161c5.458,0,6.922,2.861,6.922,6.589v7.155c0,0.499,0.267,0.732,0.732,0.732h1.364
-				v2.762h-3.028c-1.498,0-2.097-0.732-2.097-1.931c0-0.565,0.066-0.998,0.066-0.998h-0.066c0,0-1.331,3.328-5.358,3.328
-				c-2.895,0-5.724-1.764-5.724-5.125C363.263,93.653,370.584,93.32,373.413,93.32z M369.686,101.607
-				c2.729,0,4.493-2.862,4.493-5.358v-0.565h-0.832c-2.43,0-6.822,0.133-6.822,3.229
-				C366.524,100.276,367.556,101.607,369.686,101.607z"/>
-			<path fill="#C3C1B5" d="M382.831,83.803c0-0.499-0.266-0.732-0.731-0.732h-1.365v-2.762h3.195c1.497,0,2.13,0.433,2.13,1.93
-				v10.916h1.497c0.6,0,1.332-0.166,1.765-0.732l3.894-5.458h3.693l-4.559,6.257c-0.766,1.032-1.265,1.265-1.265,1.265v0.066
-				c0,0,0.565,0.2,1.131,1.265l2.496,4.56c0.267,0.532,0.6,0.666,1.432,0.666h1.031v2.762h-2.329c-1.564,0-2.063-0.267-2.796-1.564
-				l-3.062-5.657c-0.366-0.632-1.132-0.699-1.664-0.699h-1.265v7.921h-3.229V83.803z"/>
-			<path fill="#C3C1B5" d="M406.96,86.565c4.726,0,7.255,3.527,7.255,7.887c0,0.433-0.101,1.331-0.101,1.331h-12.279
-				c0.199,3.595,2.795,5.624,5.79,5.624c2.896,0,4.926-1.963,4.926-1.963l1.397,2.296c0,0-2.496,2.463-6.489,2.463
-				c-5.325,0-8.952-3.827-8.952-8.819C398.507,90.026,402.167,86.565,406.96,86.565z M410.887,93.421
-				c-0.1-2.796-1.863-4.293-3.96-4.293c-2.463,0-4.46,1.497-4.959,4.293H410.887z"/>
-			<path fill="#C3C1B5" d="M418.241,99.078c0,0,1.997,2.496,5.092,2.496c1.564,0,2.929-0.699,2.929-2.163
-				c0-3.028-9.186-2.696-9.186-8.12c0-3.229,2.829-4.726,6.257-4.726c2.03,0,5.524,0.698,5.524,3.261v1.598h-2.896v-0.832
-				c0-0.998-1.497-1.431-2.529-1.431c-1.896,0-3.128,0.665-3.128,1.996c0,3.195,9.185,2.496,9.185,8.12
-				c0,2.995-2.662,4.926-6.189,4.926c-4.493,0-6.723-2.962-6.723-2.962L418.241,99.078z"/>
-		</g>
-	</g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
 </g>
 </svg>
