@@ -5,10 +5,12 @@
  This Source Code Form is subject to the terms of the Mozilla Public
  License, v. 2.0. If a copy of the MPL was not distributed with this
  file, You can obtain one at http://mozilla.org/MPL/2.0/.
- *//* **********************************************
+ */
+/* **********************************************
  Begin LazyLoad.js
  ********************************************** */
-/*jslint browser: true, eqeqeq: true, bitwise: true, newcap: true, immed: true, regexp: false *//*
+/*jslint browser: true, eqeqeq: true, bitwise: true, newcap: true, immed: true, regexp: false */
+/*
  LazyLoad makes it easy and painless to lazily load one or more external
  JavaScript or CSS files on demand either during or after the rendering of a web
  page.
@@ -45,11 +47,14 @@
  @version 2.0.3 (git)
  */
 function getEmbedScriptPath(e) {
-    var t = document.getElementsByTagName("script"), n = "", r = "";
-    for (var i = 0; i < t.length; i++)t[i].src.match(e) && (n = t[i].src);
+    var t = document.getElementsByTagName("script"),
+        n = "",
+        r = "";
+    for (var i = 0; i < t.length; i++) t[i].src.match(e) && (n = t[i].src);
     n != "" && (r = "/");
     return n.split("?")[0].split("/").slice(0, -1).join("/") + r
 }
+
 function createStoryJS(e, t) {
     function g() {
         LoadLib.js(h.js, y)
@@ -82,7 +87,7 @@ function createStoryJS(e, t) {
     }
 
     function x() {
-        if (l.checks > 40)return;
+        if (l.checks > 40) return;
         l.checks++;
         if (l.js && l.css && l.font.css && l.font.js && l.language) {
             if (!l.finished) {
@@ -98,7 +103,8 @@ function createStoryJS(e, t) {
         h.embed_id != "" ? i = document.getElementById(h.embed_id) : i = document.getElementById("timeline-embed");
         i.appendChild(r);
         r.setAttribute("id", h.id);
-        if (h.width.toString().match("%"))i.style.width = h.width.split("%")[0] + "%"; else {
+        if (h.width.toString().match("%")) i.style.width = h.width.split("%")[0] + "%";
+        else {
             h.width = h.width - 2;
             i.style.width = h.width + "px"
         }
@@ -127,7 +133,11 @@ function createStoryJS(e, t) {
         o && VMM.bindEvent(global, onHeadline, "HEADLINE")
     }
 
-    var n, r, i, s, o = !1, u = "2.24", a = "1.7.1", f = "", l = {
+    var n, r, i, s, o = !1,
+        u = "2.24",
+        a = "1.7.1",
+        f = "",
+        l = {
             timeout: "",
             checks: 0,
             finished: !1,
@@ -190,23 +200,68 @@ function createStoryJS(e, t) {
                 ]
             },
             {
-                name: "PoiretOne-Molengo", google: ["Poiret+One::latin", "Molengo::latin"]},
-            {name: "Arvo-PTSans", google: ["Arvo:400,700,400italic:latin", "PT+Sans:400,700,400italic:latin"]},
-            {name: "PTSerif-PTSans", google: ["PT+Sans:400,700,400italic:latin", "PT+Serif:400,700,400italic:latin"]},
-            {name: "PT", google: ["PT+Sans+Narrow:400,700:latin", "PT+Sans:400,700,400italic:latin", "PT+Serif:400,700,400italic:latin"]},
-            {name: "DroidSerif-DroidSans", google: ["Droid+Sans:400,700:latin", "Droid+Serif:400,700,400italic:latin"]},
-            {name: "Lekton-Molengo", google: ["Lekton:400,700,400italic:latin", "Molengo::latin"]},
-            {name: "NixieOne-Ledger", google: ["Nixie+One::latin", "Ledger::latin"]},
-            {name: "AbrilFatface-Average", google: ["Average::latin", "Abril+Fatface::latin"]},
-            {name: "PlayfairDisplay-Muli", google: ["Playfair+Display:400,400italic:latin", "Muli:300,400,300italic,400italic:latin"]},
-            {name: "Rancho-Gudea", google: ["Rancho::latin", "Gudea:400,700,400italic:latin"]},
-            {name: "Bevan-PotanoSans", google: ["Bevan::latin", "Pontano+Sans::latin"]},
-            {name: "BreeSerif-OpenSans", google: ["Bree+Serif::latin", "Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800:latin"]},
-            {name: "SansitaOne-Kameron", google: ["Sansita+One::latin", "Kameron:400,700:latin"]},
-            {name: "Lora-Istok", google: ["Lora:400,700,400italic,700italic:latin", "Istok+Web:400,700,400italic,700italic:latin"]},
-            {name: "Pacifico-Arimo", google: ["Pacifico::latin", "Arimo:400,700,400italic,700italic:latin"]}
+                name: "PoiretOne-Molengo",
+                google: ["Poiret+One::latin", "Molengo::latin"]
+            },
+            {
+                name: "Arvo-PTSans",
+                google: ["Arvo:400,700,400italic:latin", "PT+Sans:400,700,400italic:latin"]
+            },
+            {
+                name: "PTSerif-PTSans",
+                google: ["PT+Sans:400,700,400italic:latin", "PT+Serif:400,700,400italic:latin"]
+            },
+            {
+                name: "PT",
+                google: ["PT+Sans+Narrow:400,700:latin", "PT+Sans:400,700,400italic:latin", "PT+Serif:400,700,400italic:latin"]
+            },
+            {
+                name: "DroidSerif-DroidSans",
+                google: ["Droid+Sans:400,700:latin", "Droid+Serif:400,700,400italic:latin"]
+            },
+            {
+                name: "Lekton-Molengo",
+                google: ["Lekton:400,700,400italic:latin", "Molengo::latin"]
+            },
+            {
+                name: "NixieOne-Ledger",
+                google: ["Nixie+One::latin", "Ledger::latin"]
+            },
+            {
+                name: "AbrilFatface-Average",
+                google: ["Average::latin", "Abril+Fatface::latin"]
+            },
+            {
+                name: "PlayfairDisplay-Muli",
+                google: ["Playfair+Display:400,400italic:latin", "Muli:300,400,300italic,400italic:latin"]
+            },
+            {
+                name: "Rancho-Gudea",
+                google: ["Rancho::latin", "Gudea:400,700,400italic:latin"]
+            },
+            {
+                name: "Bevan-PotanoSans",
+                google: ["Bevan::latin", "Pontano+Sans::latin"]
+            },
+            {
+                name: "BreeSerif-OpenSans",
+                google: ["Bree+Serif::latin", "Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800:latin"]
+            },
+            {
+                name: "SansitaOne-Kameron",
+                google: ["Sansita+One::latin", "Kameron:400,700:latin"]
+            },
+            {
+                name: "Lora-Istok",
+                google: ["Lora:400,700,400italic,700italic:latin", "Istok+Web:400,700,400italic,700italic:latin"]
+            },
+            {
+                name: "Pacifico-Arimo",
+                google: ["Pacifico::latin", "Arimo:400,700,400italic,700italic:latin"]
+            }
         ];
-    if (typeof e == "object")for (s in e)Object.prototype.hasOwnProperty.call(e, s) && (h[s] = e[s]);
+    if (typeof e == "object")
+        for (s in e) Object.prototype.hasOwnProperty.call(e, s) && (h[s] = e[s]);
     typeof t != "undefined" && (h.source = t);
     if (typeof url_config == "object") {
         o = !0;
@@ -228,23 +283,26 @@ function createStoryJS(e, t) {
     if (h.font == "default") {
         l.font.js = !0;
         l.font.css = !0
-    }
-    else {
+    } else {
         var d;
         if (h.font.match("/")) {
             d = h.font.split(".css")[0].split("/");
             c.font.name = d[d.length - 1];
             c.font.css = h.font
-        }
-        else {
+        } else {
             c.font.name = h.font;
             c.font.css = c.font.css + h.font + ".css?" + u
         }
         LoadLib.css(c.font.css, E);
-        for (var v = 0; v < p.length; v++)if (c.font.name == p[v].name) {
-            c.font.google = !0;
-            WebFontConfig = {google: {families: p[v].google}}
-        }
+        for (var v = 0; v < p.length; v++)
+            if (c.font.name == p[v].name) {
+                c.font.google = !0;
+                WebFontConfig = {
+                    google: {
+                        families: p[v].google
+                    }
+                }
+            }
         c.font.google ? LoadLib.js(c.font.js, S) : l.font.js = !0
     }
     try {
@@ -264,13 +322,15 @@ function createStoryJS(e, t) {
 }
 LazyLoad = function (e) {
     function u(t, n) {
-        var r = e.createElement(t), i;
-        for (i in n)n.hasOwnProperty(i) && r.setAttribute(i, n[i]);
+        var r = e.createElement(t),
+            i;
+        for (i in n) n.hasOwnProperty(i) && r.setAttribute(i, n[i]);
         return r
     }
 
     function a(e) {
-        var t = r[e], n, o;
+        var t = r[e],
+            n, o;
         if (t) {
             n = t.callback;
             o = t.urls;
@@ -286,52 +346,75 @@ LazyLoad = function (e) {
 
     function f() {
         var n = navigator.userAgent;
-        t = {async: e.createElement("script").async === !0};
+        t = {
+            async: e.createElement("script").async === !0
+        };
         (t.webkit = /AppleWebKit\//.test(n)) || (t.ie = /MSIE/.test(n)) || (t.opera = /Opera/.test(n)) || (t.gecko = /Gecko\//.test(n)) || (t.unknown = !0)
     }
 
     function l(i, o, l, p, d) {
         var v = function () {
-            a(i)
-        }, m = i === "css", g = [], y, b, w, E, S, x;
+                a(i)
+            }, m = i === "css",
+            g = [],
+            y, b, w, E, S, x;
         t || f();
         if (o) {
             o = typeof o == "string" ? [o] : o.concat();
-            if (m || t.async || t.gecko || t.opera)s[i].push({urls: o, callback: l, obj: p, context: d}); else for (y = 0, b = o.length; y < b; ++y)s[i].push({urls: [o[y]], callback: y === b - 1 ? l : null, obj: p, context: d})
+            if (m || t.async || t.gecko || t.opera) s[i].push({
+                urls: o,
+                callback: l,
+                obj: p,
+                context: d
+            });
+            else
+                for (y = 0, b = o.length; y < b; ++y) s[i].push({
+                    urls: [o[y]],
+                    callback: y === b - 1 ? l : null,
+                    obj: p,
+                    context: d
+                })
         }
-        if (r[i] || !(E = r[i] = s[i].shift()))return;
+        if (r[i] || !(E = r[i] = s[i].shift())) return;
         n || (n = e.head || e.getElementsByTagName("head")[0]);
         S = E.urls;
         for (y = 0, b = S.length; y < b; ++y) {
             x = S[y];
-            if (m)w = t.gecko ? u("style") : u("link", {href: x, rel: "stylesheet"}); else {
-                w = u("script", {src: x});
+            if (m) w = t.gecko ? u("style") : u("link", {
+                href: x,
+                rel: "stylesheet"
+            });
+            else {
+                w = u("script", {
+                    src: x
+                });
                 w.async = !1
             }
             w.className = "lazyload";
             w.setAttribute("charset", "utf-8");
-            if (t.ie && !m)w.onreadystatechange = function () {
+            if (t.ie && !m) w.onreadystatechange = function () {
                 if (/loaded|complete/.test(w.readyState)) {
                     w.onreadystatechange = null;
                     v()
                 }
             };
-            else if (m && (t.gecko || t.webkit))if (t.webkit) {
-                E.urls[y] = w.href;
-                h()
-            } else {
-                w.innerHTML = '@import "' + x + '";';
-                c(w)
-            } else w.onload = w.onerror = v;
+            else if (m && (t.gecko || t.webkit))
+                if (t.webkit) {
+                    E.urls[y] = w.href;
+                    h()
+                } else {
+                    w.innerHTML = '@import "' + x + '";';
+                    c(w)
+                } else w.onload = w.onerror = v;
             g.push(w)
         }
-        for (y = 0, b = g.length; y < b; ++y)n.appendChild(g[y])
+        for (y = 0, b = g.length; y < b; ++y) n.appendChild(g[y])
     }
 
     function c(e) {
         var t;
         try {
-            t = !!e.sheet.cssRules
+            t = !! e.sheet.cssRules
         } catch (n) {
             i += 1;
             i < 200 ? setTimeout(function () {
@@ -343,43 +426,56 @@ LazyLoad = function (e) {
     }
 
     function h() {
-        var e = r.css, t;
+        var e = r.css,
+            t;
         if (e) {
             t = o.length;
-            while (--t >= 0)if (o[t].href === e.urls[0]) {
-                a("css");
-                break
-            }
+            while (--t >= 0)
+                if (o[t].href === e.urls[0]) {
+                    a("css");
+                    break
+                }
             i += 1;
             e && (i < 200 ? setTimeout(h, 50) : a("css"))
         }
     }
 
-    var t, n, r = {}, i = 0, s = {css: [], js: []}, o = e.styleSheets;
-    return{css: function (e, t, n, r) {
-        l("css", e, t, n, r)
-    }, js: function (e, t, n, r) {
-        l("js", e, t, n, r)
-    }}
+    var t, n, r = {}, i = 0,
+        s = {
+            css: [],
+            js: []
+        }, o = e.styleSheets;
+    return {
+        css: function (e, t, n, r) {
+            l("css", e, t, n, r)
+        },
+        js: function (e, t, n, r) {
+            l("js", e, t, n, r)
+        }
+    }
 }(this.document);
 LoadLib = function (e) {
     function n(e) {
-        var n = 0, r = !1;
-        for (n = 0; n < t.length; n++)t[n] == e && (r = !0);
-        if (r)return!0;
+        var n = 0,
+            r = !1;
+        for (n = 0; n < t.length; n++) t[n] == e && (r = !0);
+        if (r) return !0;
         t.push(e);
-        return!1
+        return !1
     }
 
     var t = [];
-    return{css: function (e, t, r, i) {
-        n(e) || LazyLoad.css(e, t, r, i)
-    }, js: function (e, t, r, i) {
-        n(e) || LazyLoad.js(e, t, r, i)
-    }}
+    return {
+        css: function (e, t, r, i) {
+            n(e) || LazyLoad.css(e, t, r, i)
+        },
+        js: function (e, t, r, i) {
+            n(e) || LazyLoad.js(e, t, r, i)
+        }
+    }
 }(this.document);
 var WebFontConfig;
-if (typeof embed_path == "undefined" || typeof embed_path == "undefined")var embed_path = getEmbedScriptPath("storyjs-embed.js").split("js/")[0];
+if (typeof embed_path == "undefined" || typeof embed_path == "undefined") var embed_path = getEmbedScriptPath("storyjs-embed.js").split("js/")[0];
 (function () {
     typeof url_config == "object" ? createStoryJS(url_config) : typeof timeline_config == "object" ? createStoryJS(timeline_config) : typeof storyjs_config == "object" ? createStoryJS(storyjs_config) : typeof config == "object" && createStoryJS(config)
 })();
