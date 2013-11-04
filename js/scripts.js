@@ -63,7 +63,7 @@
         $(".content_box_parallax").parallax("100%", 0.2, true);
         $(".timeline_parallax").parallax("100%", 0.3, true);
 
-        $(".connections_parallax").parallax("100%", 0.7, true);
+        $(".connections_parallax").parallax("100%", 0.2, true);
         $(".chico_parallax").parallax("100%", 0.6, true);
         $(".charts_parallax").parallax("100%", 0.5, true);
         $(".hugh_parallax").parallax("100%", 0.3, true);
