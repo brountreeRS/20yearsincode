@@ -93,9 +93,9 @@ h1 small {font-size: 2.4rem;}
 
 h2 {
     font-family: 'Titillium Web', sans-serif;
-    font-size: 3.1rem;
+    font-size: 2.9rem;
     font-weight: 500;
-    margin: 0.35rem 0 0.3rem 0;
+    margin: 0.35rem auto 0.3rem;
     text-shadow: 0 1px 0 #888, 0 2px 0 #222, 0 3px 0 #333, 0 4px 3px #444;
 }
 
@@ -219,8 +219,7 @@ header h2 {
     letter-spacing: -2px;
     padding: 0 5rem;
     font-weight: 700;
-    width:66%;
-    margin-left:10%;
+    width:75%;
     color: rgba(1, 1, 1, 0.90);
     text-shadow: 1px 1px 0 #222, 3px 3px 0 #444;
 }
@@ -271,25 +270,19 @@ nav {
     background-color: #734BA9;
 }
 
-nav span {
-    display: table-cell;
-    height: 66px;
-    vertical-align: middle;
-
-}
-
 nav ul {
     display: inline-block;
     height: 66px;
     vertical-align: middle;
     width:100%;
     text-align:center;
+    margin: 0 auto;
 }
 
 nav ul li {
     display: inline-block;
     vertical-align: middle;
-    width:11%;
+    margin: 0 10px;
 }
 
 nav ul li a {

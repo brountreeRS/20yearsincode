@@ -1,7 +1,7 @@
 {
     "timeline":
     {
-        "headline":"20 Years <span class='subhead'>The Story of Hugh and Brian</span>",
+        "headline":"20 Years",
         "type":"default",
         "startDate":"11/12/1993",
         "text":"<i><span class='c1'>Rendered</span> in <span class='c2'>Code</span></i>",
@@ -35,34 +35,23 @@
                 }
             },
             {
-                "startDate":"2009,8,23",
-                "headline":"Ummmm, wtf?",
-                "text":"ggggggg ggggggg",
-                "asset":
-                {
-                    "media":"http://www.flickr.com/photos/thepixelarchitect/3853235015/in/photostream/",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
                 "startDate":"2010,3,19",
                 "headline":"Holi at Yahoo!",
                 "text":"ggggggg ggggggg",
                 "asset":
                 {
-                    "media":"http://www.flickr.com/photos/thepixelarchitect/4457272197/in/photostream/",
+                    "media":"images/timeline/holi.jpg",
                     "credit":"",
                     "caption":""
                 }
             },
             {
                 "startDate":"2009,7,14",
-                "headline":"Chico and Poppa!",
+                "headline":"Life in the Bay Area",
                 "text":"Family Photo Day in Mountain View",
                 "asset":
                 {
-                    "media":"http://www.flickr.com/photos/thepixelarchitect/3628783769/in/photostream/",
+                    "media":"images/timeline/mtv-fam.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -73,7 +62,7 @@
                 "text":"ggggggg ggggggg",
                 "asset":
                 {
-                    "media":"http://www.flickr.com/photos/thepixelarchitect/3089233168/in/photostream/",
+                    "media":"images/timeline/yparty.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -85,7 +74,7 @@
                 "text":"Mondavi, Private Reserve",
                 "asset":
                  {
-                     "media":"http://www.flickr.com/photos/hdonagher/6200045283/in/photostream/",
+                     "media":"images/timeline/wine.jpg",
                      "credit":"",
                      "caption":""
                  }
@@ -352,7 +341,7 @@
                 "text":"3 weeks in spain",
                 "asset":
                 {
-                    "media":"<blockquote>Hugh put together the vacation of a lifetime. We will remember it forever</blockquote>",
+                    "media":"images/timeline/sp-intro.jpg",
                     "credit":"",
                     "caption":""
                 }
