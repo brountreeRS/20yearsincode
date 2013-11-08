@@ -1588,15 +1588,16 @@ h2 span.subhead {font-size:1.85rem;}
 }
 
 .node {
-    stroke: rgba(198, 115, 0, 0.77);
+    stroke: rgba(236, 231, 255, 0.77);
     stroke-width: 2px;
     pointer-events: all;
 }
 
 .link {
-    stroke: #999;
-    stroke-opacity: .6;
+    stroke: rgba(236, 231, 255, 0.77);
+    stroke-opacity: .8;
 }
 .gnode text {
-    font:10px Arial, sans-serif;color:#f2f2f2;
+    font:12px 'Open Sans', Arial, sans-serif;color:#f2f2f2;
+    font-weight: bold;
 }
