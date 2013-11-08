@@ -149,8 +149,8 @@ var graph = {
     ]
 
 };
-var width = 960,
-    height = 700;
+var width = 1000,
+    height = 740;
 
 //var color = d3.scale.category20();
 
@@ -158,7 +158,7 @@ var color = d3.scale.ordinal().range(["#e74c3c", "#2ecc71", "#f39c12", "#3498db"
 
 
 var force = d3.layout.force()
-    .charge(-500)
+    .charge(-470)
     .linkDistance(80)
     .size([width, height]);
 

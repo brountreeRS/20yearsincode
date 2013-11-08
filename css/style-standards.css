@@ -94,8 +94,7 @@ h1 small {font-size: 2.4rem;}
 h2 {
     font-family: 'Titillium Web', sans-serif;
     font-size: 3.1rem;
-    font-weight: 200;
-
+    font-weight: 500;
     margin: 0.35rem 0 0.3rem 0;
     text-shadow: 0 1px 0 #888, 0 2px 0 #222, 0 3px 0 #333, 0 4px 3px #444;
 }
@@ -196,7 +195,7 @@ header h1 {
     font-family: 'Raleway', sans-serif;
     text-align: center;
     color: rgb(0, 0, 0);
-    margin-top: 0px;
+    margin-top: 0;
     font-size: 7rem;
     font-weight: 500;
     text-transform: uppercase;
@@ -215,18 +214,15 @@ h1 small {
 }
 
 header h2 {
-    /*font-family: 'OpenSans-BoldItalic', sans-serif;*/
-    font: 40px 'Dancing Script','Segoe UI',sans-serif;
     text-align: center;
-    /*text-stroke: 1px #ece7ff;*/
+    text-stroke: 1px #fff;
     letter-spacing: -2px;
     padding: 0 5rem;
-    font-weight: 500;
+    font-weight: 700;
     width:66%;
     margin-left:10%;
     color: rgba(1, 1, 1, 0.90);
-    text-shadow: 1px 1px 0 #222,
-    3px 3px 0 #444;
+    text-shadow: 1px 1px 0 #222, 3px 3px 0 #444;
 }
 
 .home_bottom_arrow {
@@ -288,27 +284,26 @@ nav ul {
     vertical-align: middle;
     width:100%;
     text-align:center;
-    margin-left:1%;
-
 }
 
 nav ul li {
     display: inline-block;
     vertical-align: middle;
-    width:10%;
+    width:11%;
 }
 
 nav ul li a {
-    /*font-family: 'OpenSans-Regular', sans-serif;*/
+    font-family: 'OpenSans', sans-serif;
     font-weight:200;
-    font-size:1.25rem;
+    font-size:1.23rem;
     color: rgba(255, 255, 255, 0.85);
     position: relative;
     top: 1px;
     display: block;
-    opacity: 0.75;
+    opacity: 0.80;
     padding-top:20px;
     text-transform: uppercase;
+    letter-spacing: -1px;
     border-bottom: 1px solid #734ba9;
     transition: all 0.35s linear;
 
