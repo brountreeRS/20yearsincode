@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+
+    .node {
+        stroke: rgba(198, 115, 0, 0.77);
+        stroke-width: 2px;
+        pointer-events: all;
+    }
+
+    .link {
+        stroke: #999;
+        stroke-opacity: .6;
+    }
+    text {
+        font:10px Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<script src="js/d3.v3.js"></script>
+<script>
+
+var graph = {
+    "nodes":[
+        {"name": "Hugh Donagher", "group":1 },
+        {"name": "Family", "group":2 },
+        {"name": "San Diego", "group":3 },
+        {"name": "Mountain View", "group":4 },
+        {"name": "San Antonio", "group":5 },
+        {"name": "Mark Interrante", "group":6 },
+        {"name": "Gigi Geoffrion", "group":6 },
+        {"name": "Mary Walker", "group":6 },
+        {"name": "Brittney Ware", "group": 6},
+        {"name": "Jason Anderson", "group": 6},
+        {"name": "Ronee Anderson", "group": 6},
+        {"name": "Michael Rosetti", "group": 6},
+        {"name": "Olga Kucerak", "group": 6},
+        {"name": "Adelle Williams", "group": 6},
+        {"name": "Amy Cunningham Teten", "group": 11},
+        {"name": "Lewis Sussman", "group": 6},
+        {"name": "Bradley Toland", "group": 6},
+        {"name": "Bret Piatt", "group": 6},
+        {"name": "Barbara Donagher", "group": 7},
+        {"name": "Mary Ann Donagher", "group": 7},
+        {"name": "Mike Donagher", "group": 7},
+        {"name": "Jessica Brand", "group": 7},
+        {"name": "Kelly Donagher Klein", "group": 7},
+        {"name": "Krista Donagher O'Shea", "group": 7},
+        {"name": "John Donagher", "group": 7},
+        {"name": "Kimberly Pinard","group": 7},
+        {"name": "Brian Rountree", "group": 7},
+        {"name": "Chico", "group": 7},
+        {"name": "Jeff Rountree", "group": 7},
+        {"name": "Kay Cullen", "group": 7 },
+        {"name": "Craig Deutsch", "group": 9},
+        {"name": "Charles Hoscowitz", "group": 9},
+        {"name": "Ronald Plasied", "group": 9},
+        {"name": "William Purves", "group": 9},
+        {"name": "Don Schmidt", "group": 9},
+        {"name": "Anna M. Davison", "group": 9},
+        {"name": "Brian Bragg", "group": 9},
+        {"name": "Liz Crooke", "group": 10},
+        {"name": "Meredith Marine", "group": 10},
+        {"name": "Ernie Hsiung", "group": 10},
+        {"name": "Allen King", "group": 10},
+        {"name": "Eric Childs", "group": 10},
+        {"name": "John Kelly", "group": 10},
+        {"name": "Liz Crooke","group": 10},
+        {"name": "Shelly King", "group": 10},
+        {"name": "Amy Saunders", "group": 10},
+        {"name": "Annette Cardwell", "group": 10},
+        {"name": "Glen Campbell", "group": 10},
+        {"name": "Cheri Gross", "group": 10},
+        {"name": "Dave Beckett", "group": 10},
+        {"name": "Dirk Ginader", "group": 10},
+        {"name": "Cotta Nestler-Ginader", "group": 10},
+        {"name": "Ken Wronkiewicz", "group": 10},
+        {"name": "James Kittock", "group": 10},
+        {"name": "Kathleen Denise Podrasky", "group": 10},
+        {"name": "Leslie Sommer", "group": 10},
+        {"name": "Margaret Abe-Koga", "group": 10},
+        {"name": "Brent Harrison", "group": 10},
+        {"name": "Bob Torroid", "group": 10},
+        {"name": "Mike Kasperzak", "group": 10},
+        {"name": "Caryl Cunningham Teten", "group": 11},
+        {"name": "Chad Parker Carey", "group": 11},
+        {"name": "Cherise Alle", "group": 11},
+        {"name": "Curtis Bowers", "group": 11},
+        {"name": "Dina Kruckenberg Toland", "group": 11},
+        {"name": "Giancarlo Glenn", "group": 11},
+        {"name": "Gloria Carey", "group": 11},
+        {"name": "Jennifer Abad  ", "group": 11},
+        {"name": "Jennifer Martin Hussey", "group": 11},
+        {"name": "Jennifer McInnis", "group": 11},
+        {"name": "Jessica Owen Rose ", "group": 11},
+        {"name": "Jessica Underbrink", "group": 11},
+        {"name": "Jim Meyer", "group": 11},
+        {"name": "Jody Bailey Newman", "group": 11},
+        {"name": "Julie Hooper Abad", "group": 11},
+        {"name": "Krista Wagner Bowers", "group": 11},
+        {"name": "Michael J Rossetti", "group": 11},
+        {"name": "Misael González", "group": 11},
+        {"name": "Naomi Neuburger", "group": 11}
+    ],
+    "links":[
+        {"source":1,"target":0,"value":10},
+        {"source":2,"target":0,"value":1},
+        {"source":3,"target":0,"value":1},
+        {"source":4,"target":0,"value":1},
+        {"source":5,"target":4,"value":1},
+        {"source":6,"target":4,"value":1},
+        {"source":7,"target":4,"value":1},
+        {"source":8,"target":4,"value":1},
+        {"source":8,"target":4,"value":1},
+        {"source":9,"target":4,"value":1},
+        {"source":10,"target":4,"value":1},
+        {"source":11,"target":4,"value":1},
+        {"source":12,"target":4,"value":1},
+        {"source":13,"target":4,"value":1},
+        {"source":14,"target":4,"value":1},
+        {"source":15,"target":4,"value":1},
+        {"source":16,"target":4,"value":1},
+        {"source":17,"target":4,"value":1},
+        {"source":18,"target":1,"value":1},
+        {"source":19,"target":1,"value":1},
+        {"source":20,"target":1,"value":1},
+        {"source":21,"target":1,"value":1},
+        {"source":22,"target":1,"value":1},
+        {"source":23,"target":1,"value":1},
+        {"source":24,"target":1,"value":1},
+        {"source":25,"target":1,"value":1},
+        {"source":26,"target":1,"value":1},
+        {"source":27,"target":1,"value":1},
+        {"source":28,"target":1,"value":1},
+        {"source":29,"target":1,"value":1},
+        {"source":30,"target":2,"value":1},
+        {"source":31,"target":2,"value":1},
+        {"source":32,"target":2,"value":1},
+        {"source":33,"target":2,"value":1},
+        {"source":34,"target":2,"value":1},
+        {"source":35,"target":2,"value":1},
+        {"source":36,"target":2,"value":1},
+        {"source":37,"target":3,"value":1},
+        {"source":38,"target":3,"value":1},
+        {"source":39,"target":3,"value":1},
+        {"source":40,"target":3,"value":1},
+        {"source":41,"target":3,"value":1},
+        {"source":42,"target":3,"value":1},
+        {"source":43,"target":3,"value":1},
+        {"source":44,"target":3,"value":1},
+        {"source":45,"target":3,"value":1},
+        {"source":46,"target":3,"value":1},
+        {"source":47,"target":3,"value":1},
+        {"source":48,"target":3,"value":1},
+        {"source":49,"target":3,"value":1},
+        {"source":50,"target":3,"value":1},
+        {"source":51,"target":3,"value":1},
+        {"source":52,"target":3,"value":1},
+        {"source":53,"target":3,"value":1},
+        {"source":54,"target":3,"value":1},
+        {"source":55,"target":3,"value":1},
+        {"source":56,"target":3,"value":1},
+        {"source":57,"target":3,"value":1},
+        {"source":58,"target":3,"value":1},
+        {"source":59,"target":3,"value":1},
+        {"source":60,"target":4,"value":1},
+        {"source":61,"target":4,"value":1},
+        {"source":62,"target":4,"value":1},
+        {"source":63,"target":4,"value":1},
+        {"source":64,"target":4,"value":1},
+        {"source":65,"target":4,"value":1},
+        {"source":66,"target":4,"value":1},
+        {"source":67,"target":4,"value":1},
+        {"source":68,"target":4,"value":1},
+        {"source":69,"target":4,"value":1},
+        {"source":70,"target":4,"value":1},
+        {"source":71,"target":4,"value":1},
+        {"source":72,"target":4,"value":1},
+        {"source":73,"target":4,"value":1},
+        {"source":74,"target":4,"value":1},
+        {"source":75,"target":4,"value":1},
+        {"source":76,"target":4,"value":1},
+        {"source":77,"target":4,"value":1},
+        {"source":78,"target":4,"value":1}
+    ]
+
+};
+var width = 960,
+        height = 700;
+
+var color = d3.scale.category20();
+
+
+var force = d3.layout.force()
+        .charge(-190)
+        .linkDistance(120)
+        .size([width, height]);
+
+var svg = d3.select("body").append("svg")
+        .attr("width", width)
+        .attr("height", height);
+
+var drawGraph = function (graph) {
+    force
+            .nodes(graph.nodes)
+            .links(graph.links)
+            .start();
+
+    var link = svg.selectAll(".link")
+            .data(graph.links)
+            .enter().append("line")
+            .attr("class", "link")
+            .style("stroke-width", function (d) {
+                return Math.sqrt(d.value);
+            });
+
+    var gnodes = svg.selectAll('g.gnode')
+            .data(graph.nodes)
+            .enter()
+            .append('g')
+            .classed('gnode', true);
+
+    var node = gnodes.append("circle")
+            .attr("class", "node")
+            .attr("r", 18)
+            .style("fill", function (d) {
+                return color(d.group);
+            })
+            .style("stroke-width", function (d) {
+                return Math.sqrt(d.value);
+            })
+            .call(force.drag)
+            .on('click', function () {
+                d3.select(this)
+                        .transition()
+                        .duration(1000)
+                        .style('fill', color(Math.floor((Math.random() * 20) + 1)));
+            });
+
+    var labels = gnodes.append("text")
+            .text(function (d) {
+                return d.name;
+            });
+
+    //console.log(labels);
+
+    force.on("tick", function () {
+        link.attr("x1", function (d) {
+            return d.source.x;
+        })
+                .attr("y1", function (d) {
+                    return d.source.y;
+                })
+                .attr("x2", function (d) {
+                    return d.target.x;
+                })
+                .attr("y2", function (d) {
+                    return d.target.y;
+                });
+
+        gnodes.attr("transform", function (d) {
+            return 'translate(' + [d.x, d.y] + ')';
+        });
+
+
+    });
+};
+
+drawGraph(graph);
+
+</script>
+</body>
+</html>
