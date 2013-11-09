@@ -13,7 +13,7 @@
         },
         "date": [
             {
-                "startDate":"1993,11,13",
+                "startDate":"11/13/1993",
                 "headline":"Where it all began",
                 "text":"Omni Hotel, Raliegh North Carolina",
                 "asset":
@@ -24,20 +24,9 @@
                 }
             },
             {
-                "startDate":"1997,2,7",
-                "headline":"Words To Live By",
-                "text":"ggggggg ggggggg",
-                "asset":
-                {
-                    "media":"<blockquote>“We choose to be together. There is no authority for our being together except us.”</blockquote>",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2010,3,19",
+                "startDate":"3/19/2010",
                 "headline":"Holi at Yahoo!",
-                "text":"ggggggg ggggggg",
+                "text":"Because hippy hair deserves a giant pile of colored powder",
                 "asset":
                 {
                     "media":"images/timeline/holi.jpg",
@@ -46,7 +35,7 @@
                 }
             },
             {
-                "startDate":"2009,7,14",
+                "startDate":"7/14/2009",
                 "headline":"Life in the Bay Area",
                 "text":"Family Photo Day in Mountain View",
                 "asset":
@@ -57,7 +46,7 @@
                 }
             },
             {
-                "startDate":"2008,12,7",
+                "startDate":"12/7/2008",
                 "headline":"Fun and Frivolity at Yahoo!",
                 "text":"ggggggg ggggggg",
                 "asset":
@@ -69,7 +58,7 @@
             },
 
             {
-                "startDate":"2011,9,24",
+                "startDate":"9/24/2011",
                 "headline":"Life Is Too Short to Drink Bad Wine",
                 "text":"Mondavi, Private Reserve",
                 "asset":
@@ -147,9 +136,9 @@
                 }
             },
             {
-                "startDate":"12/3/2000",
-                "headline":"ggggggg ggggggg",
-                "text": "ggggggg ggggggg",
+                "startDate":"10/3/2000",
+                "headline":"Cruise the High Seas",
+                "text": "On the way to the Yucatan",
                 "asset":
                 {
                     "media":"images/timeline/sd5.jpg",
@@ -392,8 +381,8 @@
             },
             {
                 "startDate":"10/12/2013",
-                "headline":"spain 5",
-                "text":"ggggggg ggggggg",
+                "headline":"Relaxing at the end of an epic meal",
+                "text":"Fine port, Cuban cigars, and damn good company",
                 "asset":
                 {
                     "media":"images/timeline/sp5.jpg",
@@ -404,7 +393,7 @@
             {
                 "startDate":"10/17/2013",
                 "headline":"spain 6",
-                "text":"ggggggg ggggggg",
+                "text":"Overlooking the city of Barcelona at sunset",
                 "asset":
                 {
                     "media":"images/timeline/sp6.jpg",
@@ -413,9 +402,64 @@
                 }
             },
             {
+                "startDate":"1/29/1997",
+                "headline":"ham marys",
+                "text":"b day",
+                "asset":
+                {
+                    "media":"images/timeline/1-29-1997-ham-marys.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"4/4/1995",
+                "headline":"drunk",
+                "text":"drunk",
+                "asset":
+                {
+                    "media":"images/timeline/4-4-95-lg.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"7/7/1995",
+                "headline":"sdsdsd",
+                "text":"dsdsdsdk",
+                "asset":
+                {
+                    "media":"images/timeline/7-7-95.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"10/24/2004",
+                "headline":"pumpkin",
+                "text":"Overcbfdg dgfdgdt",
+                "asset":
+                {
+                    "media":"images/timeline/10-24-2004.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"10/20/2004",
+                "headline":"sfsdfdfsdf",
+                "text":"fds sf sdf sf sf s",
+                "asset":
+                {
+                    "media":"images/timeline/12-20-2004.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
                 "startDate":"11/12/2013",
-                "headline":"Love you Honey!",
-                "text":"ggggggg ggggggg",
+                "headline":"I Love you Honey!",
+                "text":"I hope the next 20 years are just as amazing as the first",
                 "asset":
                 {
                     "media":"images/timeline/wrap-up.jpg",

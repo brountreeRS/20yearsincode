@@ -31,7 +31,17 @@
                 {hue: "#D61258"},
                 {saturation: 0}
             ]}
-        ], n = new google.maps.StyledMapType(t, {name: "Styled Map"}), r = {center: new google.maps.LatLng(50.861686, 4.367838), mapTypeId: google.maps.MapTypeId.ROADMAP, mapTypeControl: !1, navigationControl: !0, navigationControlOptions: {style: google.maps.NavigationControlStyle.SMALL, mapTypeIds: [google.maps.MapTypeId.ROADMAP, "map_style"]}, scrollwheel: !1, zoom: 16, zoomControl: !0, zoomControlOptions: {style: google.maps.ZoomControlStyle.SMALL}}, i = new google.maps.Map(document.getElementById("map_canvas"), r), s = new google.maps.MarkerImage("/assets/img/marker.png", new google.maps.Size(52, 55), new google.maps.Point(0, 0), new google.maps.Point(18, 70)), o = new google.maps.Marker({position: e, title: "Hello World!", map: i, icon: s}), u = '<div id="content"><div id="siteNotice"><h3 id="firstHeading" class="firstHeading">Cherry Pulp SPRL</h3><div id="bodyContent"><p><a href="http://www.google.com/maps?q=Rue+des+Palais+44,+Schaerbeek,+Belgique&hl=fr&sll=37.0625,-95.677068&sspn=48.555061,92.373047&oq=rue+des+palais+44&hnear=Rue+des+Palais+44,+Schaerbeek+1030+Schaerbeek,+Bruxelles,+Belgique&t=m&z=16" target="_blank">Rue des Palais 44, <br/>1030 Brussels, Belgium</a></p></div></div></div>', a = new google.maps.InfoWindow({content: u});
+        ],
+            n = new google.maps.StyledMapType(t, {name: "Styled Map"}),
+            r = {center: new google.maps.LatLng(50.861686, 4.367838),
+                mapTypeId: google.maps.MapTypeId.ROADMAP, mapTypeControl: !1, navigationControl: !0,
+                navigationControlOptions: {style: google.maps.NavigationControlStyle.SMALL, mapTypeIds: [google.maps.MapTypeId.ROADMAP, "map_style"]},
+                scrollwheel: !1, zoom: 16, zoomControl: !0, zoomControlOptions: {style: google.maps.ZoomControlStyle.SMALL}},
+            i = new google.maps.Map(document.getElementById("map_canvas"), r),
+            s = new google.maps.MarkerImage("/assets/img/marker.png", new google.maps.Size(52, 55), new google.maps.Point(0, 0), new google.maps.Point(18, 70)),
+            o = new google.maps.Marker({position: e, title: "Hello World!", map: i, icon: s}),
+            u = '<div id="content"><div id="siteNotice"><h3 id="firstHeading" class="firstHeading">Cherry Pulp SPRL</h3><div id="bodyContent"><p><a href="http://www.google.com/maps?q=Rue+des+Palais+44,+Schaerbeek,+Belgique&hl=fr&sll=37.0625,-95.677068&sspn=48.555061,92.373047&oq=rue+des+palais+44&hnear=Rue+des+Palais+44,+Schaerbeek+1030+Schaerbeek,+Bruxelles,+Belgique&t=m&z=16" target="_blank">Rue des Palais 44, <br/>1030 Brussels, Belgium</a></p></div></div></div>',
+            a = new google.maps.InfoWindow({content: u});
         i.mapTypes.set("map_style", n);
         i.setMapTypeId("map_style");
         o.setMap(i);

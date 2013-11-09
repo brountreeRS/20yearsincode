@@ -151,13 +151,13 @@ header > div {
 header h1 {
     font-family: 'Raleway', sans-serif;
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: rgb(1, 1, 1);
     margin-top: 0;
     font-size: 7rem;
     font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 2px;
-    text-shadow: 4px 4px 0px #382553, 8px 8px 0px #9C88B7, 12px 12px 0px #503476;
+    text-shadow: 2px 2px 0px #382553, 4px 4px 0px #9C88B7, 8px 8px 0px #503476;
 }
 
 h1 span {
@@ -238,7 +238,7 @@ nav ul li {
     display: inline-block;
     vertical-align: middle;
     margin: 0 10px;
-    min-width: 120px;
+    min-width: 80px;
 }
 
 nav ul li a {
@@ -264,9 +264,6 @@ nav ul li a:hover {
     border-color: #f19a11;
     text-decoration: none;
 }
-
-
-
 
 /*======== ABOUT ===============*/
 
@@ -951,7 +948,7 @@ img {vertical-align: middle;}
 #timeline-wrap {
     margin:20px 0;
     position:relative;
-    width:100%;
+    width:96%;
     height:600px;
     max-height: 600px;
     background:url('../images/timeline_wrap_bg.jpg') repeat #191919;
