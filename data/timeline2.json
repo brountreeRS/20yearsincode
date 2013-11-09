@@ -9,7 +9,7 @@
         {
             "media":"images/timeline/nc1.jpg",
             "credit":"",
-            "caption":"nobody knew this casual snapshot captures the first moments of a lifelong love"
+            "caption":""
         },
         "date": [
             {
@@ -348,8 +348,8 @@
             },
             {
                 "startDate":"10/5/2013",
-                "headline":"spain 1",
-                "text":"ggggggg ggggggg",
+                "headline":"Amazing views",
+                "text":"Akward Selfies, a recurring theme",
                 "asset":
                 {
                     "media":"images/timeline/sp1.jpg",
@@ -359,8 +359,8 @@
             },
             {
                 "startDate":"10/8/2013",
-                "headline":"spain 2",
-                "text":"ggggggg ggggggg",
+                "headline":"Meeting the Masters",
+                "text":"Some of the best chefs in the world",
                 "asset":
                 {
                     "media":"images/timeline/sp2.jpg",
@@ -370,8 +370,8 @@
             },
             {
                 "startDate":"10/11/2013",
-                "headline":"spain 3",
-                "text":"ggggggg ggggggg",
+                "headline":"Martin Beresategui",
+                "text":"A lunch in Valencia that takes your breath away",
                 "asset":
                 {
                     "media":"images/timeline/sp3.jpg",
@@ -381,8 +381,8 @@
             },
             {
                 "startDate":"10/14/2013",
-                "headline":"spain 4",
-                "text":"ggggggg ggggggg",
+                "headline":"Waiting for the Fireworks",
+                "text":"In Zaragoza Spain",
                 "asset":
                 {
                     "media":"images/timeline/sp4.jpg",

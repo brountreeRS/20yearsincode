@@ -67,7 +67,7 @@
         $(".chico_parallax").parallax("100%", 0.6, true);
         $(".charts_parallax").parallax("100%", 0.5, true);
         $(".hugh_parallax").parallax("100%", 0.3, true);
-
+        $(".info_parallax").parallax("100%", 0.2, true);
         /* ======= STICKY MENU ======= */
 
         $(".sticky-menu").sticky({topSpacing: 0});
