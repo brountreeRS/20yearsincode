@@ -208,7 +208,7 @@ header h2 {
 
 }
 
-.home_bottom_arrow a:hover {
+.home_bottom_arrow a:hover, #current_menu_item a {
     opacity: 1;
     border-color: rgba(255, 255, 255, 0.85);
     background-color: rgba(132, 26, 235, 0.85);
@@ -237,8 +237,8 @@ nav ul {
 nav ul li {
     display: inline-block;
     vertical-align: middle;
-    margin: 0 10px;
-    min-width: 80px;
+    /*margin: 0 10px;*/
+    min-width: 70px;
 }
 
 nav ul li a {
@@ -247,13 +247,13 @@ nav ul li a {
     font-size:1.23rem;
     color: rgba(255, 255, 255, 0.85);
     position: relative;
-    top: 1px;
+    /*top: 1px;*/
+    height:46px;
     display: block;
     opacity: 0.80;
     padding-top:20px;
     text-transform: uppercase;
     letter-spacing: -1px;
-    border-bottom: 1px solid #734ba9;
     transition: all 0.35s linear;
 
 }
@@ -327,6 +327,11 @@ nav ul li a:hover {
 
 /*======== parallax ===============*/
 
+.parallax {
+    background-position: 100% center;
+    background-size: cover;
+}
+
 .home_parallax {
     background: url("../images/parallax/anniversary-parallax.png") fixed;
     background-size: cover;
@@ -335,55 +340,52 @@ nav ul li a:hover {
 
 .charts_parallax {
     background: url("../images/parallax/anniversary-parallax-8.png") fixed;
-    background-position: 100% center;
     background-size: cover;
-    height: 300px;
-    min-height: 300px;
+    background-position: 100% top;
+    height:400px;
 }
 .hugh_parallax {
-    background: url("../images/parallax/anniversary-parallax-9.png") fixed 50% 50%;
-    height: 300px;
-    min-height: 300px;
+    background: url("../images/parallax/anniversary-parallax-9.png") fixed;
+    background-size: cover;
+    background-position: 100% top;
+    height:400px;
 }
 
 .info_parallax {
-    background: url("../images/parallax/anniversary-parallax-5.png") fixed;
+    /*background: url("../images/parallax/anniversary-parallax-5.png") fixed;*/
+    background: url("../images/parallax/hugh_51bw.jpg") fixed;
     background-size: cover;
     background-position: 100% top;
-    height: 300px;
-    min-height: 300px;
+    height:300px;
+    margin-top:52px;
 }
 
 .chico_parallax {
     background: url("../images/parallax/anniversary-parallax-3.png") fixed;
     background-size: cover;
-    height: 300px;
-    min-height: 300px;
+    background-position: 100% top;
+    height:400px;
 }
 
 .content_box_parallax {
     background: url("../images/parallax/anniversary-parallax-1.png") fixed;
     background-size: cover;
-    background-position: 100% center;
-    margin-top: 20px;
-    min-height: 300px;
-    padding: 20px 0;
+    background-position: 100% top;
+    height:400px;
 }
 
 .timeline_parallax {
     background: url("../images/parallax/anniversary-parallax-2.png") fixed;
     background-size: cover;
-    background-position: 100% center;
-    height: 300px;
-    min-height: 300px;
+    background-position: 100% top;
+    height:400px;
 }
 
 .connections_parallax {
     background: url("../images/parallax/anniversary-parallax-4.png") fixed;
     background-size: cover;
-    background-position: 100% center;
-    height: 300px;
-    min-height: 300px;
+    background-position: 100% top;
+    height:400px;
 }
 
 #infographic {margin: 0 auto;text-align: center;}
@@ -421,7 +423,7 @@ span.general_color {display: block;}
 }
 
 #hugh-sec {
-    height: 800px;
+    height: 630px;
 }
 
 .process {
@@ -544,6 +546,7 @@ span.general_color {display: block;}
     position: fixed;
     width: 12.5%;
     height: 100%;
+    z-index: 999999;
 }
 
 .left {
@@ -589,50 +592,50 @@ span.general_color {display: block;}
 
 .a1 {
     background-color: #e74c3c;
-    animation: openA1 1.8s linear 0.5s forwards;
+    animation: openA1 1.1s linear 0.1s forwards;
 }
 
 .a2 {
     background-color: #2ecc71;
-    animation: openA2 1.6s linear 0.5s forwards;
+    animation: openA2 1.1s linear 0.1s forwards;
 }
 
 .a3 {
     background-color: #f39c12;
-    animation: openA3 1.4s linear 0.5s forwards;
+    animation: openA3 1.1s linear 0.1s forwards;
 }
 
 .a4 {
     background-color: #3498db;
-    animation: openA4 1.2s linear 0.5s forwards;
+    animation: openA4 1.1s linear 0.1s forwards;
 }
 
 .a5 {
     background-color: #bdc3c7;
-    animation: openA5 1.8s linear 0.5s forwards;
+    animation: openA5 1.1s linear 0.1s forwards;
 }
 
 .a6 {
     background-color: #f1c40f;
-    animation: openA6 1.6s linear 0.5s forwards;
+    animation: openA6 1.1s linear 0.1s forwards;
 }
 
 .a7 {
     background-color: #1abc9c;
-    animation: openA7 1.4s linear 0.5s forwards;
+    animation: openA7 1.1s linear 0.1s forwards;
 }
 
 .a8 {
     background-color: #9b59b6;
-    animation: openA8 1.2s linear 0.5s forwards;
+    animation: openA8 1.1s linear 0.1s forwards;
 }
 
 @keyframes openA1 {
     from {
-        height: 50%;
+        height: 100%;
     }
     75% {
-        height: 15%;
+        height: 65%;
     }
     to {
         height: 0%;
@@ -641,7 +644,7 @@ span.general_color {display: block;}
 
 @keyframes openA2 {
     from {
-        height: 50%;
+        height: 100%;
     }
     75% {
         height: 15%;
@@ -653,10 +656,10 @@ span.general_color {display: block;}
 
 @keyframes openA3 {
     from {
-        height: 50%;
+        height: 100%;
     }
     75% {
-        height: 15%;
+        height: 45%;
     }
     to {
         height: 0%;
@@ -665,10 +668,10 @@ span.general_color {display: block;}
 
 @keyframes openA4 {
     from {
-        height: 50%;
+        height: 100%;
     }
     75% {
-        height: 15%;
+        height: 85%;
     }
     to {
         height: 0%;
@@ -677,7 +680,7 @@ span.general_color {display: block;}
 
 @keyframes openA5 {
     from {
-        height: 50%;
+        height: 100%;
     }
     75% {
         height: 15%;
@@ -689,10 +692,10 @@ span.general_color {display: block;}
 
 @keyframes openA6 {
     from {
-        height: 50%;
+        height: 100%;
     }
     75% {
-        height: 15%;
+        height: 35%;
     }
     to {
         height: 0%;
@@ -701,10 +704,10 @@ span.general_color {display: block;}
 
 @keyframes openA7 {
     from {
-        height: 50%;
+        height: 100%;
     }
     75% {
-        height: 15%;
+        height: 55%;
     }
     to {
         height: 0%;
@@ -713,157 +716,157 @@ span.general_color {display: block;}
 
 @keyframes openA8 {
     from {
-        height: 50%;
+        height: 100%;
     }
     75% {
-        height: 15%;
+        height: 25%;
     }
     to {
         height: 0%;
     }
 }
 
-.b1 {
-    background-color: #e54b3b;
-    animation: openB1 1.8s linear 0.5s forwards;
-}
+/*.b1 {*/
+    /*background-color: #e54b3b;*/
+    /*animation: openB1 1.8s linear 0.5s forwards;*/
+/*}*/
 
-.b2 {
-    background-color: #26ac5f;
-    animation: openB2 1.6s linear 0.5s forwards;
-}
+/*.b2 {*/
+    /*background-color: #26ac5f;*/
+    /*animation: openB2 1.6s linear 0.5s forwards;*/
+/*}*/
 
-.b3 {
-    background-color: #f19a11;
-    animation: openB3 1.4s linear 0.5s forwards;
-}
+/*.b3 {*/
+    /*background-color: #f19a11;*/
+    /*animation: openB3 1.4s linear 0.5s forwards;*/
+/*}*/
 
-.b4 {
-    background-color: #287eb7;
-    animation: openB4 1.2s linear 0.5s forwards;
-}
+/*.b4 {*/
+    /*background-color: #287eb7;*/
+    /*animation: openB4 1.2s linear 0.5s forwards;*/
+/*}*/
 
-.b5 {
-    background-color: #edf1f1;
-    animation: openB5 1.8s linear 0.5s forwards;
-}
+/*.b5 {*/
+    /*background-color: #edf1f1;*/
+    /*animation: openB5 1.8s linear 0.5s forwards;*/
+/*}*/
 
-.b6 {
-    background-color: #efc20e;
-    animation: openB6 1.6s linear 0.5s forwards;
-}
+/*.b6 {*/
+    /*background-color: #efc20e;*/
+    /*animation: openB6 1.6s linear 0.5s forwards;*/
+/*}*/
 
-.b7 {
-    background-color: #159e83;
-    animation: openB7 1.4s linear 0.5s forwards;
-}
+/*.b7 {*/
+    /*background-color: #159e83;*/
+    /*animation: openB7 1.4s linear 0.5s forwards;*/
+/*}*/
 
-.b8 {
-    background-color: #8c43ab;
-    animation: openB8 1.2s linear 0.5s forwards;
-}
+/*.b8 {*/
+    /*background-color: #8c43ab;*/
+    /*animation: openB8 1.2s linear 0.5s forwards;*/
+/*}*/
 
-@keyframes openB1 {
-    from {
-        height: 50%;
-    }
-    75% {
-        height: 15%;
-    }
-    to {
-        height: 0%;
-    }
-}
+/*@keyframes openB1 {*/
+    /*from {*/
+        /*height: 50%;*/
+    /*}*/
+    /*75% {*/
+        /*height: 15%;*/
+    /*}*/
+    /*to {*/
+        /*height: 0%;*/
+    /*}*/
+/*}*/
 
-@keyframes openB2 {
-    from {
-        height: 50%;
-    }
-    75% {
-        height: 15%;
-    }
-    to {
-        height: 0%;
-    }
-}
+/*@keyframes openB2 {*/
+    /*from {*/
+        /*height: 50%;*/
+    /*}*/
+    /*75% {*/
+        /*height: 15%;*/
+    /*}*/
+    /*to {*/
+        /*height: 0%;*/
+    /*}*/
+/*}*/
 
-@keyframes openB3 {
-    from {
-        height: 50%;
-    }
-    75% {
-        height: 15%;
-    }
-    to {
-        height: 0%;
-    }
-}
+/*@keyframes openB3 {*/
+    /*from {*/
+        /*height: 50%;*/
+    /*}*/
+    /*75% {*/
+        /*height: 15%;*/
+    /*}*/
+    /*to {*/
+        /*height: 0%;*/
+    /*}*/
+/*}*/
 
-@keyframes openB4 {
-    from {
-        height: 50%;
-    }
-    75% {
-        height: 15%;
-    }
-    to {
-        height: 0%;
-    }
-}
+/*@keyframes openB4 {*/
+    /*from {*/
+        /*height: 50%;*/
+    /*}*/
+    /*75% {*/
+        /*height: 15%;*/
+    /*}*/
+    /*to {*/
+        /*height: 0%;*/
+    /*}*/
+/*}*/
 
-@keyframes openB5 {
-    from {
-        height: 50%;
-    }
-    75% {
-        height: 15%;
-    }
-    to {
-        height: 0%;
-    }
-}
+/*@keyframes openB5 {*/
+    /*from {*/
+        /*height: 50%;*/
+    /*}*/
+    /*75% {*/
+        /*height: 15%;*/
+    /*}*/
+    /*to {*/
+        /*height: 0%;*/
+    /*}*/
+/*}*/
 
-@keyframes openB6 {
-    from {
-        height: 50%;
-    }
-    75% {
-        height: 15%;
-    }
-    to {
-        height: 0%;
-    }
-}
+/*@keyframes openB6 {*/
+    /*from {*/
+        /*height: 50%;*/
+    /*}*/
+    /*75% {*/
+        /*height: 15%;*/
+    /*}*/
+    /*to {*/
+        /*height: 0%;*/
+    /*}*/
+/*}*/
 
-@keyframes openB7 {
-    from {
-        height: 50%;
-    }
-    75% {
-        height: 15%;
-    }
-    to {
-        height: 0%;
-    }
-}
+/*@keyframes openB7 {*/
+    /*from {*/
+        /*height: 50%;*/
+    /*}*/
+    /*75% {*/
+        /*height: 15%;*/
+    /*}*/
+    /*to {*/
+        /*height: 0%;*/
+    /*}*/
+/*}*/
 
-@keyframes openB8 {
-    from {
-        height: 50%;
-    }
-    75% {
-        height: 15%;
-    }
-    to {
-        height: 0%;
-    }
-}
+/*@keyframes openB8 {*/
+    /*from {*/
+        /*height: 50%;*/
+    /*}*/
+    /*75% {*/
+        /*height: 15%;*/
+    /*}*/
+    /*to {*/
+        /*height: 0%;*/
+    /*}*/
+/*}*/
 
 #home {
     opacity: 0;
-    animation: fadeIn 1.5s ease-in 2s forwards;
+    /*animation: fadeIn 4.5s ease-in 2.2s forwards;*/
 }
-
+#home.ready {opacity:1;}
 @keyframes fadeIn {
     from {
         opacity: 0;
@@ -948,7 +951,7 @@ img {vertical-align: middle;}
 #timeline-wrap {
     margin:20px 0;
     position:relative;
-    width:96%;
+    width:100%;
     height:600px;
     max-height: 600px;
     background:url('../images/timeline_wrap_bg.jpg') repeat #191919;

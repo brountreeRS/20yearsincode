@@ -32,6 +32,7 @@
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#places-lived">Places</a></li>
+        <li><a href="#timeline">Timeline</a></li>
         <li><a href="#connections">Connections</a></li>
         <li><a href="#chico">Chico</a></li>
         <li><a href="#charts">Data</a></li>
@@ -91,19 +92,9 @@
 <div class="content_box_parallax"></div>
 
 <section id="places-lived" class="slide_menu">
-    <h2>
-        Places We Have Lived
-        <span>over 20 years</span>
+    <h2>Places We Have Lived<span>over 20 years</span>
     </h2>
-    <div id="places-map">
-
-
-
-
-
-
-
-    </div>
+    <div id="places-map"></div>
 </section>
 
 
@@ -115,7 +106,7 @@
     </div>
 </section>
 
-<div class="chico_parallax"></div>
+<div class="chico_parallax parallax"></div>
 <section id="chico" class="slide_menu">
     <h2>
         Chico Joins the Family
@@ -140,7 +131,7 @@
     </ul>
 </section>
 
-<div class="connections_parallax"></div>
+<div class="connections_parallax parallax"></div>
 <section id="connections" class="slide_menu">
     <h2>
         The Ties that Bind.
@@ -150,7 +141,7 @@
 </section>
 
 
-<div class="charts_parallax"></div>
+<div class="charts_parallax parallax"></div>
 <section id="charts" class="slide_menu">
     <h2>
         All the Data!
@@ -169,7 +160,7 @@
 </section>
 
 
-<div id="hugh-parallax" class="hugh_parallax"></div>
+<div id="hugh-parallax" class="hugh_parallax parallax"></div>
 <section id="hugh-sec" class="slide_menu">
     <h2>
         The Donagher 2v.3
@@ -217,6 +208,31 @@
 </footer>
 
 
+<div id="loading">
+
+    <div class="strip left a1"></div>
+    <div class="strip left a2"></div>
+    <div class="strip left a3"></div>
+    <div class="strip left a4"></div>
+
+    <div class="strip left a5"></div>
+    <div class="strip left a6"></div>
+    <div class="strip left a7"></div>
+    <div class="strip left a8"></div>
+
+    <div class="strip right b1"></div>
+    <div class="strip right b2"></div>
+    <div class="strip right b3"></div>
+    <div class="strip right b4"></div>
+
+    <div class="strip right b5"></div>
+    <div class="strip right b6"></div>
+    <div class="strip right b7"></div>
+    <div class="strip right b8"></div>
+</div>
+
+
+
 <script type="text/javascript">
     xhr = new XMLHttpRequest();
     xhr.open("GET", "svg/places.svg", false);
@@ -248,6 +264,10 @@
 
 
 <script src="js/jquery.min.js"></script>
+
+
+
+
 <script src="js/timeline-min.js"></script>
 <script>
     $(function(){
@@ -278,36 +298,15 @@
 <script type="text/javascript">
 
     setTimeout(function () {
-        $("#loading").fadeOut(800, function () {
-            $(this).remove()
+        $("#loading").fadeOut(2800, function () {
+            $(this).remove();
+            $("#home").addClass('ready');
         })
     }, 1000)
 
 </script>
 <script src="js/scripts.js"></script>
 
-<div id="loading">
-
-    <div class="strip left a1"></div>
-    <div class="strip left a2"></div>
-    <div class="strip left a3"></div>
-    <div class="strip left a4"></div>
-
-    <div class="strip left a5"></div>
-    <div class="strip left a6"></div>
-    <div class="strip left a7"></div>
-    <div class="strip left a8"></div>
-
-    <div class="strip right b1"></div>
-    <div class="strip right b2"></div>
-    <div class="strip right b3"></div>
-    <div class="strip right b4"></div>
-
-    <div class="strip right b5"></div>
-    <div class="strip right b6"></div>
-    <div class="strip right b7"></div>
-    <div class="strip right b8"></div>
-</div>
 
 
 </body>
