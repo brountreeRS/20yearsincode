@@ -24,52 +24,6 @@
                 }
             },
             {
-                "startDate":"3/19/2010",
-                "headline":"Holi at Yahoo!",
-                "text":"Because hippy hair deserves a giant pile of colored powder",
-                "asset":
-                {
-                    "media":"images/timeline/holi.jpg",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"7/14/2009",
-                "headline":"Life in the Bay Area",
-                "text":"Family Photo Day in Mountain View",
-                "asset":
-                {
-                    "media":"images/timeline/mtv-fam.jpg",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"12/7/2008",
-                "headline":"Fun and Frivolity at Yahoo!",
-                "text":"ggggggg ggggggg",
-                "asset":
-                {
-                    "media":"images/timeline/yparty.jpg",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-
-            {
-                "startDate":"9/24/2011",
-                "headline":"Life Is Too Short to Drink Bad Wine",
-                "text":"Mondavi, Private Reserve",
-                "asset":
-                 {
-                     "media":"images/timeline/wine.jpg",
-                     "credit":"",
-                     "caption":""
-                 }
-            },
-
-            {
                 "startDate": "12/20/1993",
                 "headline": "Christmas in California",
                 "text": "that December, Brian made his first ever trip to California where he and Hugh spent precious face to face time with each other. Will this work? Was it a good idea?",
@@ -81,7 +35,7 @@
                 }
             },
             {
-                "startDate":"4/5/1995",
+                "startDate":"04/05/1995",
                 "headline":"Life in the sun",
                 "text":"Friends, family, finances, fun, fujitsu. all of the lucky F words",
                 "asset":
@@ -92,9 +46,9 @@
                 }
             },
             {
-                "startDate":"12/1/1995",
+                "startDate":"7/01/1995",
                 "headline":"Visiting the family in CT",
-                "text":"ggggggg ggggggg",
+                "text":"Fun trip, really. Meeting all 650 Donaghers at the same time was certainly efficient! ;-)",
                 "asset":
                 {
                     "media":"images/timeline/ct1.jpg",
@@ -103,9 +57,31 @@
                 }
             },
             {
-                "startDate":"7/3/1996",
-                "headline":"The Wedding of the century",
-                "text": "awwwwwwwwwwwww",
+                "startDate":"07/07/1995",
+                "headline":"The epic post party 'well that just happened' throwdown",
+                "text":"To this day, the only two people who remember everything that happened, are Brian and Hugh's father",
+                "asset":
+                {
+                    "media":"images/timeline/7-7-1995.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"08/04/1995",
+                "headline":"A Beautiful Wedding",
+                "text":"Krista and Brenden's wedding was a beautiful event",
+                "asset":
+                {
+                    "media":"images/timeline/4-4-95-lg.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"07/03/1996",
+                "headline":"The 'First' Wedding",
+                "text": "Though legally the ceremony was a non event, a day celebrating our love with family and friends is a good day indeed",
                 "asset":
                 {
                     "media":"images/timeline/sd3.jpg",
@@ -114,9 +90,9 @@
                 }
             },
             {
-                "startDate":"7/5/2000",
-                "headline":"ggggggg ggggggg",
-                "text": "ggggggg ggggggg",
+                "startDate":"07/05/1996",
+                "headline":"Mother and Son",
+                "text": "At our Gatsby themed post wedding cocktail party",
                 "asset":
                 {
                     "media":"images/timeline/sd6.jpg",
@@ -125,7 +101,7 @@
                 }
             },
             {
-                "startDate":"12/3/1996",
+                "startDate":"12/03/1996",
                 "headline":"Christmas in Southern California",
                 "text":"text goes here",
                 "asset":
@@ -136,7 +112,18 @@
                 }
             },
             {
-                "startDate":"10/3/2000",
+                "startDate":"01/29/1997",
+                "headline":"Brian's Birthday at Hamburger Mary's",
+                "text":"Let's just say our definition of fine dining used to be a bit more, let's see, wrong",
+                "asset":
+                {
+                    "media":"images/timeline/1-29-1997-ham-marys.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"10/03/2000",
                 "headline":"Cruise the High Seas",
                 "text": "On the way to the Yucatan",
                 "asset":
@@ -147,9 +134,31 @@
                 }
             },
             {
-                "startDate":"1/2/2005",
+                "startDate":"10/24/2004",
+                "headline":"Visiting New England in the fall",
+                "text":"Is always a time of family, foliage, and food",
+                "asset":
+                {
+                    "media":"images/timeline/10-24-2004.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"10/20/2004",
+                "headline":"Uncle Brian and Uncle Hugh",
+                "text":"Has a nice ring to it, and let's face it, you get all the benefits and little of the downside of kids",
+                "asset":
+                {
+                    "media":"images/timeline/12-20-2004.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"01/02/2005",
                 "headline":"The move north. silicon valley",
-                "text":"ggggggg ggggggg",
+                "text":"Goodbye San Diego, hello Bay Area",
                 "asset":
                 {
                     "media":"images/timeline/mv2.jpg",
@@ -158,9 +167,9 @@
                 }
             },
             {
-                "startDate":"3/7/2007",
+                "startDate":"03/07/2007",
                 "headline":"The love of wine is born",
-                "text":"ggggggg ggggggg",
+                "text":"Who knew that living in area not known for wine (San Diego), would skew our opinion?",
                 "asset":
                 {
                     "media":"images/timeline/mv1.jpg",
@@ -169,9 +178,9 @@
                 }
             },
             {
-                "startDate":"1/29/2008",
+                "startDate":"01/29/2008",
                 "headline":"Birthdays and other fun",
-                "text":"ggggggg ggggggg",
+                "text":"The dinner that will forever be known for the super awkward interplay between a 70 year old cougar, and a 25 year old developer",
                 "asset":
                 {
                     "media":"images/timeline/mv3.jpg",
@@ -180,9 +189,53 @@
                 }
             },
             {
-                "startDate":"1/5/2011",
+                "startDate":"12/07/2008",
+                "headline":"Fun and Frivolity at Yahoo!",
+                "text":"Yahoo may have lost it's way, but they sure knew how to throw a party",
+                "asset":
+                {
+                    "media":"images/timeline/yparty.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"07/14/2009",
+                "headline":"Life in the Bay Area",
+                "text":"Family Photo Day in Mountain View",
+                "asset":
+                {
+                    "media":"images/timeline/mtv-fam.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"03/19/2010",
+                "headline":"Holi at Yahoo!",
+                "text":"Because hippy hair deserves a giant pile of colored powder",
+                "asset":
+                {
+                    "media":"images/timeline/holi.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"09/24/2011",
+                "headline":"Life Is Too Short to Drink Bad Wine",
+                "text":"Mondavi, Private Reserve",
+                "asset":
+                {
+                    "media":"images/timeline/wine.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"01/05/2011",
                 "headline":"Deep in the heart of Texas",
-                "text":"ggggggg ggggggg",
+                "text":"Move to Texas, buy a home in the coolest 'hood around. Yeah, life goes in directions unpredictable",
                 "asset":
                 {
                     "media":"images/timeline/sat2.jpg",
@@ -191,9 +244,9 @@
                 }
             },
             {
-                "startDate":"1/5/2011",
-                "headline":"lions",
-                "text":"ggggggg ggggggg",
+                "startDate":"01/05/2011",
+                "headline":"Chartering Another Lions Club",
+                "text":"All in a days work for the man who makes everything and everyone around him better",
                 "asset":
                 {
                     "media":"images/timeline/sat1.jpg",
@@ -202,20 +255,9 @@
                 }
             },
             {
-                "startDate":"2/13/2012",
-                "headline":"San Antonio Food Scene",
-                "text":"best dog ever 2",
-                "asset":
-                {
-                    "media":"images/timeline/chico1.jpg",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
                 "startDate":"10/30/2011",
-                "headline":"Deep in the heart of Texas",
-                "text":"ggggggg ggggggg",
+                "headline":"Southtown Supper Club",
+                "text":"One of the hottest places to dine in San Antonio? Oh yes, that would be our kitchen.",
                 "asset":
                 {
                     "media":"images/timeline/sat3.jpg",
@@ -224,42 +266,9 @@
                 }
             },
             {
-                "startDate":"9/30/2011",
-                "headline":"What a difference a year makes",
-                "text":"the nwt",
-                "asset":
-                {
-                    "media":"images/timeline/hjd-btr2.jpg",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"1/3/2012",
-                "headline":"Welcoming Chico",
-                "text":"best dog ever 2",
-                "asset":
-                {
-                    "media":"images/timeline/chico1.jpg",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2/13/2012",
-                "headline":"Welcoming Chico",
-                "text":"best dog ever 2",
-                "asset":
-                {
-                    "media":"images/timeline/chico2.jpg",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"1/3/2012",
-                "headline":"the year of skinny",
-                "text":"ggggggg ggggggg",
+                "startDate":"01/03/2012",
+                "headline":"Cocktail Break!",
+                "text":"I don't know about you, but all this lovey-dovey stuff.... Here have a Moscow Mule!",
                 "asset":
                 {
                     "media":"images/timeline/sat5.jpg",
@@ -268,9 +277,31 @@
                 }
             },
             {
-                "startDate":"4/17/2012",
-                "headline":"Cornyation",
-                "text":"ggggggg ggggggg",
+                "startDate":"01/20/2012",
+                "headline":"Welcoming Chico",
+                "text":"In January of 2012, the Donagher-Rountree household welcomed our newest member. And everyone seems happy!",
+                "asset":
+                {
+                    "media":"images/timeline/chico1.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"02/03/2012",
+                "headline":"Welcoming Chico",
+                "text":"I mean just look at him! So pretty.",
+                "asset":
+                {
+                    "media":"images/timeline/chico2.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"04/17/2012",
+                "headline":"Yes, that is me, kissing a goat head",
+                "text":"The Monterey is a an amazing restaruant with access to stellar product. This guy turned into curry. And it was good",
                 "asset":
                 {
                     "media":"images/timeline/mackin.jpg",
@@ -279,9 +310,9 @@
                 }
             },
             {
-                "startDate":"1/29/2013",
+                "startDate":"01/29/2013",
                 "headline":"Fort Meyers",
-                "text":"ggggggg ggggggg",
+                "text":"Keeping up the tradition of the Mother - Son #1 - Son #2 - Son #2's husband, annual birthday weekend",
                 "asset":
                 {
                     "media":"images/timeline/fm1.jpg",
@@ -289,43 +320,19 @@
                     "caption":""
                 }
             },
-
             {
-                "startDate":"5/5/2013",
-                "headline":"love you",
-                "text":"ggggggg ggggggg",
+                "startDate":"04/30/2013",
+                "headline":"What a difference a year makes",
+                "text":"the nwt",
                 "asset":
                 {
-                    "media":"images/timeline/hugh_69.jpg",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-
-            {
-                "startDate":"7/1/2013",
-                "headline":"headline",
-                "text":"ggggggg ggggggg",
-                "asset":
-                {
-                    "media":"images/timeline/hjd-btr.jpg",
+                    "media":"images/timeline/sat6.jpg",
                     "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"7/1/2013",
-                "headline":"headline",
-                "text":"ggggggg ggggggg",
-                "asset":
-                {
-                    "media":"images/timeline/hjd-btr2.jpg",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"10/4/2013",
+                "startDate":"10/04/2013",
                 "headline":"The Vacation of our Dreams",
                 "text":"3 weeks in spain",
                 "asset":
@@ -336,7 +343,7 @@
                 }
             },
             {
-                "startDate":"10/5/2013",
+                "startDate":"10/05/2013",
                 "headline":"Amazing views",
                 "text":"Akward Selfies, a recurring theme",
                 "asset":
@@ -347,7 +354,7 @@
                 }
             },
             {
-                "startDate":"10/8/2013",
+                "startDate":"10/08/2013",
                 "headline":"Meeting the Masters",
                 "text":"Some of the best chefs in the world",
                 "asset":
@@ -402,56 +409,12 @@
                 }
             },
             {
-                "startDate":"1/29/1997",
-                "headline":"ham marys",
-                "text":"b day",
+                "startDate":"11/05/2013",
+                "headline":"After 20 years, we still look good together",
+                "text":"There may be more of us, and it may be greyer, but we are still here, and we are still together",
                 "asset":
                 {
-                    "media":"images/timeline/1-29-1997-ham-marys.png",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"4/4/1995",
-                "headline":"drunk",
-                "text":"drunk",
-                "asset":
-                {
-                    "media":"images/timeline/4-4-95-lg.png",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"7/7/1995",
-                "headline":"sdsdsd",
-                "text":"dsdsdsdk",
-                "asset":
-                {
-                    "media":"images/timeline/7-7-1995.png",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"10/24/2004",
-                "headline":"pumpkin",
-                "text":"Overcbfdg dgfdgdt",
-                "asset":
-                {
-                    "media":"images/timeline/10-24-2004.png",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"10/20/2004",
-                "headline":"sfsdfdfsdf",
-                "text":"fds sf sdf sf sf s",
-                "asset":
-                {
-                    "media":"images/timeline/12-20-2004.png",
+                    "media":"images/timeline/hugh_69.jpg",
                     "credit":"",
                     "caption":""
                 }
