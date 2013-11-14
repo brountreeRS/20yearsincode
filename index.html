@@ -216,45 +216,10 @@
 </footer>
 
 
-<script type="text/javascript">
-    xhr = new XMLHttpRequest();
-    xhr.open("GET", "svg/places.svg", false);
-    // Following line is just to be on the safe side;
-    // not needed if your server delivers SVG with correct MIME type
-    xhr.overrideMimeType("image/svg+xml");
-    xhr.send("");
-    document.getElementById("places-map").appendChild(xhr.responseXML.documentElement);
-
-    xhr = new XMLHttpRequest();
-    xhr.open("GET", "svg/random-charts.svg", false);
-    xhr.overrideMimeType("image/svg+xml");
-    xhr.send("");
-    document.getElementById("random").appendChild(xhr.responseXML.documentElement);
-
-    xhr = new XMLHttpRequest();
-    xhr.open("GET", "svg/divorce.svg", false);
-    xhr.overrideMimeType("image/svg+xml");
-    xhr.send("");
-    document.getElementById("divorce").appendChild(xhr.responseXML.documentElement);
-
-    xhr = new XMLHttpRequest();
-    xhr.open("GET", "svg/celeb-divorces.svg", false);
-    xhr.overrideMimeType("image/svg+xml");
-    xhr.send("");
-    document.getElementById("celebs").appendChild(xhr.responseXML.documentElement);
-
-</script>
-
-
 <script src="js/jquery.min.js"></script>
-
-<script src="js/jquery.parallax-1.1.3.js"></script>
-<script src="js/jquery.localscroll-1.2.7-min.js"></script>
-<script src="js/jquery.sticky.js"></script>
-<script src="js/jquery.flexisel.js"></script>
-<script src="js/jquery.responsiveslides.min.js"></script>
+<script src="js/plugins.js"></script>
 <script src="js/d3.v3.js"></script>
-<script src="js/timeline-min.js"></script>
+<!--<script src="js/timeline-min.js"></script>-->
 
 
 <script src="js/scripts.js"></script>

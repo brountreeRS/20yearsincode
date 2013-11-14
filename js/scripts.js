@@ -1,41 +1,37 @@
 (function ($) {
     "use strict";
+    var xhr;
 
-    /* ======= CURRENT MENU ITEM ======= */
-
-    var _height,
-        pos,
-        id_slide;
-
-//    $(document).scroll(function () {
-//        pos = $(this).scrollTop();
-//        $(".slide-menu").each(function () {
-//            id_slide = $(this).attr("id");
-//            _height = $(this).css("height");
-//            if ($(this).offset().top <= pos + 100) {
-//                $(".menu li").removeAttr("id");
-//                $(".menu li").find("a[href^='#" + id_slide + "']").parent().attr("id", "current_menu_item");
-//            }
-//        });
-//    });
+    xhr = new XMLHttpRequest();
+    xhr.open("GET", "svg/places.svg", false);
+    // Following line is just to be on the safe side;
+    // not needed if your server delivers SVG with correct MIME type
+    xhr.overrideMimeType("image/svg+xml");
+    xhr.send("");
+    document.getElementById("places-map").appendChild(xhr.responseXML.documentElement);
+    xhr = new XMLHttpRequest();
+    xhr.open("GET", "svg/random-charts.svg", false);
+    xhr.overrideMimeType("image/svg+xml");
+    xhr.send("");
+    document.getElementById("random").appendChild(xhr.responseXML.documentElement);
+    xhr = new XMLHttpRequest();
+    xhr.open("GET", "svg/divorce.svg", false);
+    xhr.overrideMimeType("image/svg+xml");
+    xhr.send("");
+    document.getElementById("divorce").appendChild(xhr.responseXML.documentElement);
+    xhr = new XMLHttpRequest();
+    xhr.open("GET", "svg/celeb-divorces.svg", false);
+    xhr.overrideMimeType("image/svg+xml");
+    xhr.send("");
+    document.getElementById("celebs").appendChild(xhr.responseXML.documentElement);
 
     $(document).ready(function () {
-
-
         $(function(){
             var timeline = new VMM.Timeline();
             timeline.init("data/timeline2.json");
-
-            //$(".big-entrance").addClass('animated').addClass('fadeInDownBig');
-
-            // $('header div').toggleClass('nosee', 'see');
-            // $('header div').addClass('animated fadeInDownBig');
-
         });
 
-
         /* ======= BACK TO TOP ======= */
-
         $(window).scroll(function () {
             if ($(this).scrollTop() > 700) {
                 $('#backtop').css("opacity", 1);
@@ -43,7 +39,6 @@
                 $('#backtop').css("opacity", 0);
             }
         });
-
         $('#backtop').click(function () {
             $('body,html').animate({
                 scrollTop: 0
@@ -51,20 +46,13 @@
             return false;
         });
 
-
-
-
-
         /* ======= SCROLL ITEMS ======= */
-
         var height_menu = $("nav").css("height");
         height_menu = parseInt(height_menu, 10);
         $('.scrolling-links').localScroll({offset: {top: -height_menu}, duration: 1000});
         $('.home_bottom_arrow').localScroll({offset: {top: 0}, duration: 1000});
 
-
         /* ======= PARALLAX ======= */
-
         //.parallax(xPosition, speedFactor, outerHeight) options:
         //xPosition - Horizontal position of the element
         //inertia - speed to move relative to vertical scroll. Example: 0.1 is one tenth the speed of scrolling, 2 is twice the speed of scrolling
@@ -82,7 +70,6 @@
         /* ======= STICKY MENU ======= */
 
         $(".sticky-menu").sticky({topSpacing: 0});
-
 
         /* ======= CLIENT CAROUSEL ======= */
 
@@ -238,86 +225,52 @@ var graph = {
         {"source": 68, "target": 4, "value": 1},
         {"source": 69, "target": 4, "value": 1},
         {"source": 70, "target": 4, "value": 1},
-        {"source": 71, "target": 4, "value": 1}
+        {"source": 71, "target": 4, "value": 1},
+        {"source": 5, "target": 2, "value": 10}
     ]
-
 };
-var width = 1000,
-    height = 740;
-
-//var color = d3.scale.category20();
-
+var width = 1000, height = 740;
 var color = d3.scale.ordinal().range(["#e74c3c", "#2ecc71", "#f39c12", "#3498db", "#f1c40f"]);
-
-
 var force = d3.layout.force()
     .charge(-470)
     .linkDistance(80)
     .size([width, height]);
-
 var svg = d3.select("#force").append("svg")
     .attr("width", width)
     .attr("height", height);
-
 var drawGraph = function (graph) {
     force
         .nodes(graph.nodes)
         .links(graph.links)
         .start();
-
     var link = svg.selectAll(".link")
         .data(graph.links)
         .enter().append("line")
         .attr("class", "link")
-        .style("stroke-width", function (d) {
-            return d.value;
-        });
-
+        .style("stroke-width", function (d) {return d.value;});
     var gnodes = svg.selectAll('g.gnode')
         .data(graph.nodes)
         .enter()
         .append('g')
         .classed('gnode', true);
-
     var node = gnodes.append("circle")
         .attr("class", "node")
         .attr("r", 14)
-        .style("fill", function (d) {
-            return color(d.group);
-        })
-        .style("stroke-width", function (d) {
-            return Math.sqrt(d.value);
-        })
+        .style("fill", function (d) {return color(d.group);})
+        .style("stroke-width", function (d) {return Math.sqrt(d.value);})
         .call(force.drag);
-
     var labels = gnodes.append("text")
-        .text(function (d) {
-            return d.name;
-        })
+        .text(function (d) {return d.name;})
         .style('fill', "#f2f2f2");
 
-    //console.log(labels);
-
     force.on("tick", function () {
-        link.attr("x1", function (d) {
-            return d.source.x;
-        })
-            .attr("y1", function (d) {
-                return d.source.y;
-            })
-            .attr("x2", function (d) {
-                return d.target.x;
-            })
-            .attr("y2", function (d) {
-                return d.target.y;
-            });
-
-        gnodes.attr("transform", function (d) {
-            return 'translate(' + [d.x, d.y] + ')';
-        });
-
-
+        link.attr("x1", function (d) {return d.source.x;})
+            .attr("y1", function (d) {return d.source.y;})
+            .attr("x2", function (d) {return d.target.x;})
+            .attr("y2", function (d) {return d.target.y;});
+        gnodes.attr("transform", function (d) {return 'translate(' + [d.x, d.y] + ')';});
     });
 };
-
 drawGraph(graph);
+
+document.body.classList.add('ready');
